@@ -6,9 +6,9 @@ tschOcherstraMake(){
 
 tschOrchestraExperimentLaunch(){
     # Run TSCH-Orchestra experiment
-    cd tsch-orchestra/build/iotlab/m3 && iotlab-experiment submit -n tsch-orchestra -d 10 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab
+    cd tsch-orchestra/build/iotlab/m3 && iotlab-experiment submit -n tsch-orchestra -d 20 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab
     iotlab-experiment wait
-    id=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
+    local id=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
     echo $id
     cd ../../../..
     return $id
@@ -24,7 +24,5 @@ plotConsumption(){
 }
 
 tschOcherstraMake
-sleep 5
 id=$(tschOrchestraExperimentLaunch)
-sleep 120
 plotConsumption $id
