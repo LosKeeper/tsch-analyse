@@ -1,6 +1,7 @@
 tschOcherstraMake(){
     # Compile TSCH-Orchestra folder
-    cd tsch-orchestra && make 
+    cd tsch-orchestra && make
+    cd ..
 }
 
 tschOrchestraExperimentLaunch(){
@@ -9,6 +10,7 @@ tschOrchestraExperimentLaunch(){
     iotlab-experiment wait
     id=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
     echo $id
+    cd ../../../..
     return $id
 }
 
