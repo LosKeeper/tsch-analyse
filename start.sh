@@ -21,5 +21,7 @@ plotConsumption(){
 }
 
 tschOcherstraMake
+sleep 5
 id=$(tschOrchestraExperimentLaunch)
+sleep 120
 plotConsumption $id
