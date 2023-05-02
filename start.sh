@@ -20,6 +20,6 @@ plot-consumption(){
     plot_oml_consum -p -i $path2
 }
 
-tsch-ocherstra-make()
+tsch-ocherstra-make
 id=$(tsch-orchestra-experiment-launch)
 plot-consumption $id
