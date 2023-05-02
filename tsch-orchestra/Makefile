@@ -7,7 +7,7 @@ CONTIKI=../..
 
 TARGET = iotlab
 BOARD = m3
-ARCH_PATH=../../../arch
+ARCH_PATH=../../../../arch
 
 MAKE_MAC = MAKE_MAC_TSCH
 
