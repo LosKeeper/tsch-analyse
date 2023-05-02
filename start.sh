@@ -8,6 +8,7 @@ tschOrchestraExperimentLaunch(){
     cd tsch-orchestra/build/iotlab/m3 && iotlab-experiment submit -n tsch-orchestra -d 10 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab
     iotlab-experiment wait
     id=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
+    echo $id
     return $id
 }
 
