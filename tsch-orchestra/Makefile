@@ -3,7 +3,7 @@ all: $(CONTIKI_PROJECT)
 
 PLATFORMS_EXCLUDE = sky nrf52dk native simplelink
 
-CONTIKI=../..
+CONTIKI=../../..
 
 TARGET = iotlab
 BOARD = m3
