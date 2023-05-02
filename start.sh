@@ -23,6 +23,16 @@ plotConsumption(){
     plot_oml_consum -p -i $path2
 }
 
+plotRadio(){
+    # Get TSCH-Orchestra experiment
+    id=$1
+    path1="~/.iot-lab/$id/radio/m3_1.oml"
+    path2="~/.iot-lab/$id/radio/m3_2.oml"
+    plot_oml_radio -a -i $path1
+    plot_oml_radio -a -i $path2
+}
+
 tschOcherstraMake
 id=$(tschOrchestraExperimentLaunch)
 plotConsumption $id
+plotRadio $id
