@@ -20,18 +20,28 @@ plotConsumption(){
     # Get TSCH-Orchestra experiment
     id=$1
     path1="~/.iot-lab/$id/consumption/m3_1.oml"
+    echo "Path 1 : " $path1
     path2="~/.iot-lab/$id/consumption/m3_2.oml"
+    echo "Path 2 : " $path2
     plot_oml_consum -p -i $path1
     plot_oml_consum -p -i $path2
+    echo "Plotting consumption"
+    cat $path1
+    cat $path2
 }
 
 plotRadio(){
     # Get TSCH-Orchestra experiment
     id=$1
     path1="~/.iot-lab/$id/radio/m3_1.oml"
+    exho "Path 1 : " $path1
     path2="~/.iot-lab/$id/radio/m3_2.oml"
+    echo "Path 2 : " $path2
     plot_oml_radio -a -i $path1
     plot_oml_radio -a -i $path2
+    echo "Plotting radio"
+    cat $path1
+    cat $path2
 }
 
 tschOcherstraMake
