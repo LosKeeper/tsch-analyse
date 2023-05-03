@@ -10,7 +10,7 @@ tschOrchestraExperimentLaunch(){
     iotlab-profile addm3 -n power_monitor_sender -voltage -current -power -period 8244 -avg 4
     cd tsch-orchestra/build/iotlab/m3 && iotlab-experiment submit -n tsch-orchestra -d 10 -l strasbourg,m3,1,coordinator.iotlab,power_monitor_coord -l strasbourg,m3,2,sender.iotlab,power_monitor_sender
     iotlab-experiment wait
-    local id=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
+    id=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
     echo "Experiment launched with id : " $id
     cd ../../../..
     return $id
@@ -45,7 +45,8 @@ plotRadio(){
 }
 
 tschOcherstraMake
-expId=$(tschOrchestraExperimentLaunch)
+tschOrchestraExperimentLaunch
+expId=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
 # Wait for the experiment to be launched and finished
 sleep 120
 plotConsumption $expId
