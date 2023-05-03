@@ -50,4 +50,4 @@ expId=$(iotlab-experiment get -p | grep id | cut -d' ' -f6 | cut -d',' -f1)
 # Wait for the experiment to be launched and finished
 sleep 180
 plotConsumption $expId
-plotRadio $expId
+# plotRadio $expId
