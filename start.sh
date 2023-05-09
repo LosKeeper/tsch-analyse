@@ -4,7 +4,7 @@ tschOcherstraMake(){
     cd ..
 }
 
-tschOrchestraExperimentLaunchCoordSender(){
+tschOrchestraExperimentLaunchCoordSender1(){
     # Run TSCH-Orchestra experiment with 1 sender and 1 coordinator
     iotlab-profile addm3 -n power_monitor_coord -voltage -current -power -period 8244 -avg 4 > /dev/null
     iotlab-profile addm3 -n power_monitor_sender1 -voltage -current -power -period 8244 -avg 4 > /dev/null
