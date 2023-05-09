@@ -1,6 +1,6 @@
 CsmaMake(){
     # Compile csma folder
-    cd tcsma && make
+    cd csma && make
     cd ..
 }
 
