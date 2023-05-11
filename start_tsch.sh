@@ -28,6 +28,18 @@ tschOrchestraExperimentLaunchCoordSender1Radio(){
     return $id
 }
 
+tschOrchestraExperimentLaunchCoordSender1Log(){
+    # Run TSCH-Orchestra experiment with 1 sender and 1 coordinator
+    cd tsch-orchestra/build/iotlab/m3
+    id = $(iotlab-experiment submit -n tsch-orchestra-1send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab,log_monitor_coord -l strasbourg,m3,2,sender.iotlab,log_monitor_sender1 | grep id | cut -d' ' -f6 | cut -d',' -f1)
+    echo id =$id
+    iotlab-experiment wait -i id > /dev/null
+    serial_aggregator -i id > /dev/null
+    echo "Experiment with 1 sender and 1 coordinator launched with id for log : " $id
+    cd ../../../..
+    return $id
+}
+
 tschOrchestraExperimentLaunchCoordSender1Sniffer(){
     # Run TSCH-Orchestra experiment with 1 sender and 1 coordinator
     iotlab-profile addm3 -n sniffer_coord -sniffer -channels 11 > /dev/null
@@ -138,29 +150,5 @@ tschOrchestraExperimentLaunchCoordSender10Sniffer(){
     return $id
 }
 
-plotConsumption(){
-    # Get TSCH-Orchestra experiment
-    id=$1
-    # plot all the consumption
-    for i in {1..$2}
-    do
-        pathi=~/.iot-lab/$id/consumption/m3_$i.oml
-        plot_oml_consum -p -i $pathi
-    done
-}
-
-plotRadio(){
-    # Get TSCH-Orchestra experiment
-    id=$1
-    # plot all the radio
-    for i in {1..$2}
-    do
-        pathi=~/.iot-lab/$id/radio/m3_$i.oml
-        plot_oml_radio -a -i $pathi
-    done
-}
-
 tschOcherstraMake
-tschOrchestraExperimentLaunchCoordSender1Sniffer
-tschOrchestraExperimentLaunchCoordSender2Sniffer
-tschOrchestraExperimentLaunchCoordSender10Sniffer
+tschOrchestraExperimentLaunchCoordSender1Log

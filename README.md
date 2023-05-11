@@ -9,3 +9,12 @@ To execute the project, you need to run the following command:
 sh start_tsch.sh
 ```
 This command will run the simulation for TSCH and Orchestra.
+
+## Results
+The results are available using the following command:
+> You have to copy the `macro.sh` file into your `.bashrc` file to use the following command.
+```
+plotConsumption <ID> <Number_Of_Nodes>
+plotRadio <ID> <Number_Of_Nodes>
+```
+The `ID` is the ID of the node you want to plot the consumption. The `Number_Of_Nodes` is the number of nodes in the simulation.
