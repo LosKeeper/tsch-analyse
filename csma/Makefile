@@ -11,6 +11,5 @@ ARCH_PATH=../../../../arch
 
 include $(CONTIKI)/Makefile.dir-variables
 MODULES += $(CONTIKI_NG_SERVICES_DIR)/shell
-MODULES += $(CONTIKI_NG_SERVICES_DIR)/orchestra
 
 include $(CONTIKI)/Makefile.include
