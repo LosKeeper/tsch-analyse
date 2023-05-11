@@ -34,8 +34,8 @@ tschOrchestraExperimentLaunchCoordSender1Log(){
     id = $(iotlab-experiment submit -n tsch-orchestra-1send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab,log_monitor_coord -l strasbourg,m3,2,sender.iotlab,log_monitor_sender1 | grep id | cut -d' ' -f6 | cut -d',' -f1)
     echo id =$id
     iotlab-experiment wait -i id > /dev/null
-    serial_aggregator -i id > /dev/null
     echo "Experiment with 1 sender and 1 coordinator launched with id for log : " $id
+    serial_aggregator -i id > ~.iot-lab/$id/serial_aggregator.log
     cd ../../../..
     return $id
 }
