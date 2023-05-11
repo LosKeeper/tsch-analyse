@@ -171,5 +171,4 @@ tschOrchestraExperimentLaunchCoordSender10Sniffer(){
 }
 
 tschOcherstraMake
-tschOrchestraExperimentLaunchCoordSender2Log
 tschOrchestraExperimentLaunchCoordSender10Log
