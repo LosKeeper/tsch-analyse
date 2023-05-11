@@ -35,7 +35,7 @@ tschOrchestraExperimentLaunchCoordSender1Log(){
     iotlab-experiment wait -i $idExp > /dev/null
     echo "Experiment with 1 sender and 1 coordinator launched with id for log : " $idExp
     cd ../../../..
-    serial_aggregator -i $idExp > $idExp.log
+    serial_aggregator -i $idExp > assets/$idExp.log
     return $idExp
 }
 
@@ -62,6 +62,17 @@ tschOrchestraExperimentLaunchCoordSender2(){
     echo "Experiment with 2 senders and 1 coordinator launched with id : " $id
     cd ../../../..
     return $id
+}
+
+tschOrchestraExperimentLaunchCoordSender2Log(){
+    # Run TSCH-Orchestra experiment with 2 senders and 1 coordinator
+    cd tsch-orchestra/build/iotlab/m3
+    idExp=`iotlab-experiment submit -n tsch-orchestra-2send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab -l strasbourg,m3,3,sender.iotlab | grep "id" | cut -d' ' -f6 | cut -d' ' -f1`
+    iotlab-experiment wait -i $idExp > /dev/null
+    echo "Experiment with 2 senders and 1 coordinator launched with id for log : " $idExp
+    cd ../../../..
+    serial_aggregator -i $idExp > assets/$idExp.log
+    return $idExp
 }
 
 tschOrchestraExperimentLaunchCoordSender2Radio(){
@@ -111,6 +122,16 @@ tschOrchestraExperimentLaunchCoordSender10(){
     return $id
 }
 
+tschOrchestraExperimentLaunchCoordSender10Log(){
+    cd tsch-orchestra/build/iotlab/m3 
+    idExp=`iotlab-experiment submit -n tsch-orchestra-10send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab -l strasbourg,m3,3,sender.iotlab -l strasbourg,m3,4,sender.iotlab -l strasbourg,m3,5,sender.iotlab -l strasbourg,m3,6,sender.iotlab -l strasbourg,m3,7,sender.iotlab -l strasbourg,m3,8,sender.iotlab -l strasbourg,m3,9,sender.iotlab -l strasbourg,m3,10,sender.iotlab -l strasbourg,m3,11,sender.iotlab`
+    iotlab-experiment wait $idExp > /dev/null
+    echo "Experiment with 10 senders and 1 coordinator launched with id for log : " $idExp
+    cd ../../../..
+    serial_aggregator -i $idExp > assets/$idExp.log
+    return $idExp
+}
+
 tschOrchestraExperimentLaunchCoordSender10Radio(){
     iotlab-profile addm3 -n radio_monitor_coord -rssi -channels 11 14 -rperiod 1 -num 1 > /dev/null
     iotlab-profile addm3 -n radio_monitor_sender1 -rssi -channels 11 14 -rperiod 1 -num 1 > /dev/null
@@ -150,4 +171,5 @@ tschOrchestraExperimentLaunchCoordSender10Sniffer(){
 }
 
 tschOcherstraMake
-tschOrchestraExperimentLaunchCoordSender1Log
+tschOrchestraExperimentLaunchCoordSender2Log
+tschOrchestraExperimentLaunchCoordSender10Log
