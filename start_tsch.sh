@@ -32,7 +32,6 @@ tschOrchestraExperimentLaunchCoordSender1Log(){
     # Run TSCH-Orchestra experiment with 1 sender and 1 coordinator
     cd tsch-orchestra/build/iotlab/m3
     idExp=`iotlab-experiment submit -n tsch-orchestra-1send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab | grep "id" | cut -d' ' -f6 | cut -d' ' -f1`
-    echo $idExp
     iotlab-experiment wait -i $idExp > /dev/null
     echo "Experiment with 1 sender and 1 coordinator launched with id for log : " $idExp
     serial_aggregator -i $idExp > ~.iot-lab/$idExp/serial_aggregator.log
