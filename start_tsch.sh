@@ -124,7 +124,7 @@ tschOrchestraExperimentLaunchCoordSender10(){
 
 tschOrchestraExperimentLaunchCoordSender10Log(){
     cd tsch-orchestra/build/iotlab/m3 
-    idExp=`iotlab-experiment submit -n tsch-orchestra-10send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab -l strasbourg,m3,3,sender.iotlab -l strasbourg,m3,4,sender.iotlab -l strasbourg,m3,5,sender.iotlab -l strasbourg,m3,6,sender.iotlab -l strasbourg,m3,7,sender.iotlab -l strasbourg,m3,8,sender.iotlab -l strasbourg,m3,9,sender.iotlab -l strasbourg,m3,10,sender.iotlab -l strasbourg,m3,11,sender.iotlab`
+    idExp=`iotlab-experiment submit -n tsch-orchestra-10send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab -l strasbourg,m3,3,sender.iotlab -l strasbourg,m3,4,sender.iotlab -l strasbourg,m3,5,sender.iotlab -l strasbourg,m3,6,sender.iotlab -l strasbourg,m3,7,sender.iotlab -l strasbourg,m3,8,sender.iotlab -l strasbourg,m3,9,sender.iotlab -l strasbourg,m3,10,sender.iotlab -l strasbourg,m3,11,sender.iotlab | grep "id" | cut -d' ' -f6 | cut -d' ' -f1`
     iotlab-experiment wait $idExp > /dev/null
     echo "Experiment with 10 senders and 1 coordinator launched with id for log : " $idExp
     cd ../../../..
