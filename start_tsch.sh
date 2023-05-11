@@ -152,8 +152,8 @@ tschOrchestraExperimentLaunchCoordSender10Sniffer(){
 
 tschOcherstraMake
 cd tsch-orchestra/build/iotlab/m3
-    idExp = $(iotlab-experiment submit -n tsch-orchestra-1send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab | grep "id" | cut -d' ' -f6 | cut -d' ' -f1)
-    echo $idExp
+idExp = $(iotlab-experiment submit -n tsch-orchestra-1send-1coord-log -d 5 -l strasbourg,m3,1,coordinator.iotlab -l strasbourg,m3,2,sender.iotlab | grep "id" | cut -d' ' -f6 | cut -d' ' -f1)
+echo ${idExp}
     # iotlab-experiment wait -i id > /dev/null
     # echo "Experiment with 1 sender and 1 coordinator launched with id for log : " $id
     # serial_aggregator -i id > ~.iot-lab/$id/serial_aggregator.log
