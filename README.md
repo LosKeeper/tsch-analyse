@@ -4,11 +4,15 @@
 The goal of this project is to analyse TSCH protocol and Orchestra implementation.
 
 ## Execution
-To execute the project, you need to run the following command:
+To execute the project, you need one of the following command:
 ```
 sh start_tsch.sh
 ```
 This command will run the simulation for TSCH and Orchestra.
+```
+sh start_csma.sh
+```
+This command will run the simulation for CSMA.
 
 ## Results
 The results are available using the following command:
