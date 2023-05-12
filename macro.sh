@@ -7,7 +7,7 @@ plotConsumption(){
     # $2: number of nodes
     id=$1
     # plot all the consumption
-    for i in {1..$2}
+    for i in $(seq 1 $2)
     do
         pathi=~/.iot-lab/$id/consumption/m3_$i.oml
         plot_oml_consum -p -i $pathi
@@ -19,7 +19,7 @@ plotRadio(){
     # $2: number of nodes
     id=$1
     # plot all the radio
-    for i in {1..$2}
+    for i in $(seq 1 $2)
     do
         pathi=~/.iot-lab/$id/radio/m3_$i.oml
         plot_oml_radio -a -i $pathi

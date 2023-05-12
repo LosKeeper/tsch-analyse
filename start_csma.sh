@@ -123,6 +123,7 @@ CsmaExperimentLaunchCoordSender10Log(){
     iotlab-experiment wait -i $idExp > /dev/null
     echo "Experiment with 10 sender and 1 coordinator launched with id : " $idExp
     cd ../../../..
+    serial_aggregator -i $idExp > assets/$idExp.log
     return $idExp
 }
 
