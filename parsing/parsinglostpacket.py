@@ -39,17 +39,18 @@ xpoints=[1,2,10]
 ypointssend=[countlostpacketTSCH(369622)[1],countlostpacketTSCH(369629)[1],countlostpacketTSCH(369648)[1]]
 ypointslostpacket=[countlostpacketTSCH(369622)[0],countlostpacketTSCH(369629)[0],countlostpacketTSCH(369648)[0]]
 
+plt.figure(1,figsize=(15,10))
+plt.subplot(221)
 plt.plot(xpoints,ypointssend)
 plt.title("TSCH : Number of send packet depending on number of sender")
 plt.xlabel("Number of sender")
 plt.ylabel("Number of send packet")
-plt.show()
 
+plt.subplot(222)
 plt.plot(xpoints,ypointslostpacket)
 plt.title("TSCH : Number of lost packet depending on number of sender")
 plt.xlabel("Number of sender")
 plt.ylabel("Number of lost packet")
-plt.show()
 
 print("CSMA")
 print(countlostpacketCSMA(369653))
@@ -59,12 +60,13 @@ print(countlostpacketCSMA(369820))
 ypointssendCSMA=[countlostpacketCSMA(369653)[1],countlostpacketCSMA(369659)[1],countlostpacketCSMA(369820)[1]]
 ypointslostpacketCSMA=[countlostpacketCSMA(369653)[0],countlostpacketCSMA(369659)[0],countlostpacketCSMA(369820)[0]]
 
+plt.subplot(223)
 plt.plot(xpoints,ypointssendCSMA)
 plt.title("CSMA : Number of send packet depending on number of sender")
 plt.xlabel("Number of sender")
 plt.ylabel("Number of send packet")
-plt.show()
 
+plt.subplot(224)
 plt.plot(xpoints,ypointslostpacketCSMA)
 plt.title("CSMA : Number of lost packet depending on number of sender")
 plt.xlabel("Number of sender")
