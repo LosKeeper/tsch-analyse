@@ -1,0 +1,3082 @@
+1683823566.565701;m3-3;[WARN: CSMA      ] not for us
+1683823567.333592;m3-3;[INFO: App       ] Not reachable yet
+1683823567.363278;m3-2;[INFO: App       ] Not reachable yet
+1683823568.869328;m3-3;[WARN: CSMA      ] not for us
+1683823569.267106;m3-2;[WARN: CSMA      ] not for us
+1683823571.253311;m3-3;[WARN: CSMA      ] not for us
+1683823571.299022;m3-2;[WARN: RPL       ] found parent: fe80::a484, staying in DAG
+1683823571.301111;m3-3;[WARN: CSMA      ] not for us
+1683823572.915007;m3-2;[WARN: CSMA      ] not for us
+1683823573.333045;m3-3;[INFO: App       ] Not reachable yet
+1683823573.362891;m3-2;[INFO: App       ] Not reachable yet
+1683823574.402841;m3-2;[WARN: CSMA      ] not for us
+1683823574.596997;m3-3;[WARN: CSMA      ] not for us
+1683823574.628852;m3-3;[WARN: CSMA      ] not for us
+1683823577.908723;m3-3;[WARN: RPL       ] found parent: fe80::a484, staying in DAG
+1683823577.922436;m3-2;[WARN: CSMA      ] not for us
+1683823579.348422;m3-3;[INFO: App       ] Not reachable yet
+1683823579.362499;m3-2;[INFO: App       ] Sending request 0 to [INFO: App       ] 
+1683823579.423857;m3-1;[INFO: App       ] Received request 'hello 0' from fd00::a685
+1683823579.424077;m3-1;[INFO: App       ] sending response
+1683823579.428391;m3-3;[WARN: CSMA      ] not for us
+1683823579.442397;m3-2;[INFO: App       ] Received response 'hello 0' from fd00::a484
+1683823579.444329;m3-3;[WARN: CSMA      ] not for us
+1683823581.730384;m3-2;[WARN: CSMA      ] not for us
+1683823581.778126;m3-2;[WARN: CSMA      ] not for us
+1683823585.346094;m3-2;[WARN: CSMA      ] not for us
+1683823585.348163;m3-3;[INFO: App       ] Sending request 0 to [INFO: App       ] 
+1683823585.359307;m3-1;[INFO: App       ] Received request 'hello 0' from fd00::9787
+1683823585.359530;m3-1;[INFO: App       ] sending response
+1683823585.361964;m3-2;[INFO: App       ] Sending request 1 to [INFO: App       ] 
+1683823585.393867;m3-2;[WARN: CSMA      ] not for us
+1683823585.396000;m3-3;[INFO: App       ] Received response 'hello 0' from fd00::a484
+1683823585.423095;m3-1;[INFO: App       ] Received request 'hello 1' from fd00::a685
+1683823585.423316;m3-1;[INFO: App       ] sending response
+1683823585.427930;m3-3;[WARN: CSMA      ] not for us
+1683823585.441887;m3-2;[INFO: App       ] Received response 'hello 1' from fd00::a484
+1683823585.443909;m3-3;[WARN: CSMA      ] not for us
+1683823591.347786;m3-3;[INFO: App       ] Sending request 1 to [INFO: App       ] 
+1683823591.361800;m3-2;[INFO: App       ] Sending request 2 to [INFO: App       ] 
+1683823591.390900;m3-1;[INFO: App       ] Received request 'hello 1' from fd00::9787
+1683823591.391123;m3-1;[INFO: App       ] sending response
+1683823591.393486;m3-2;[WARN: CSMA      ] not for us
+1683823591.409448;m3-2;[WARN: CSMA      ] not for us
+1683823591.411553;m3-3;[INFO: App       ] Received response 'hello 1' from fd00::a484
+1683823591.475509;m3-3;[WARN: CSMA      ] not for us
+1683823591.486713;m3-1;[INFO: App       ] Received request 'hello 2' from fd00::a685
+1683823591.486932;m3-1;[INFO: App       ] sending response
+1683823591.537464;m3-2;[INFO: App       ] Received response 'hello 2' from fd00::a484
+1683823591.539478;m3-3;[WARN: CSMA      ] not for us
+1683823597.345424;m3-2;[WARN: CSMA      ] not for us
+1683823597.347250;m3-3;[INFO: App       ] Sending request 2 to [INFO: App       ] 
+1683823597.358364;m3-1;[INFO: App       ] Received request 'hello 2' from fd00::9787
+1683823597.358617;m3-1;[INFO: App       ] sending response
+1683823597.361181;m3-2;[INFO: App       ] Sending request 3 to [INFO: App       ] 
+1683823597.377128;m3-2;[WARN: CSMA      ] not for us
+1683823597.379072;m3-3;[INFO: App       ] Received response 'hello 2' from fd00::a484
+1683823597.379284;m3-3;[WARN: CSMA      ] not for us
+1683823597.390198;m3-1;[INFO: App       ] Received request 'hello 3' from fd00::a685
+1683823597.390451;m3-1;[INFO: App       ] sending response
+1683823597.393137;m3-2;[INFO: App       ] Received response 'hello 3' from fd00::a484
+1683823597.395008;m3-3;[WARN: CSMA      ] not for us
+1683823603.346917;m3-3;[INFO: App       ] Sending request 3 to [INFO: App       ] 
+1683823603.358137;m3-1;[INFO: App       ] Received request 'hello 3' from fd00::9787
+1683823603.358411;m3-1;[INFO: App       ] sending response
+1683823603.360810;m3-2;[WARN: CSMA      ] not for us
+1683823603.361030;m3-2;[INFO: App       ] Sending request 4 to [INFO: App       ] 
+1683823603.408759;m3-2;[WARN: CSMA      ] not for us
+1683823603.410593;m3-3;[INFO: App       ] Received response 'hello 3' from fd00::a484
+1683823603.490674;m3-3;[WARN: CSMA      ] not for us
+1683823603.490892;m3-3;[WARN: CSMA      ] not for us
+1683823603.501876;m3-1;[INFO: App       ] Received request 'hello 4' from fd00::a685
+1683823603.502100;m3-1;[INFO: App       ] sending response
+1683823603.504766;m3-2;[INFO: App       ] Received response 'hello 4' from fd00::a484
+1683823607.949780;m3-1;[WARN: CSMA      ] not for us
+1683823607.952681;m3-2;[WARN: CSMA      ] not for us
+1683823607.952899;m3-2;[WARN: CSMA      ] not for us
+1683823607.954515;m3-3;[WARN: CSMA      ] not for us
+1683823607.954834;m3-3;[WARN: CSMA      ] not for us
+1683823609.346324;m3-3;[INFO: App       ] Sending request 4 to [INFO: App       ] 
+1683823609.360524;m3-2;[INFO: App       ] Sending request 5 to [INFO: App       ] 
+1683823609.376379;m3-2;[WARN: CSMA      ] not for us
+1683823609.389630;m3-1;[INFO: App       ] Received request 'hello 4' from fd00::9787
+1683823609.389850;m3-1;[INFO: App       ] sending response
+1683823609.392331;m3-2;[WARN: CSMA      ] not for us
+1683823609.394197;m3-3;[INFO: App       ] Received response 'hello 4' from fd00::a484
+1683823609.421379;m3-1;[INFO: App       ] Received request 'hello 5' from fd00::a685
+1683823609.421600;m3-1;[INFO: App       ] sending response
+1683823609.426160;m3-3;[WARN: CSMA      ] not for us
+1683823609.456372;m3-2;[INFO: App       ] Received response 'hello 5' from fd00::a484
+1683823609.458150;m3-3;[WARN: CSMA      ] not for us
+1683823610.669509;m3-1;[WARN: CSMA      ] not for us
+1683823610.669728;m3-1;[WARN: CSMA      ] not for us
+1683823610.672415;m3-2;[WARN: CSMA      ] not for us
+1683823610.672635;m3-2;[WARN: CSMA      ] not for us
+1683823610.674268;m3-3;[WARN: CSMA      ] not for us
+1683823610.674487;m3-3;[WARN: CSMA      ] not for us
+1683823610.973362;m3-1;[WARN: CSMA      ] not for us
+1683823610.973582;m3-1;[WARN: CSMA      ] not for us
+1683823610.984474;m3-2;[WARN: CSMA      ] not for us
+1683823610.984578;m3-2;[WARN: CSMA      ] not for us
+1683823610.984644;m3-3;[WARN: CSMA      ] not for us
+1683823610.984691;m3-3;[WARN: CSMA      ] not for us
+1683823615.345961;m3-3;[INFO: App       ] Sending request 5 to [INFO: App       ] 
+1683823615.357244;m3-1;[INFO: App       ] Received request 'hello 5' from fd00::9787
+1683823615.360164;m3-2;[INFO: App       ] Sending request 6 to [INFO: App       ] 
+1683823615.360386;m3-2;[WARN: CSMA      ] not for us
+1683823615.373025;m3-1;[INFO: App       ] sending response
+1683823615.377767;m3-3;[WARN: CSMA      ] not for us
+1683823615.389004;m3-1;[INFO: App       ] Received request 'hello 6' from fd00::a685
+1683823615.389225;m3-1;[INFO: App       ] sending response
+1683823615.391984;m3-2;[INFO: App       ] Received response 'hello 6' from fd00::a484
+1683823615.393715;m3-3;[WARN: CSMA      ] not for us
+1683823615.423918;m3-2;[WARN: CSMA      ] not for us
+1683823615.425708;m3-3;[INFO: App       ] Received response 'hello 5' from fd00::a484
+1683823616.109052;m3-1;[WARN: CSMA      ] not for us
+1683823616.109268;m3-1;[WARN: CSMA      ] not for us
+1683823616.112082;m3-2;[WARN: CSMA      ] not for us
+1683823616.112288;m3-2;[WARN: CSMA      ] not for us
+1683823616.113595;m3-3;[WARN: CSMA      ] not for us
+1683823616.113780;m3-3;[WARN: CSMA      ] not for us
+1683823616.796977;m3-1;[WARN: CSMA      ] not for us
+1683823616.799918;m3-2;[WARN: CSMA      ] not for us
+1683823616.801695;m3-3;[WARN: CSMA      ] not for us
+1683823617.101054;m3-1;[WARN: CSMA      ] not for us
+1683823617.101272;m3-1;[WARN: CSMA      ] not for us
+1683823617.103866;m3-2;[WARN: CSMA      ] not for us
+1683823617.104084;m3-2;[WARN: CSMA      ] not for us
+1683823617.105772;m3-3;[WARN: CSMA      ] not for us
+1683823617.105991;m3-3;[WARN: CSMA      ] not for us
+1683823618.828970;m3-1;[WARN: CSMA      ] not for us
+1683823618.831956;m3-2;[WARN: CSMA      ] not for us
+1683823618.832175;m3-2;[WARN: CSMA      ] not for us
+1683823618.833671;m3-3;[WARN: CSMA      ] not for us
+1683823618.833888;m3-3;[WARN: CSMA      ] not for us
+1683823618.844805;m3-1;[WARN: CSMA      ] not for us
+1683823620.876739;m3-1;[WARN: CSMA      ] not for us
+1683823620.876960;m3-1;[WARN: CSMA      ] not for us
+1683823620.879829;m3-2;[WARN: CSMA      ] not for us
+1683823620.880046;m3-2;[WARN: CSMA      ] not for us
+1683823620.881460;m3-3;[WARN: CSMA      ] not for us
+1683823620.881679;m3-3;[WARN: CSMA      ] not for us
+1683823621.345455;m3-3;[INFO: App       ] Sending request 6 to [INFO: App       ] 
+1683823621.359702;m3-2;[INFO: App       ] Sending request 7 to [INFO: App       ] 
+1683823621.388726;m3-1;[INFO: App       ] Received request 'hello 6' from fd00::9787
+1683823621.388948;m3-1;[INFO: App       ] sending response
+1683823621.391540;m3-2;[WARN: CSMA      ] not for us
+1683823621.420594;m3-1;[INFO: App       ] Received request 'hello 7' from fd00::a685
+1683823621.420814;m3-1;[INFO: App       ] sending response
+1683823621.423503;m3-2;[INFO: App       ] Received response 'hello 7' from fd00::a484
+1683823621.425338;m3-3;[WARN: CSMA      ] not for us
+1683823621.425557;m3-3;[WARN: CSMA      ] not for us
+1683823621.425680;m3-3;[INFO: App       ] Received response 'hello 6' from fd00::a484
+1683823621.439456;m3-2;[WARN: CSMA      ] not for us
+1683823622.913389;m3-3;[WARN: CSMA      ] not for us
+1683823622.924652;m3-1;[WARN: CSMA      ] not for us
+1683823623.596570;m3-1;[WARN: CSMA      ] not for us
+1683823623.596830;m3-1;[WARN: CSMA      ] not for us
+1683823623.599659;m3-2;[WARN: CSMA      ] not for us
+1683823623.599876;m3-2;[WARN: CSMA      ] not for us
+1683823623.601216;m3-3;[WARN: CSMA      ] not for us
+1683823623.601430;m3-3;[WARN: CSMA      ] not for us
+1683823623.903496;m3-2;[WARN: CSMA      ] not for us
+1683823623.905102;m3-3;[WARN: CSMA      ] not for us
+1683823623.905319;m3-3;[WARN: CSMA      ] not for us
+1683823623.916413;m3-1;[WARN: CSMA      ] not for us
+1683823623.916629;m3-1;[WARN: CSMA      ] not for us
+1683823623.919399;m3-2;[WARN: CSMA      ] not for us
+1683823624.273201;m3-3;[WARN: CSMA      ] not for us
+1683823624.284466;m3-1;[WARN: CSMA      ] not for us
+1683823624.284684;m3-1;[WARN: CSMA      ] not for us
+1683823624.287578;m3-2;[WARN: CSMA      ] not for us
+1683823624.287795;m3-2;[WARN: CSMA      ] not for us
+1683823624.289071;m3-3;[WARN: CSMA      ] not for us
+1683823627.308339;m3-1;[WARN: CSMA      ] not for us
+1683823627.308582;m3-1;[WARN: CSMA      ] not for us
+1683823627.311427;m3-2;[WARN: CSMA      ] not for us
+1683823627.311642;m3-2;[WARN: CSMA      ] not for us
+1683823627.313031;m3-3;[WARN: CSMA      ] not for us
+1683823627.313247;m3-3;[WARN: CSMA      ] not for us
+1683823627.344916;m3-3;[INFO: App       ] Sending request 7 to [INFO: App       ] 
+1683823627.356182;m3-1;[WARN: CSMA      ] not for us
+1683823627.356398;m3-1;[WARN: CSMA      ] not for us
+1683823627.359310;m3-2;[WARN: CSMA      ] not for us
+1683823627.359526;m3-2;[WARN: CSMA      ] not for us
+1683823627.359648;m3-2;[INFO: App       ] Sending request 8 to [INFO: App       ] 
+1683823627.360866;m3-3;[WARN: CSMA      ] not for us
+1683823627.361082;m3-3;[WARN: CSMA      ] not for us
+1683823627.376837;m3-3;[WARN: CSMA      ] not for us
+1683823627.388162;m3-1;[INFO: App       ] Received request 'hello 8' from fd00::a685
+1683823627.388382;m3-1;[INFO: App       ] sending response
+1683823627.388504;m3-1;[INFO: App       ] Received request 'hello 7' from fd00::9787
+1683823627.388609;m3-1;[INFO: App       ] sending response
+1683823627.391201;m3-2;[WARN: CSMA      ] not for us
+1683823627.423251;m3-2;[INFO: App       ] Received response 'hello 8' from fd00::a484
+1683823627.424830;m3-3;[WARN: CSMA      ] not for us
+1683823627.439203;m3-2;[WARN: CSMA      ] not for us
+1683823627.440809;m3-3;[INFO: App       ] Received response 'hello 7' from fd00::a484
+1683823628.364298;m3-1;[WARN: CSMA      ] not for us
+1683823628.364540;m3-1;[WARN: CSMA      ] not for us
+1683823628.367194;m3-2;[WARN: CSMA      ] not for us
+1683823628.367411;m3-2;[WARN: CSMA      ] not for us
+1683823628.368855;m3-3;[WARN: CSMA      ] not for us
+1683823628.369072;m3-3;[WARN: CSMA      ] not for us
+1683823629.036036;m3-1;[WARN: CSMA      ] not for us
+1683823629.356163;m3-1;[WARN: CSMA      ] not for us
+1683823629.356379;m3-1;[WARN: CSMA      ] not for us
+1683823629.359153;m3-2;[WARN: CSMA      ] not for us
+1683823629.359369;m3-2;[WARN: CSMA      ] not for us
+1683823629.360892;m3-3;[WARN: CSMA      ] not for us
+1683823629.361107;m3-3;[WARN: CSMA      ] not for us
+1683823629.724072;m3-1;[WARN: CSMA      ] not for us
+1683823629.724300;m3-1;[WARN: CSMA      ] not for us
+1683823629.727044;m3-2;[WARN: CSMA      ] not for us
+1683823629.727259;m3-2;[WARN: CSMA      ] not for us
+1683823629.728691;m3-3;[WARN: CSMA      ] not for us
+1683823629.728907;m3-3;[WARN: CSMA      ] not for us
+1683823630.399158;m3-2;[WARN: CSMA      ] not for us
+1683823630.399376;m3-2;[WARN: CSMA      ] not for us
+1683823630.400766;m3-3;[WARN: CSMA      ] not for us
+1683823630.400982;m3-3;[WARN: CSMA      ] not for us
+1683823630.412052;m3-1;[WARN: CSMA      ] not for us
+1683823630.412267;m3-1;[WARN: CSMA      ] not for us
+1683823630.715967;m3-1;[WARN: CSMA      ] not for us
+1683823630.716194;m3-1;[WARN: CSMA      ] not for us
+1683823630.718990;m3-2;[WARN: CSMA      ] not for us
+1683823630.719204;m3-2;[WARN: CSMA      ] not for us
+1683823630.720673;m3-3;[WARN: CSMA      ] not for us
+1683823630.720889;m3-3;[WARN: CSMA      ] not for us
+1683823631.083912;m3-1;[WARN: CSMA      ] not for us
+1683823631.084128;m3-1;[WARN: CSMA      ] not for us
+1683823631.086965;m3-2;[WARN: CSMA      ] not for us
+1683823631.087182;m3-2;[WARN: CSMA      ] not for us
+1683823631.088442;m3-3;[WARN: CSMA      ] not for us
+1683823631.088657;m3-3;[WARN: CSMA      ] not for us
+1683823632.796022;m3-1;[WARN: CSMA      ] not for us
+1683823632.796273;m3-1;[WARN: CSMA      ] not for us
+1683823632.798965;m3-2;[WARN: CSMA      ] not for us
+1683823632.799182;m3-2;[WARN: CSMA      ] not for us
+1683823632.800488;m3-3;[WARN: CSMA      ] not for us
+1683823632.800705;m3-3;[WARN: CSMA      ] not for us
+1683823633.344558;m3-3;[INFO: App       ] Sending request 8 to [INFO: App       ] 
+1683823633.358961;m3-2;[INFO: App       ] Sending request 9 to [INFO: App       ] 
+1683823633.360410;m3-3;[WARN: CSMA      ] not for us
+1683823633.371841;m3-1;[INFO: App       ] Received request 'hello 9' from fd00::a685
+1683823633.372059;m3-1;[INFO: App       ] sending response
+1683823633.374839;m3-2;[INFO: App       ] Received response 'hello 9' from fd00::a484
+1683823633.376198;m3-3;[WARN: CSMA      ] not for us
+1683823633.387717;m3-1;[INFO: App       ] Received request 'hello 8' from fd00::9787
+1683823633.387937;m3-1;[INFO: App       ] sending response
+1683823633.390799;m3-2;[WARN: CSMA      ] not for us
+1683823633.406800;m3-2;[WARN: CSMA      ] not for us
+1683823633.408387;m3-3;[INFO: App       ] Received response 'hello 8' from fd00::a484
+1683823633.472371;m3-3;[WARN: CSMA      ] not for us
+1683823633.483704;m3-1;[WARN: CSMA      ] not for us
+1683823633.483921;m3-1;[WARN: CSMA      ] not for us
+1683823633.486804;m3-2;[WARN: CSMA      ] not for us
+1683823633.487019;m3-2;[WARN: CSMA      ] not for us
+1683823633.488359;m3-3;[WARN: CSMA      ] not for us
+1683823634.139863;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823634.142887;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823634.144431;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823635.851718;m3-1;[WARN: CSMA      ] not for us
+1683823635.856305;m3-3;[WARN: CSMA      ] not for us
+1683823636.523645;m3-1;[WARN: CSMA      ] not for us
+1683823636.907291;m3-1;[WARN: CSMA      ] not for us
+1683823637.134824;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823637.136262;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823637.147639;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823637.211486;m3-1;[WARN: CSMA      ] not for us
+1683823637.216085;m3-3;[WARN: CSMA      ] not for us
+1683823638.923571;m3-1;[WARN: CSMA      ] not for us
+1683823638.923795;m3-1;[WARN: CSMA      ] not for us
+1683823638.926603;m3-2;[WARN: CSMA      ] not for us
+1683823638.926821;m3-2;[WARN: CSMA      ] not for us
+1683823638.928087;m3-3;[WARN: CSMA      ] not for us
+1683823638.928303;m3-3;[WARN: CSMA      ] not for us
+1683823639.344102;m3-3;[INFO: App       ] Sending request 9 to [INFO: App       ] 
+1683823639.358586;m3-2;[INFO: App       ] Sending request 10 to [INFO: App       ] 
+1683823639.358808;m3-2;[WARN: CSMA      ] not for us
+1683823639.371405;m3-1;[INFO: App       ] Received request 'hello 9' from fd00::9787
+1683823639.371626;m3-1;[INFO: App       ] sending response
+1683823639.375960;m3-3;[WARN: CSMA      ] not for us
+1683823639.387349;m3-1;[INFO: App       ] Received request 'hello 10' from fd00::a685
+1683823639.387568;m3-1;[INFO: App       ] sending response
+1683823639.406444;m3-2;[INFO: App       ] Received response 'hello 10' from fd00::a484
+1683823639.406702;m3-2;[WARN: CSMA      ] not for us
+1683823639.406825;m3-2;[WARN: CSMA      ] not for us
+1683823639.407941;m3-3;[WARN: CSMA      ] not for us
+1683823639.408158;m3-3;[INFO: App       ] Received response 'hello 9' from fd00::a484
+1683823640.254487;m3-2;[WARN: CSMA      ] not for us
+1683823640.254774;m3-2;[WARN: CSMA      ] not for us
+1683823640.255830;m3-3;[WARN: CSMA      ] not for us
+1683823640.255975;m3-3;[WARN: CSMA      ] not for us
+1683823640.267201;m3-1;[WARN: CSMA      ] not for us
+1683823640.267332;m3-1;[WARN: CSMA      ] not for us
+1683823640.283071;m3-1;[WARN: CSMA      ] not for us
+1683823640.283188;m3-1;[WARN: CSMA      ] not for us
+1683823640.286273;m3-2;[WARN: CSMA      ] not for us
+1683823640.286396;m3-2;[WARN: CSMA      ] not for us
+1683823640.287696;m3-3;[WARN: CSMA      ] not for us
+1683823640.287814;m3-3;[WARN: CSMA      ] not for us
+1683823640.287908;m3-3;[WARN: CSMA      ] not for us
+1683823640.299029;m3-1;[WARN: CSMA      ] not for us
+1683823640.299146;m3-1;[WARN: CSMA      ] not for us
+1683823640.302182;m3-2;[WARN: CSMA      ] not for us
+1683823640.302339;m3-2;[WARN: CSMA      ] not for us
+1683823640.303613;m3-3;[WARN: CSMA      ] not for us
+1683823640.923123;m3-1;[WARN: CSMA      ] not for us
+1683823640.923275;m3-1;[WARN: CSMA      ] not for us
+1683823640.926140;m3-2;[WARN: CSMA      ] not for us
+1683823640.926291;m3-2;[WARN: CSMA      ] not for us
+1683823640.927694;m3-3;[WARN: CSMA      ] not for us
+1683823640.927813;m3-3;[WARN: CSMA      ] not for us
+1683823640.970969;m3-1;[WARN: CSMA      ] not for us
+1683823641.290987;m3-1;[WARN: CSMA      ] not for us
+1683823641.291108;m3-1;[WARN: CSMA      ] not for us
+1683823641.294250;m3-2;[WARN: CSMA      ] not for us
+1683823641.294367;m3-2;[WARN: CSMA      ] not for us
+1683823641.295638;m3-3;[WARN: CSMA      ] not for us
+1683823641.295752;m3-3;[WARN: CSMA      ] not for us
+1683823641.967746;m3-3;[WARN: CSMA      ] not for us
+1683823641.979152;m3-1;[WARN: CSMA      ] not for us
+1683823641.979370;m3-1;[WARN: CSMA      ] not for us
+1683823641.982383;m3-2;[WARN: CSMA      ] not for us
+1683823641.983722;m3-3;[WARN: CSMA      ] not for us
+1683823642.651199;m3-1;[WARN: CSMA      ] not for us
+1683823642.651418;m3-1;[WARN: CSMA      ] not for us
+1683823642.654356;m3-2;[WARN: CSMA      ] not for us
+1683823642.654613;m3-2;[WARN: CSMA      ] not for us
+1683823642.655737;m3-3;[WARN: CSMA      ] not for us
+1683823642.655953;m3-3;[WARN: CSMA      ] not for us
+1683823643.003060;m3-1;[WARN: CSMA      ] not for us
+1683823643.342378;m3-2;[WARN: CSMA      ] not for us
+1683823643.691175;m3-1;[WARN: CSMA      ] not for us
+1683823644.011115;m3-1;[WARN: CSMA      ] not for us
+1683823644.011330;m3-1;[WARN: CSMA      ] not for us
+1683823644.014158;m3-2;[WARN: CSMA      ] not for us
+1683823644.014432;m3-2;[WARN: CSMA      ] not for us
+1683823644.015776;m3-3;[WARN: CSMA      ] not for us
+1683823644.015994;m3-3;[WARN: CSMA      ] not for us
+1683823644.027046;m3-1;[WARN: CSMA      ] not for us
+1683823644.027264;m3-1;[WARN: CSMA      ] not for us
+1683823644.030089;m3-2;[WARN: CSMA      ] not for us
+1683823644.030343;m3-2;[WARN: CSMA      ] not for us
+1683823644.031664;m3-3;[WARN: CSMA      ] not for us
+1683823644.031881;m3-3;[WARN: CSMA      ] not for us
+1683823644.363055;m3-1;[WARN: CSMA      ] not for us
+1683823644.363274;m3-1;[WARN: CSMA      ] not for us
+1683823644.366272;m3-2;[WARN: CSMA      ] not for us
+1683823644.366490;m3-2;[WARN: CSMA      ] not for us
+1683823644.367598;m3-3;[WARN: CSMA      ] not for us
+1683823644.367814;m3-3;[WARN: CSMA      ] not for us
+1683823644.378948;m3-1;[WARN: CSMA      ] not for us
+1683823644.379165;m3-1;[WARN: CSMA      ] not for us
+1683823644.382128;m3-2;[WARN: CSMA      ] not for us
+1683823644.382380;m3-2;[WARN: CSMA      ] not for us
+1683823644.382503;m3-2;[WARN: CSMA      ] not for us
+1683823644.382644;m3-2;[WARN: CSMA      ] not for us
+1683823644.383382;m3-3;[WARN: CSMA      ] not for us
+1683823644.383506;m3-3;[WARN: CSMA      ] not for us
+1683823644.383600;m3-3;[WARN: CSMA      ] not for us
+1683823644.383692;m3-3;[WARN: CSMA      ] not for us
+1683823644.394902;m3-1;[WARN: CSMA      ] not for us
+1683823644.395117;m3-1;[WARN: CSMA      ] not for us
+1683823644.698916;m3-1;[WARN: CSMA      ] not for us
+1683823644.699134;m3-1;[WARN: CSMA      ] not for us
+1683823644.702101;m3-2;[WARN: CSMA      ] not for us
+1683823644.703548;m3-3;[WARN: CSMA      ] not for us
+1683823645.002910;m3-1;[WARN: CSMA      ] not for us
+1683823645.003127;m3-1;[WARN: CSMA      ] not for us
+1683823645.006059;m3-2;[WARN: CSMA      ] not for us
+1683823645.006325;m3-2;[WARN: CSMA      ] not for us
+1683823645.007495;m3-3;[WARN: CSMA      ] not for us
+1683823645.007711;m3-3;[WARN: CSMA      ] not for us
+1683823645.050915;m3-1;[WARN: CSMA      ] not for us
+1683823645.051130;m3-1;[WARN: CSMA      ] not for us
+1683823645.051253;m3-1;[WARN: CSMA      ] not for us
+1683823645.051356;m3-1;[WARN: CSMA      ] not for us
+1683823645.054087;m3-2;[WARN: CSMA      ] not for us
+1683823645.054343;m3-2;[WARN: CSMA      ] not for us
+1683823645.054466;m3-2;[WARN: CSMA      ] not for us
+1683823645.054610;m3-2;[WARN: CSMA      ] not for us
+1683823645.055273;m3-3;[WARN: CSMA      ] not for us
+1683823645.055395;m3-3;[WARN: CSMA      ] not for us
+1683823645.055489;m3-3;[WARN: CSMA      ] not for us
+1683823645.055580;m3-3;[WARN: CSMA      ] not for us
+1683823645.147107;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823645.150075;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823645.151643;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823645.343580;m3-3;[INFO: App       ] Sending request 10 to [INFO: App       ] 
+1683823645.355001;m3-1;[WARN: CSMA      ] not for us
+1683823645.355219;m3-1;[WARN: CSMA      ] not for us
+1683823645.358117;m3-2;[WARN: CSMA      ] not for us
+1683823645.358371;m3-2;[WARN: CSMA      ] not for us
+1683823645.358495;m3-2;[INFO: App       ] Sending request 11 to [INFO: App       ] 
+1683823645.358645;m3-2;[WARN: CSMA      ] not for us
+1683823645.359333;m3-3;[WARN: CSMA      ] not for us
+1683823645.359456;m3-3;[WARN: CSMA      ] not for us
+1683823645.370939;m3-1;[INFO: App       ] Received request 'hello 10' from fd00::9787
+1683823645.371159;m3-1;[INFO: App       ] sending response
+1683823645.386940;m3-1;[INFO: App       ] Received request 'hello 11' from fd00::a685
+1683823645.391428;m3-3;[WARN: CSMA      ] not for us
+1683823645.402893;m3-1;[INFO: App       ] sending response
+1683823645.405991;m3-2;[WARN: CSMA      ] not for us
+1683823645.407467;m3-3;[INFO: App       ] Received response 'hello 10' from fd00::a484
+1683823645.453953;m3-2;[INFO: App       ] Received response 'hello 11' from fd00::a484
+1683823645.455448;m3-3;[WARN: CSMA      ] not for us
+1683823645.690891;m3-1;[WARN: CSMA      ] not for us
+1683823645.691107;m3-1;[WARN: CSMA      ] not for us
+1683823645.693939;m3-2;[WARN: CSMA      ] not for us
+1683823645.694156;m3-2;[WARN: CSMA      ] not for us
+1683823645.695351;m3-3;[WARN: CSMA      ] not for us
+1683823645.695570;m3-3;[WARN: CSMA      ] not for us
+1683823646.410979;m3-1;[WARN: CSMA      ] not for us
+1683823646.411215;m3-1;[WARN: CSMA      ] not for us
+1683823646.414133;m3-2;[WARN: CSMA      ] not for us
+1683823646.414394;m3-2;[WARN: CSMA      ] not for us
+1683823646.415576;m3-3;[WARN: CSMA      ] not for us
+1683823646.415792;m3-3;[WARN: CSMA      ] not for us
+1683823646.730814;m3-1;[WARN: CSMA      ] not for us
+1683823646.733996;m3-2;[WARN: CSMA      ] not for us
+1683823646.734251;m3-2;[WARN: CSMA      ] not for us
+1683823646.735406;m3-3;[WARN: CSMA      ] not for us
+1683823646.735624;m3-3;[WARN: CSMA      ] not for us
+1683823646.746808;m3-1;[WARN: CSMA      ] not for us
+1683823647.050806;m3-1;[WARN: CSMA      ] not for us
+1683823647.051022;m3-1;[WARN: CSMA      ] not for us
+1683823647.053847;m3-2;[WARN: CSMA      ] not for us
+1683823647.054065;m3-2;[WARN: CSMA      ] not for us
+1683823647.055401;m3-3;[WARN: CSMA      ] not for us
+1683823647.055618;m3-3;[WARN: CSMA      ] not for us
+1683823647.082793;m3-1;[WARN: CSMA      ] not for us
+1683823647.726026;m3-2;[WARN: CSMA      ] not for us
+1683823647.726298;m3-2;[WARN: CSMA      ] not for us
+1683823647.727378;m3-3;[WARN: CSMA      ] not for us
+1683823647.727594;m3-3;[WARN: CSMA      ] not for us
+1683823647.738846;m3-1;[WARN: CSMA      ] not for us
+1683823647.739064;m3-1;[WARN: CSMA      ] not for us
+1683823647.770754;m3-1;[WARN: CSMA      ] not for us
+1683823647.770969;m3-1;[WARN: CSMA      ] not for us
+1683823647.773884;m3-2;[WARN: CSMA      ] not for us
+1683823647.774102;m3-2;[WARN: CSMA      ] not for us
+1683823647.775299;m3-3;[WARN: CSMA      ] not for us
+1683823647.775515;m3-3;[WARN: CSMA      ] not for us
+1683823648.093899;m3-2;[WARN: CSMA      ] not for us
+1683823648.095187;m3-3;[WARN: CSMA      ] not for us
+1683823648.095365;m3-3;[WARN: CSMA      ] not for us
+1683823648.106762;m3-1;[WARN: CSMA      ] not for us
+1683823648.106979;m3-1;[WARN: CSMA      ] not for us
+1683823648.410870;m3-1;[WARN: CSMA      ] not for us
+1683823648.411089;m3-1;[WARN: CSMA      ] not for us
+1683823648.413909;m3-2;[WARN: CSMA      ] not for us
+1683823648.414127;m3-2;[WARN: CSMA      ] not for us
+1683823648.415322;m3-3;[WARN: CSMA      ] not for us
+1683823648.415541;m3-3;[WARN: CSMA      ] not for us
+1683823648.442788;m3-1;[WARN: CSMA      ] not for us
+1683823648.445788;m3-2;[WARN: CSMA      ] not for us
+1683823648.446003;m3-2;[WARN: CSMA      ] not for us
+1683823648.447289;m3-3;[WARN: CSMA      ] not for us
+1683823648.447508;m3-3;[WARN: CSMA      ] not for us
+1683823648.458709;m3-1;[WARN: CSMA      ] not for us
+1683823648.762720;m3-1;[WARN: CSMA      ] not for us
+1683823648.762942;m3-1;[WARN: CSMA      ] not for us
+1683823648.765770;m3-2;[WARN: CSMA      ] not for us
+1683823648.765989;m3-2;[WARN: CSMA      ] not for us
+1683823648.767142;m3-3;[WARN: CSMA      ] not for us
+1683823648.767359;m3-3;[WARN: CSMA      ] not for us
+1683823648.778733;m3-1;[WARN: CSMA      ] not for us
+1683823649.453914;m3-2;[WARN: CSMA      ] not for us
+1683823649.455296;m3-3;[WARN: CSMA      ] not for us
+1683823649.455512;m3-3;[WARN: CSMA      ] not for us
+1683823649.466838;m3-1;[WARN: CSMA      ] not for us
+1683823649.467052;m3-1;[WARN: CSMA      ] not for us
+1683823649.467174;m3-1;[WARN: CSMA      ] not for us
+1683823649.467278;m3-1;[WARN: CSMA      ] not for us
+1683823649.469817;m3-2;[WARN: CSMA      ] not for us
+1683823649.470031;m3-2;[WARN: CSMA      ] not for us
+1683823649.470153;m3-2;[WARN: CSMA      ] not for us
+1683823649.471019;m3-3;[WARN: CSMA      ] not for us
+1683823649.471148;m3-3;[WARN: CSMA      ] not for us
+1683823650.826566;m3-1;[WARN: CSMA      ] not for us
+1683823650.826786;m3-1;[WARN: CSMA      ] not for us
+1683823650.829824;m3-2;[WARN: CSMA      ] not for us
+1683823650.830041;m3-2;[WARN: CSMA      ] not for us
+1683823650.831200;m3-3;[WARN: CSMA      ] not for us
+1683823650.831417;m3-3;[WARN: CSMA      ] not for us
+1683823651.130514;m3-1;[WARN: CSMA      ] not for us
+1683823651.130765;m3-1;[WARN: CSMA      ] not for us
+1683823651.133759;m3-2;[WARN: CSMA      ] not for us
+1683823651.133976;m3-2;[WARN: CSMA      ] not for us
+1683823651.135087;m3-3;[WARN: CSMA      ] not for us
+1683823651.135304;m3-3;[WARN: CSMA      ] not for us
+1683823651.343192;m3-3;[INFO: App       ] Sending request 11 to [INFO: App       ] 
+1683823651.357830;m3-2;[INFO: App       ] Sending request 12 to [INFO: App       ] 
+1683823651.386659;m3-1;[INFO: App       ] Received request 'hello 11' from fd00::9787
+1683823651.386879;m3-1;[INFO: App       ] sending response
+1683823651.389690;m3-2;[WARN: CSMA      ] not for us
+1683823651.405666;m3-2;[WARN: CSMA      ] not for us
+1683823651.407095;m3-3;[INFO: App       ] Received response 'hello 11' from fd00::a484
+1683823651.482522;m3-1;[WARN: CSMA      ] not for us
+1683823651.482774;m3-1;[WARN: CSMA      ] not for us
+1683823651.485676;m3-2;[WARN: CSMA      ] not for us
+1683823651.485893;m3-2;[WARN: CSMA      ] not for us
+1683823651.487050;m3-3;[WARN: CSMA      ] not for us
+1683823651.487266;m3-3;[WARN: CSMA      ] not for us
+1683823651.487388;m3-3;[WARN: CSMA      ] not for us
+1683823651.498477;m3-1;[INFO: App       ] Received request 'hello 12' from fd00::a685
+1683823651.498734;m3-1;[INFO: App       ] sending response
+1683823651.534921;m3-3;[WARN: CSMA      ] not for us
+1683823651.549661;m3-2;[INFO: App       ] Received response 'hello 12' from fd00::a484
+1683823651.930506;m3-1;[WARN: CSMA      ] not for us
+1683823652.842565;m3-1;[WARN: CSMA      ] not for us
+1683823652.842793;m3-1;[WARN: CSMA      ] not for us
+1683823652.845728;m3-2;[WARN: CSMA      ] not for us
+1683823652.845944;m3-2;[WARN: CSMA      ] not for us
+1683823652.847077;m3-3;[WARN: CSMA      ] not for us
+1683823652.847295;m3-3;[WARN: CSMA      ] not for us
+1683823652.858400;m3-1;[WARN: CSMA      ] not for us
+1683823652.858654;m3-1;[WARN: CSMA      ] not for us
+1683823652.861572;m3-2;[WARN: CSMA      ] not for us
+1683823652.862959;m3-3;[WARN: CSMA      ] not for us
+1683823653.546517;m3-1;[WARN: CSMA      ] not for us
+1683823653.546776;m3-1;[WARN: CSMA      ] not for us
+1683823653.549598;m3-2;[WARN: CSMA      ] not for us
+1683823653.549817;m3-2;[WARN: CSMA      ] not for us
+1683823653.550946;m3-3;[WARN: CSMA      ] not for us
+1683823653.551164;m3-3;[WARN: CSMA      ] not for us
+1683823653.850365;m3-1;[WARN: CSMA      ] not for us
+1683823653.853483;m3-2;[WARN: CSMA      ] not for us
+1683823653.866298;m3-1;[WARN: CSMA      ] not for us
+1683823653.866514;m3-1;[WARN: CSMA      ] not for us
+1683823653.869466;m3-2;[WARN: CSMA      ] not for us
+1683823653.869683;m3-2;[WARN: CSMA      ] not for us
+1683823653.870889;m3-3;[WARN: CSMA      ] not for us
+1683823653.871106;m3-3;[WARN: CSMA      ] not for us
+1683823654.218377;m3-1;[WARN: CSMA      ] not for us
+1683823654.221612;m3-2;[WARN: CSMA      ] not for us
+1683823654.221830;m3-2;[WARN: CSMA      ] not for us
+1683823654.222962;m3-3;[WARN: CSMA      ] not for us
+1683823654.223178;m3-3;[WARN: CSMA      ] not for us
+1683823654.234289;m3-1;[WARN: CSMA      ] not for us
+1683823654.538350;m3-1;[WARN: CSMA      ] not for us
+1683823654.538606;m3-1;[WARN: CSMA      ] not for us
+1683823654.541541;m3-2;[WARN: CSMA      ] not for us
+1683823654.541758;m3-2;[WARN: CSMA      ] not for us
+1683823654.542836;m3-3;[WARN: CSMA      ] not for us
+1683823654.543052;m3-3;[WARN: CSMA      ] not for us
+1683823654.554303;m3-1;[WARN: CSMA      ] not for us
+1683823654.554520;m3-1;[WARN: CSMA      ] not for us
+1683823654.557479;m3-2;[WARN: CSMA      ] not for us
+1683823654.557695;m3-2;[WARN: CSMA      ] not for us
+1683823654.558794;m3-3;[WARN: CSMA      ] not for us
+1683823654.559010;m3-3;[WARN: CSMA      ] not for us
+1683823654.570281;m3-1;[WARN: CSMA      ] not for us
+1683823654.570497;m3-1;[WARN: CSMA      ] not for us
+1683823654.573461;m3-2;[WARN: CSMA      ] not for us
+1683823654.573677;m3-2;[WARN: CSMA      ] not for us
+1683823654.574598;m3-3;[WARN: CSMA      ] not for us
+1683823654.574746;m3-3;[WARN: CSMA      ] not for us
+1683823654.906321;m3-1;[WARN: CSMA      ] not for us
+1683823654.909358;m3-2;[WARN: CSMA      ] not for us
+1683823654.909594;m3-2;[WARN: CSMA      ] not for us
+1683823654.910754;m3-3;[WARN: CSMA      ] not for us
+1683823654.910972;m3-3;[WARN: CSMA      ] not for us
+1683823655.210328;m3-1;[WARN: CSMA      ] not for us
+1683823655.210580;m3-1;[WARN: CSMA      ] not for us
+1683823655.213474;m3-2;[WARN: CSMA      ] not for us
+1683823655.213691;m3-2;[WARN: CSMA      ] not for us
+1683823655.214844;m3-3;[WARN: CSMA      ] not for us
+1683823655.215060;m3-3;[WARN: CSMA      ] not for us
+1683823657.150854;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823657.162260;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823657.165281;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823657.342783;m3-3;[INFO: App       ] Sending request 12 to [INFO: App       ] 
+1683823657.354197;m3-1;[INFO: App       ] Received request 'hello 12' from fd00::9787
+1683823657.354473;m3-1;[INFO: App       ] sending response
+1683823657.357416;m3-2;[WARN: CSMA      ] not for us
+1683823657.357633;m3-2;[WARN: CSMA      ] not for us
+1683823657.357754;m3-2;[INFO: App       ] Sending request 13 to [INFO: App       ] 
+1683823657.358461;m3-3;[INFO: App       ] Received response 'hello 12' from fd00::a484
+1683823657.418082;m3-1;[INFO: App       ] Received request 'hello 13' from fd00::a685
+1683823657.418375;m3-1;[INFO: App       ] sending response
+1683823657.432692;m3-3;[WARN: CSMA      ] not for us
+1683823657.437277;m3-2;[INFO: App       ] Received response 'hello 13' from fd00::a484
+1683823657.438356;m3-3;[WARN: CSMA      ] not for us
+1683823657.962118;m3-1;[WARN: CSMA      ] not for us
+1683823657.962372;m3-1;[WARN: CSMA      ] not for us
+1683823657.965172;m3-2;[WARN: CSMA      ] not for us
+1683823657.965388;m3-2;[WARN: CSMA      ] not for us
+1683823657.966527;m3-3;[WARN: CSMA      ] not for us
+1683823657.966775;m3-3;[WARN: CSMA      ] not for us
+1683823658.986104;m3-1;[WARN: CSMA      ] not for us
+1683823658.986385;m3-1;[WARN: CSMA      ] not for us
+1683823658.989304;m3-2;[WARN: CSMA      ] not for us
+1683823658.990494;m3-3;[WARN: CSMA      ] not for us
+1683823659.662483;m3-3;[WARN: CSMA      ] not for us
+1683823659.674083;m3-1;[WARN: CSMA      ] not for us
+1683823659.674369;m3-1;[WARN: CSMA      ] not for us
+1683823659.674496;m3-1;[WARN: CSMA      ] not for us
+1683823659.677175;m3-2;[WARN: CSMA      ] not for us
+1683823659.677393;m3-2;[WARN: CSMA      ] not for us
+1683823659.677513;m3-2;[WARN: CSMA      ] not for us
+1683823659.678285;m3-3;[WARN: CSMA      ] not for us
+1683823659.678416;m3-3;[WARN: CSMA      ] not for us
+1683823659.678515;m3-3;[WARN: CSMA      ] not for us
+1683823659.977863;m3-1;[WARN: CSMA      ] not for us
+1683823659.978079;m3-1;[WARN: CSMA      ] not for us
+1683823659.981052;m3-2;[WARN: CSMA      ] not for us
+1683823659.981270;m3-2;[WARN: CSMA      ] not for us
+1683823659.982403;m3-3;[WARN: CSMA      ] not for us
+1683823659.993804;m3-1;[WARN: CSMA      ] not for us
+1683823659.994023;m3-1;[WARN: CSMA      ] not for us
+1683823659.997072;m3-2;[WARN: CSMA      ] not for us
+1683823659.997289;m3-2;[WARN: CSMA      ] not for us
+1683823659.998375;m3-3;[WARN: CSMA      ] not for us
+1683823659.998626;m3-3;[WARN: CSMA      ] not for us
+1683823660.013026;m3-2;[WARN: CSMA      ] not for us
+1683823660.014349;m3-3;[WARN: CSMA      ] not for us
+1683823660.014605;m3-3;[WARN: CSMA      ] not for us
+1683823660.025772;m3-1;[WARN: CSMA      ] not for us
+1683823660.025990;m3-1;[WARN: CSMA      ] not for us
+1683823660.029002;m3-2;[WARN: CSMA      ] not for us
+1683823660.345934;m3-1;[WARN: CSMA      ] not for us
+1683823660.346151;m3-1;[WARN: CSMA      ] not for us
+1683823660.349171;m3-2;[WARN: CSMA      ] not for us
+1683823660.349389;m3-2;[WARN: CSMA      ] not for us
+1683823660.350510;m3-3;[WARN: CSMA      ] not for us
+1683823660.361835;m3-1;[WARN: CSMA      ] not for us
+1683823660.362052;m3-1;[WARN: CSMA      ] not for us
+1683823660.365056;m3-2;[WARN: CSMA      ] not for us
+1683823660.365274;m3-2;[WARN: CSMA      ] not for us
+1683823660.366120;m3-3;[WARN: CSMA      ] not for us
+1683823660.366305;m3-3;[WARN: CSMA      ] not for us
+1683823661.033829;m3-1;[WARN: CSMA      ] not for us
+1683823661.034047;m3-1;[WARN: CSMA      ] not for us
+1683823661.037168;m3-2;[WARN: CSMA      ] not for us
+1683823661.037382;m3-2;[WARN: CSMA      ] not for us
+1683823661.038096;m3-3;[WARN: CSMA      ] not for us
+1683823661.038264;m3-3;[WARN: CSMA      ] not for us
+1683823661.353940;m3-1;[WARN: CSMA      ] not for us
+1683823661.357111;m3-2;[WARN: CSMA      ] not for us
+1683823661.357326;m3-2;[WARN: CSMA      ] not for us
+1683823661.358387;m3-3;[WARN: CSMA      ] not for us
+1683823661.358720;m3-3;[WARN: CSMA      ] not for us
+1683823661.369844;m3-1;[WARN: CSMA      ] not for us
+1683823663.342313;m3-3;[INFO: App       ] Sending request 13 to [INFO: App       ] 
+1683823663.357029;m3-2;[INFO: App       ] Sending request 14 to [INFO: App       ] 
+1683823663.390124;m3-3;[WARN: CSMA      ] not for us
+1683823663.401685;m3-1;[INFO: App       ] Received request 'hello 14' from fd00::a685
+1683823663.401904;m3-1;[INFO: App       ] sending response
+1683823663.402026;m3-1;[INFO: App       ] Received request 'hello 13' from fd00::9787
+1683823663.402133;m3-1;[INFO: App       ] sending response
+1683823663.404896;m3-2;[WARN: CSMA      ] not for us
+1683823663.405111;m3-2;[WARN: CSMA      ] not for us
+1683823663.405861;m3-3;[INFO: App       ] Received response 'hello 13' from fd00::a484
+1683823663.405999;m3-3;[WARN: CSMA      ] not for us
+1683823663.420833;m3-2;[INFO: App       ] Received response 'hello 14' from fd00::a484
+1683823664.761659;m3-1;[WARN: CSMA      ] not for us
+1683823664.761887;m3-1;[WARN: CSMA      ] not for us
+1683823664.764943;m3-2;[WARN: CSMA      ] not for us
+1683823664.765160;m3-2;[WARN: CSMA      ] not for us
+1683823664.766297;m3-3;[WARN: CSMA      ] not for us
+1683823664.766517;m3-3;[WARN: CSMA      ] not for us
+1683823665.113590;m3-1;[WARN: CSMA      ] not for us
+1683823665.116814;m3-2;[WARN: CSMA      ] not for us
+1683823665.117031;m3-2;[WARN: CSMA      ] not for us
+1683823665.117798;m3-3;[WARN: CSMA      ] not for us
+1683823665.449628;m3-1;[WARN: CSMA      ] not for us
+1683823665.449845;m3-1;[WARN: CSMA      ] not for us
+1683823665.452916;m3-2;[WARN: CSMA      ] not for us
+1683823665.453132;m3-2;[WARN: CSMA      ] not for us
+1683823665.453902;m3-3;[WARN: CSMA      ] not for us
+1683823665.454035;m3-3;[WARN: CSMA      ] not for us
+1683823665.788795;m3-2;[WARN: CSMA      ] not for us
+1683823665.790006;m3-3;[WARN: CSMA      ] not for us
+1683823665.790263;m3-3;[WARN: CSMA      ] not for us
+1683823665.801531;m3-1;[WARN: CSMA      ] not for us
+1683823666.105544;m3-1;[WARN: CSMA      ] not for us
+1683823666.105761;m3-1;[WARN: CSMA      ] not for us
+1683823666.108736;m3-2;[WARN: CSMA      ] not for us
+1683823666.108953;m3-2;[WARN: CSMA      ] not for us
+1683823666.110011;m3-3;[WARN: CSMA      ] not for us
+1683823666.110262;m3-3;[WARN: CSMA      ] not for us
+1683823666.137381;m3-1;[WARN: CSMA      ] not for us
+1683823666.137598;m3-1;[WARN: CSMA      ] not for us
+1683823666.140661;m3-2;[WARN: CSMA      ] not for us
+1683823666.140877;m3-2;[WARN: CSMA      ] not for us
+1683823666.141963;m3-3;[WARN: CSMA      ] not for us
+1683823666.142181;m3-3;[WARN: CSMA      ] not for us
+1683823666.473507;m3-1;[WARN: CSMA      ] not for us
+1683823666.476784;m3-2;[WARN: CSMA      ] not for us
+1683823667.148690;m3-2;[WARN: CSMA      ] not for us
+1683823667.150074;m3-3;[WARN: CSMA      ] not for us
+1683823667.150330;m3-3;[WARN: CSMA      ] not for us
+1683823667.161473;m3-1;[WARN: CSMA      ] not for us
+1683823667.161689;m3-1;[WARN: CSMA      ] not for us
+1683823667.164639;m3-2;[WARN: CSMA      ] not for us
+1683823667.465573;m3-1;[WARN: CSMA      ] not for us
+1683823667.465789;m3-1;[WARN: CSMA      ] not for us
+1683823667.468681;m3-2;[WARN: CSMA      ] not for us
+1683823667.468898;m3-2;[WARN: CSMA      ] not for us
+1683823667.470000;m3-3;[WARN: CSMA      ] not for us
+1683823667.470252;m3-3;[WARN: CSMA      ] not for us
+1683823667.481433;m3-1;[WARN: CSMA      ] not for us
+1683823667.484552;m3-2;[WARN: CSMA      ] not for us
+1683823667.485850;m3-3;[WARN: CSMA      ] not for us
+1683823668.169353;m3-1;[WARN: CSMA      ] not for us
+1683823668.169574;m3-1;[WARN: CSMA      ] not for us
+1683823668.169695;m3-1;[WARN: CSMA      ] not for us
+1683823668.172596;m3-2;[WARN: CSMA      ] not for us
+1683823668.172812;m3-2;[WARN: CSMA      ] not for us
+1683823668.173619;m3-3;[WARN: CSMA      ] not for us
+1683823668.173754;m3-3;[WARN: CSMA      ] not for us
+1683823668.173855;m3-3;[WARN: CSMA      ] not for us
+1683823668.173949;m3-3;[WARN: CSMA      ] not for us
+1683823668.185265;m3-1;[WARN: CSMA      ] not for us
+1683823669.341783;m3-3;[INFO: App       ] Sending request 14 to [INFO: App       ] 
+1683823669.356609;m3-2;[INFO: App       ] Sending request 15 to [INFO: App       ] 
+1683823669.388466;m3-2;[WARN: CSMA      ] not for us
+1683823669.401211;m3-1;[INFO: App       ] Received request 'hello 14' from fd00::9787
+1683823669.401429;m3-1;[INFO: App       ] sending response
+1683823669.405655;m3-3;[WARN: CSMA      ] not for us
+1683823669.417172;m3-1;[INFO: App       ] Received request 'hello 15' from fd00::a685
+1683823669.417390;m3-1;[INFO: App       ] sending response
+1683823669.436436;m3-2;[INFO: App       ] Received response 'hello 15' from fd00::a484
+1683823669.437592;m3-3;[WARN: CSMA      ] not for us
+1683823669.452411;m3-2;[WARN: CSMA      ] not for us
+1683823669.452625;m3-2;[WARN: CSMA      ] not for us
+1683823669.453417;m3-3;[INFO: App       ] Received response 'hello 14' from fd00::a484
+1683823670.185232;m3-1;[WARN: CSMA      ] not for us
+1683823670.185447;m3-1;[WARN: CSMA      ] not for us
+1683823670.188481;m3-2;[WARN: CSMA      ] not for us
+1683823670.188699;m3-2;[WARN: CSMA      ] not for us
+1683823670.189517;m3-3;[WARN: CSMA      ] not for us
+1683823670.189654;m3-3;[WARN: CSMA      ] not for us
+1683823670.204443;m3-2;[WARN: CSMA      ] not for us
+1683823670.204659;m3-2;[WARN: CSMA      ] not for us
+1683823670.205733;m3-3;[WARN: CSMA      ] not for us
+1683823670.205949;m3-3;[WARN: CSMA      ] not for us
+1683823670.217299;m3-1;[WARN: CSMA      ] not for us
+1683823670.217514;m3-1;[WARN: CSMA      ] not for us
+1683823670.537239;m3-1;[WARN: CSMA      ] not for us
+1683823670.537455;m3-1;[WARN: CSMA      ] not for us
+1683823670.540578;m3-2;[WARN: CSMA      ] not for us
+1683823670.540793;m3-2;[WARN: CSMA      ] not for us
+1683823670.541505;m3-3;[WARN: CSMA      ] not for us
+1683823670.541642;m3-3;[WARN: CSMA      ] not for us
+1683823670.553181;m3-1;[WARN: CSMA      ] not for us
+1683823670.556460;m3-2;[WARN: CSMA      ] not for us
+1683823670.556676;m3-2;[WARN: CSMA      ] not for us
+1683823670.557441;m3-3;[WARN: CSMA      ] not for us
+1683823670.557574;m3-3;[WARN: CSMA      ] not for us
+1683823670.569151;m3-1;[WARN: CSMA      ] not for us
+1683823670.873051;m3-1;[WARN: CSMA      ] not for us
+1683823670.873266;m3-1;[WARN: CSMA      ] not for us
+1683823670.876331;m3-2;[WARN: CSMA      ] not for us
+1683823670.876547;m3-2;[WARN: CSMA      ] not for us
+1683823670.877328;m3-3;[WARN: CSMA      ] not for us
+1683823670.877463;m3-3;[WARN: CSMA      ] not for us
+1683823670.889029;m3-1;[WARN: CSMA      ] not for us
+1683823670.892310;m3-2;[WARN: CSMA      ] not for us
+1683823670.893460;m3-3;[WARN: CSMA      ] not for us
+1683823670.905027;m3-1;[WARN: CSMA      ] not for us
+1683823670.908265;m3-2;[WARN: CSMA      ] not for us
+1683823670.909437;m3-3;[WARN: CSMA      ] not for us
+1683823671.164374;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823671.165313;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823671.177024;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823671.241148;m3-1;[WARN: CSMA      ] not for us
+1683823671.241366;m3-1;[WARN: CSMA      ] not for us
+1683823671.244479;m3-2;[WARN: CSMA      ] not for us
+1683823671.244695;m3-2;[WARN: CSMA      ] not for us
+1683823671.245451;m3-3;[WARN: CSMA      ] not for us
+1683823671.245587;m3-3;[WARN: CSMA      ] not for us
+1683823671.593095;m3-1;[WARN: CSMA      ] not for us
+1683823671.596398;m3-2;[WARN: CSMA      ] not for us
+1683823671.597578;m3-3;[WARN: CSMA      ] not for us
+1683823671.916353;m3-2;[WARN: CSMA      ] not for us
+1683823671.916569;m3-2;[WARN: CSMA      ] not for us
+1683823671.917346;m3-3;[WARN: CSMA      ] not for us
+1683823671.929118;m3-1;[WARN: CSMA      ] not for us
+1683823672.233252;m3-1;[WARN: CSMA      ] not for us
+1683823672.233470;m3-1;[WARN: CSMA      ] not for us
+1683823672.236362;m3-2;[WARN: CSMA      ] not for us
+1683823672.237516;m3-3;[WARN: CSMA      ] not for us
+1683823672.249102;m3-1;[WARN: CSMA      ] not for us
+1683823672.249319;m3-1;[WARN: CSMA      ] not for us
+1683823672.252259;m3-2;[WARN: CSMA      ] not for us
+1683823672.252475;m3-2;[WARN: CSMA      ] not for us
+1683823672.253238;m3-3;[WARN: CSMA      ] not for us
+1683823672.253372;m3-3;[WARN: CSMA      ] not for us
+1683823672.265053;m3-1;[WARN: CSMA      ] not for us
+1683823672.268209;m3-2;[WARN: CSMA      ] not for us
+1683823672.269367;m3-3;[WARN: CSMA      ] not for us
+1683823672.601007;m3-1;[WARN: CSMA      ] not for us
+1683823672.601226;m3-1;[WARN: CSMA      ] not for us
+1683823672.604262;m3-2;[WARN: CSMA      ] not for us
+1683823672.604477;m3-2;[WARN: CSMA      ] not for us
+1683823672.605236;m3-3;[WARN: CSMA      ] not for us
+1683823672.952996;m3-1;[WARN: CSMA      ] not for us
+1683823672.953237;m3-1;[WARN: CSMA      ] not for us
+1683823672.956250;m3-2;[WARN: CSMA      ] not for us
+1683823672.956467;m3-2;[WARN: CSMA      ] not for us
+1683823672.957157;m3-3;[WARN: CSMA      ] not for us
+1683823672.957292;m3-3;[WARN: CSMA      ] not for us
+1683823673.276373;m3-2;[WARN: CSMA      ] not for us
+1683823673.276592;m3-2;[WARN: CSMA      ] not for us
+1683823673.277485;m3-3;[WARN: CSMA      ] not for us
+1683823673.277702;m3-3;[WARN: CSMA      ] not for us
+1683823673.288987;m3-1;[WARN: CSMA      ] not for us
+1683823673.289202;m3-1;[WARN: CSMA      ] not for us
+1683823673.289322;m3-1;[WARN: CSMA      ] not for us
+1683823673.289425;m3-1;[WARN: CSMA      ] not for us
+1683823673.292254;m3-2;[WARN: CSMA      ] not for us
+1683823673.292471;m3-2;[WARN: CSMA      ] not for us
+1683823673.293400;m3-3;[WARN: CSMA      ] not for us
+1683823673.293617;m3-3;[WARN: CSMA      ] not for us
+1683823673.304937;m3-1;[WARN: CSMA      ] not for us
+1683823673.305153;m3-1;[WARN: CSMA      ] not for us
+1683823673.308230;m3-2;[WARN: CSMA      ] not for us
+1683823673.308448;m3-2;[WARN: CSMA      ] not for us
+1683823673.309199;m3-3;[WARN: CSMA      ] not for us
+1683823673.309331;m3-3;[WARN: CSMA      ] not for us
+1683823673.609010;m3-1;[WARN: CSMA      ] not for us
+1683823673.609236;m3-1;[WARN: CSMA      ] not for us
+1683823673.612293;m3-2;[WARN: CSMA      ] not for us
+1683823673.612511;m3-2;[WARN: CSMA      ] not for us
+1683823673.613267;m3-3;[WARN: CSMA      ] not for us
+1683823673.613404;m3-3;[WARN: CSMA      ] not for us
+1683823673.960800;m3-1;[WARN: CSMA      ] not for us
+1683823673.961017;m3-1;[WARN: CSMA      ] not for us
+1683823673.964125;m3-2;[WARN: CSMA      ] not for us
+1683823673.964343;m3-2;[WARN: CSMA      ] not for us
+1683823673.965316;m3-3;[WARN: CSMA      ] not for us
+1683823673.965534;m3-3;[WARN: CSMA      ] not for us
+1683823674.268271;m3-2;[WARN: CSMA      ] not for us
+1683823674.268492;m3-2;[WARN: CSMA      ] not for us
+1683823674.269252;m3-3;[WARN: CSMA      ] not for us
+1683823674.269384;m3-3;[WARN: CSMA      ] not for us
+1683823674.280974;m3-1;[WARN: CSMA      ] not for us
+1683823674.281190;m3-1;[WARN: CSMA      ] not for us
+1683823674.968927;m3-1;[WARN: CSMA      ] not for us
+1683823674.969145;m3-1;[WARN: CSMA      ] not for us
+1683823674.972197;m3-2;[WARN: CSMA      ] not for us
+1683823674.972415;m3-2;[WARN: CSMA      ] not for us
+1683823674.973191;m3-3;[WARN: CSMA      ] not for us
+1683823675.341321;m3-3;[INFO: App       ] Sending request 15 to [INFO: App       ] 
+1683823675.356295;m3-2;[INFO: App       ] Sending request 16 to [INFO: App       ] 
+1683823675.369006;m3-1;[INFO: App       ] Received request 'hello 15' from fd00::9787
+1683823675.369225;m3-1;[INFO: App       ] sending response
+1683823675.372168;m3-2;[WARN: CSMA      ] not for us
+1683823675.388126;m3-2;[WARN: CSMA      ] not for us
+1683823675.389187;m3-3;[INFO: App       ] Received response 'hello 15' from fd00::a484
+1683823675.400877;m3-1;[INFO: App       ] Received request 'hello 16' from fd00::a685
+1683823675.401098;m3-1;[INFO: App       ] sending response
+1683823675.405146;m3-3;[WARN: CSMA      ] not for us
+1683823675.435995;m3-2;[INFO: App       ] Received response 'hello 16' from fd00::a484
+1683823675.436985;m3-3;[WARN: CSMA      ] not for us
+1683823676.988199;m3-2;[WARN: CSMA      ] not for us
+1683823676.989175;m3-3;[WARN: CSMA      ] not for us
+1683823676.989394;m3-3;[WARN: CSMA      ] not for us
+1683823677.000891;m3-1;[WARN: CSMA      ] not for us
+1683823677.001107;m3-1;[WARN: CSMA      ] not for us
+1683823677.003940;m3-2;[WARN: CSMA      ] not for us
+1683823677.016612;m3-1;[WARN: CSMA      ] not for us
+1683823677.019912;m3-2;[WARN: CSMA      ] not for us
+1683823677.032579;m3-1;[WARN: CSMA      ] not for us
+1683823677.032799;m3-1;[WARN: CSMA      ] not for us
+1683823677.035890;m3-2;[WARN: CSMA      ] not for us
+1683823677.036108;m3-2;[WARN: CSMA      ] not for us
+1683823677.036908;m3-3;[WARN: CSMA      ] not for us
+1683823677.037045;m3-3;[WARN: CSMA      ] not for us
+1683823677.368764;m3-1;[WARN: CSMA      ] not for us
+1683823677.368997;m3-1;[WARN: CSMA      ] not for us
+1683823677.372080;m3-2;[WARN: CSMA      ] not for us
+1683823677.372293;m3-2;[WARN: CSMA      ] not for us
+1683823677.372892;m3-3;[WARN: CSMA      ] not for us
+1683823677.373021;m3-3;[WARN: CSMA      ] not for us
+1683823677.672654;m3-1;[WARN: CSMA      ] not for us
+1683823677.672867;m3-1;[WARN: CSMA      ] not for us
+1683823677.675949;m3-2;[WARN: CSMA      ] not for us
+1683823677.676162;m3-2;[WARN: CSMA      ] not for us
+1683823677.676877;m3-3;[WARN: CSMA      ] not for us
+1683823677.677009;m3-3;[WARN: CSMA      ] not for us
+1683823677.688613;m3-1;[WARN: CSMA      ] not for us
+1683823677.691983;m3-2;[WARN: CSMA      ] not for us
+1683823677.692196;m3-2;[WARN: CSMA      ] not for us
+1683823677.692863;m3-3;[WARN: CSMA      ] not for us
+1683823677.692995;m3-3;[WARN: CSMA      ] not for us
+1683823677.704586;m3-1;[WARN: CSMA      ] not for us
+1683823678.040628;m3-1;[WARN: CSMA      ] not for us
+1683823678.040840;m3-1;[WARN: CSMA      ] not for us
+1683823678.043953;m3-2;[WARN: CSMA      ] not for us
+1683823678.044166;m3-2;[WARN: CSMA      ] not for us
+1683823678.046443;m3-3;[WARN: CSMA      ] not for us
+1683823678.046751;m3-3;[WARN: CSMA      ] not for us
+1683823678.360777;m3-1;[WARN: CSMA      ] not for us
+1683823678.360995;m3-1;[WARN: CSMA      ] not for us
+1683823678.364069;m3-2;[WARN: CSMA      ] not for us
+1683823678.364772;m3-3;[WARN: CSMA      ] not for us
+1683823678.376682;m3-1;[WARN: CSMA      ] not for us
+1683823678.380919;m3-3;[WARN: CSMA      ] not for us
+1683823678.699855;m3-2;[WARN: CSMA      ] not for us
+1683823678.700067;m3-2;[WARN: CSMA      ] not for us
+1683823678.700748;m3-3;[WARN: CSMA      ] not for us
+1683823678.700880;m3-3;[WARN: CSMA      ] not for us
+1683823678.712523;m3-1;[WARN: CSMA      ] not for us
+1683823678.712738;m3-1;[WARN: CSMA      ] not for us
+1683823678.728492;m3-1;[WARN: CSMA      ] not for us
+1683823678.728703;m3-1;[WARN: CSMA      ] not for us
+1683823678.728822;m3-1;[WARN: CSMA      ] not for us
+1683823678.731901;m3-2;[WARN: CSMA      ] not for us
+1683823678.732113;m3-2;[WARN: CSMA      ] not for us
+1683823678.732232;m3-2;[WARN: CSMA      ] not for us
+1683823678.732332;m3-2;[WARN: CSMA      ] not for us
+1683823678.732749;m3-3;[WARN: CSMA      ] not for us
+1683823678.732867;m3-3;[WARN: CSMA      ] not for us
+1683823678.732961;m3-3;[WARN: CSMA      ] not for us
+1683823678.733051;m3-3;[WARN: CSMA      ] not for us
+1683823678.744467;m3-1;[WARN: CSMA      ] not for us
+1683823679.048450;m3-1;[WARN: CSMA      ] not for us
+1683823679.052920;m3-3;[WARN: CSMA      ] not for us
+1683823679.053133;m3-3;[WARN: CSMA      ] not for us
+1683823679.064473;m3-1;[WARN: CSMA      ] not for us
+1683823679.400609;m3-1;[WARN: CSMA      ] not for us
+1683823679.403953;m3-2;[WARN: CSMA      ] not for us
+1683823679.404167;m3-2;[WARN: CSMA      ] not for us
+1683823679.404883;m3-3;[WARN: CSMA      ] not for us
+1683823679.405012;m3-3;[WARN: CSMA      ] not for us
+1683823679.416515;m3-1;[WARN: CSMA      ] not for us
+1683823679.740902;m3-3;[WARN: CSMA      ] not for us
+1683823679.741115;m3-3;[WARN: CSMA      ] not for us
+1683823681.339840;m3-2;[WARN: CSMA      ] not for us
+1683823681.340731;m3-3;[INFO: App       ] Sending request 16 to [INFO: App       ] 
+1683823681.352581;m3-1;[INFO: App       ] Received request 'hello 16' from fd00::9787
+1683823681.352797;m3-1;[INFO: App       ] sending response
+1683823681.355771;m3-2;[INFO: App       ] Sending request 17 to [INFO: App       ] 
+1683823681.371748;m3-2;[WARN: CSMA      ] not for us
+1683823681.372577;m3-3;[INFO: App       ] Received response 'hello 16' from fd00::a484
+1683823681.420521;m3-3;[WARN: CSMA      ] not for us
+1683823681.432197;m3-1;[INFO: App       ] Received request 'hello 17' from fd00::a685
+1683823681.432351;m3-1;[INFO: App       ] sending response
+1683823681.467704;m3-2;[INFO: App       ] Received response 'hello 17' from fd00::a484
+1683823681.468526;m3-3;[WARN: CSMA      ] not for us
+1683823682.808417;m3-1;[WARN: CSMA      ] not for us
+1683823682.808639;m3-1;[WARN: CSMA      ] not for us
+1683823682.811913;m3-2;[WARN: CSMA      ] not for us
+1683823682.812126;m3-2;[WARN: CSMA      ] not for us
+1683823682.812654;m3-3;[WARN: CSMA      ] not for us
+1683823682.812782;m3-3;[WARN: CSMA      ] not for us
+1683823682.812882;m3-3;[WARN: CSMA      ] not for us
+1683823682.824324;m3-1;[WARN: CSMA      ] not for us
+1683823682.824536;m3-1;[WARN: CSMA      ] not for us
+1683823682.827651;m3-2;[WARN: CSMA      ] not for us
+1683823682.827864;m3-2;[WARN: CSMA      ] not for us
+1683823682.828455;m3-3;[WARN: CSMA      ] not for us
+1683823683.115625;m3-2;[WARN: CSMA      ] not for us
+1683823683.116364;m3-3;[WARN: CSMA      ] not for us
+1683823683.128255;m3-1;[WARN: CSMA      ] not for us
+1683823683.132579;m3-3;[WARN: CSMA      ] not for us
+1683823683.144271;m3-1;[WARN: CSMA      ] not for us
+1683823683.144482;m3-1;[WARN: CSMA      ] not for us
+1683823683.147602;m3-2;[WARN: CSMA      ] not for us
+1683823683.147815;m3-2;[WARN: CSMA      ] not for us
+1683823683.148413;m3-3;[WARN: CSMA      ] not for us
+1683823683.820779;m3-3;[WARN: CSMA      ] not for us
+1683823683.821014;m3-3;[WARN: CSMA      ] not for us
+1683823684.168343;m3-1;[WARN: CSMA      ] not for us
+1683823684.171663;m3-2;[WARN: CSMA      ] not for us
+1683823684.844623;m3-3;[WARN: CSMA      ] not for us
+1683823684.856219;m3-1;[WARN: CSMA      ] not for us
+1683823684.859542;m3-2;[WARN: CSMA      ] not for us
+1683823685.528207;m3-1;[WARN: CSMA      ] not for us
+1683823685.528421;m3-1;[WARN: CSMA      ] not for us
+1683823685.531539;m3-2;[WARN: CSMA      ] not for us
+1683823685.531752;m3-2;[WARN: CSMA      ] not for us
+1683823685.532402;m3-3;[WARN: CSMA      ] not for us
+1683823685.532545;m3-3;[WARN: CSMA      ] not for us
+1683823685.544098;m3-1;[WARN: CSMA      ] not for us
+1683823685.544312;m3-1;[WARN: CSMA      ] not for us
+1683823685.547437;m3-2;[WARN: CSMA      ] not for us
+1683823685.547650;m3-2;[WARN: CSMA      ] not for us
+1683823685.548236;m3-3;[WARN: CSMA      ] not for us
+1683823685.548366;m3-3;[WARN: CSMA      ] not for us
+1683823685.835341;m3-2;[WARN: CSMA      ] not for us
+1683823685.836215;m3-3;[WARN: CSMA      ] not for us
+1683823685.836363;m3-3;[WARN: CSMA      ] not for us
+1683823685.848130;m3-1;[WARN: CSMA      ] not for us
+1683823685.848341;m3-1;[WARN: CSMA      ] not for us
+1683823685.851368;m3-2;[WARN: CSMA      ] not for us
+1683823685.864091;m3-1;[WARN: CSMA      ] not for us
+1683823685.864305;m3-1;[WARN: CSMA      ] not for us
+1683823685.867411;m3-2;[WARN: CSMA      ] not for us
+1683823685.867622;m3-2;[WARN: CSMA      ] not for us
+1683823685.867741;m3-2;[WARN: CSMA      ] not for us
+1683823685.867844;m3-2;[WARN: CSMA      ] not for us
+1683823685.868209;m3-3;[WARN: CSMA      ] not for us
+1683823685.868329;m3-3;[WARN: CSMA      ] not for us
+1683823685.868421;m3-3;[WARN: CSMA      ] not for us
+1683823685.868510;m3-3;[WARN: CSMA      ] not for us
+1683823685.880074;m3-1;[WARN: CSMA      ] not for us
+1683823685.880287;m3-1;[WARN: CSMA      ] not for us
+1683823685.880408;m3-1;[WARN: CSMA      ] not for us
+1683823685.880509;m3-1;[WARN: CSMA      ] not for us
+1683823685.883376;m3-2;[WARN: CSMA      ] not for us
+1683823685.883588;m3-2;[WARN: CSMA      ] not for us
+1683823685.884184;m3-3;[WARN: CSMA      ] not for us
+1683823685.884318;m3-3;[WARN: CSMA      ] not for us
+1683823686.184084;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823686.187417;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823686.188248;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823687.340474;m3-3;[INFO: App       ] Sending request 17 to [INFO: App       ] 
+1683823687.355488;m3-2;[INFO: App       ] Sending request 18 to [INFO: App       ] 
+1683823687.368183;m3-1;[INFO: App       ] Received request 'hello 17' from fd00::9787
+1683823687.368398;m3-1;[INFO: App       ] sending response
+1683823687.371334;m3-2;[WARN: CSMA      ] not for us
+1683823687.384029;m3-1;[INFO: App       ] Received request 'hello 18' from fd00::a685
+1683823687.384245;m3-1;[INFO: App       ] sending response
+1683823687.387291;m3-2;[WARN: CSMA      ] not for us
+1683823687.388133;m3-3;[WARN: CSMA      ] not for us
+1683823687.388281;m3-3;[INFO: App       ] Received response 'hello 17' from fd00::a484
+1683823687.436249;m3-3;[WARN: CSMA      ] not for us
+1683823687.451191;m3-2;[INFO: App       ] Received response 'hello 18' from fd00::a484
+1683823688.936038;m3-1;[WARN: CSMA      ] not for us
+1683823688.936266;m3-1;[WARN: CSMA      ] not for us
+1683823688.939364;m3-2;[WARN: CSMA      ] not for us
+1683823688.939575;m3-2;[WARN: CSMA      ] not for us
+1683823688.940181;m3-3;[WARN: CSMA      ] not for us
+1683823688.940314;m3-3;[WARN: CSMA      ] not for us
+1683823689.239964;m3-1;[WARN: CSMA      ] not for us
+1683823689.240174;m3-1;[WARN: CSMA      ] not for us
+1683823689.243379;m3-2;[WARN: CSMA      ] not for us
+1683823689.244120;m3-3;[WARN: CSMA      ] not for us
+1683823689.259226;m3-2;[WARN: CSMA      ] not for us
+1683823689.259441;m3-2;[WARN: CSMA      ] not for us
+1683823689.260004;m3-3;[WARN: CSMA      ] not for us
+1683823689.260132;m3-3;[WARN: CSMA      ] not for us
+1683823689.271890;m3-1;[WARN: CSMA      ] not for us
+1683823689.272102;m3-1;[WARN: CSMA      ] not for us
+1683823689.287850;m3-1;[WARN: CSMA      ] not for us
+1683823689.288061;m3-1;[WARN: CSMA      ] not for us
+1683823689.291181;m3-2;[WARN: CSMA      ] not for us
+1683823689.291393;m3-2;[WARN: CSMA      ] not for us
+1683823689.291969;m3-3;[WARN: CSMA      ] not for us
+1683823689.292098;m3-3;[WARN: CSMA      ] not for us
+1683823689.607681;m3-1;[WARN: CSMA      ] not for us
+1683823689.611092;m3-2;[WARN: CSMA      ] not for us
+1683823689.611248;m3-2;[WARN: CSMA      ] not for us
+1683823689.612051;m3-3;[WARN: CSMA      ] not for us
+1683823689.612178;m3-3;[WARN: CSMA      ] not for us
+1683823689.623554;m3-1;[WARN: CSMA      ] not for us
+1683823689.927785;m3-1;[WARN: CSMA      ] not for us
+1683823689.931031;m3-2;[WARN: CSMA      ] not for us
+1683823689.931243;m3-2;[WARN: CSMA      ] not for us
+1683823689.931931;m3-3;[WARN: CSMA      ] not for us
+1683823689.943782;m3-1;[WARN: CSMA      ] not for us
+1683823689.943993;m3-1;[WARN: CSMA      ] not for us
+1683823689.944111;m3-1;[WARN: CSMA      ] not for us
+1683823689.944212;m3-1;[WARN: CSMA      ] not for us
+1683823689.947098;m3-2;[WARN: CSMA      ] not for us
+1683823689.947309;m3-2;[WARN: CSMA      ] not for us
+1683823689.947428;m3-2;[WARN: CSMA      ] not for us
+1683823689.947529;m3-2;[WARN: CSMA      ] not for us
+1683823689.947927;m3-3;[WARN: CSMA      ] not for us
+1683823689.948048;m3-3;[WARN: CSMA      ] not for us
+1683823689.948142;m3-3;[WARN: CSMA      ] not for us
+1683823689.948232;m3-3;[WARN: CSMA      ] not for us
+1683823690.295878;m3-1;[WARN: CSMA      ] not for us
+1683823690.296091;m3-1;[WARN: CSMA      ] not for us
+1683823690.299261;m3-2;[WARN: CSMA      ] not for us
+1683823690.299474;m3-2;[WARN: CSMA      ] not for us
+1683823690.300003;m3-3;[WARN: CSMA      ] not for us
+1683823690.300133;m3-3;[WARN: CSMA      ] not for us
+1683823690.599834;m3-1;[WARN: CSMA      ] not for us
+1683823690.603131;m3-2;[WARN: CSMA      ] not for us
+1683823690.603945;m3-3;[WARN: CSMA      ] not for us
+1683823690.615737;m3-1;[WARN: CSMA      ] not for us
+1683823693.339118;m3-2;[WARN: CSMA      ] not for us
+1683823693.339877;m3-3;[INFO: App       ] Sending request 18 to [INFO: App       ] 
+1683823693.351729;m3-1;[INFO: App       ] Received request 'hello 18' from fd00::9787
+1683823693.351946;m3-1;[INFO: App       ] sending response
+1683823693.354939;m3-2;[WARN: CSMA      ] not for us
+1683823693.355152;m3-2;[INFO: App       ] Sending request 19 to [INFO: App       ] 
+1683823693.355704;m3-3;[INFO: App       ] Received response 'hello 18' from fd00::a484
+1683823693.367585;m3-1;[INFO: App       ] Received request 'hello 19' from fd00::a685
+1683823693.371788;m3-3;[WARN: CSMA      ] not for us
+1683823693.372001;m3-3;[WARN: CSMA      ] not for us
+1683823693.383514;m3-1;[INFO: App       ] sending response
+1683823693.386851;m3-2;[INFO: App       ] Received response 'hello 19' from fd00::a484
+1683823695.063646;m3-1;[WARN: CSMA      ] not for us
+1683823695.063882;m3-1;[WARN: CSMA      ] not for us
+1683823695.066952;m3-2;[WARN: CSMA      ] not for us
+1683823695.067166;m3-2;[WARN: CSMA      ] not for us
+1683823695.067691;m3-3;[WARN: CSMA      ] not for us
+1683823695.367581;m3-1;[WARN: CSMA      ] not for us
+1683823695.367794;m3-1;[WARN: CSMA      ] not for us
+1683823695.370942;m3-2;[WARN: CSMA      ] not for us
+1683823695.371156;m3-2;[WARN: CSMA      ] not for us
+1683823695.371685;m3-3;[WARN: CSMA      ] not for us
+1683823695.371816;m3-3;[WARN: CSMA      ] not for us
+1683823695.383466;m3-1;[WARN: CSMA      ] not for us
+1683823695.383676;m3-1;[WARN: CSMA      ] not for us
+1683823695.383794;m3-1;[WARN: CSMA      ] not for us
+1683823695.386838;m3-2;[WARN: CSMA      ] not for us
+1683823695.387050;m3-2;[WARN: CSMA      ] not for us
+1683823695.387169;m3-2;[WARN: CSMA      ] not for us
+1683823695.387270;m3-2;[WARN: CSMA      ] not for us
+1683823695.387556;m3-3;[WARN: CSMA      ] not for us
+1683823695.387668;m3-3;[WARN: CSMA      ] not for us
+1683823695.387761;m3-3;[WARN: CSMA      ] not for us
+1683823695.387850;m3-3;[WARN: CSMA      ] not for us
+1683823695.399430;m3-1;[WARN: CSMA      ] not for us
+1683823695.399641;m3-1;[WARN: CSMA      ] not for us
+1683823695.399759;m3-1;[WARN: CSMA      ] not for us
+1683823695.402879;m3-2;[WARN: CSMA      ] not for us
+1683823695.403089;m3-2;[WARN: CSMA      ] not for us
+1683823695.403566;m3-3;[WARN: CSMA      ] not for us
+1683823695.403698;m3-3;[WARN: CSMA      ] not for us
+1683823695.403799;m3-3;[WARN: CSMA      ] not for us
+1683823695.415338;m3-1;[WARN: CSMA      ] not for us
+1683823695.415549;m3-1;[WARN: CSMA      ] not for us
+1683823695.418769;m3-2;[WARN: CSMA      ] not for us
+1683823695.418980;m3-2;[WARN: CSMA      ] not for us
+1683823695.419506;m3-3;[WARN: CSMA      ] not for us
+1683823696.055336;m3-1;[WARN: CSMA      ] not for us
+1683823696.055548;m3-1;[WARN: CSMA      ] not for us
+1683823696.058871;m3-2;[WARN: CSMA      ] not for us
+1683823696.059083;m3-2;[WARN: CSMA      ] not for us
+1683823696.059343;m3-3;[WARN: CSMA      ] not for us
+1683823696.087271;m3-1;[WARN: CSMA      ] not for us
+1683823696.087483;m3-1;[WARN: CSMA      ] not for us
+1683823696.090715;m3-2;[WARN: CSMA      ] not for us
+1683823696.090927;m3-2;[WARN: CSMA      ] not for us
+1683823696.091417;m3-3;[WARN: CSMA      ] not for us
+1683823696.091548;m3-3;[WARN: CSMA      ] not for us
+1683823696.394826;m3-2;[WARN: CSMA      ] not for us
+1683823696.395559;m3-3;[WARN: CSMA      ] not for us
+1683823696.395709;m3-3;[WARN: CSMA      ] not for us
+1683823696.407438;m3-1;[WARN: CSMA      ] not for us
+1683823696.407651;m3-1;[WARN: CSMA      ] not for us
+1683823696.410730;m3-2;[WARN: CSMA      ] not for us
+1683823696.423338;m3-1;[WARN: CSMA      ] not for us
+1683823696.423553;m3-1;[WARN: CSMA      ] not for us
+1683823696.426695;m3-2;[WARN: CSMA      ] not for us
+1683823696.426905;m3-2;[WARN: CSMA      ] not for us
+1683823696.427450;m3-3;[WARN: CSMA      ] not for us
+1683823696.427581;m3-3;[WARN: CSMA      ] not for us
+1683823696.727313;m3-1;[WARN: CSMA      ] not for us
+1683823696.727524;m3-1;[WARN: CSMA      ] not for us
+1683823696.730713;m3-2;[WARN: CSMA      ] not for us
+1683823696.730925;m3-2;[WARN: CSMA      ] not for us
+1683823696.731422;m3-3;[WARN: CSMA      ] not for us
+1683823696.731550;m3-3;[WARN: CSMA      ] not for us
+1683823699.339574;m3-3;[INFO: App       ] Sending request 19 to [INFO: App       ] 
+1683823699.354711;m3-2;[INFO: App       ] Sending request 20 to [INFO: App       ] 
+1683823699.367319;m3-1;[INFO: App       ] Received request 'hello 20' from fd00::a685
+1683823699.371417;m3-3;[WARN: CSMA      ] not for us
+1683823699.383131;m3-1;[INFO: App       ] sending response
+1683823699.386520;m3-2;[INFO: App       ] Received response 'hello 20' from fd00::a484
+1683823699.387208;m3-3;[WARN: CSMA      ] not for us
+1683823699.399093;m3-1;[INFO: App       ] Received request 'hello 19' from fd00::9787
+1683823699.399310;m3-1;[INFO: App       ] sending response
+1683823699.402467;m3-2;[WARN: CSMA      ] not for us
+1683823699.434444;m3-2;[WARN: CSMA      ] not for us
+1683823699.451274;m3-3;[INFO: App       ] Received response 'hello 19' from fd00::a484
+1683823700.187326;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823700.199127;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823700.202440;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823700.811391;m3-3;[WARN: CSMA      ] not for us
+1683823700.822976;m3-1;[WARN: CSMA      ] not for us
+1683823700.838940;m3-1;[WARN: CSMA      ] not for us
+1683823700.839153;m3-1;[WARN: CSMA      ] not for us
+1683823700.842652;m3-2;[WARN: CSMA      ] not for us
+1683823700.842939;m3-2;[WARN: CSMA      ] not for us
+1683823700.843142;m3-3;[WARN: CSMA      ] not for us
+1683823700.843254;m3-3;[WARN: CSMA      ] not for us
+1683823701.495122;m3-1;[WARN: CSMA      ] not for us
+1683823701.495336;m3-1;[WARN: CSMA      ] not for us
+1683823701.499393;m3-3;[WARN: CSMA      ] not for us
+1683823701.863066;m3-1;[WARN: CSMA      ] not for us
+1683823701.863278;m3-1;[WARN: CSMA      ] not for us
+1683823701.866579;m3-2;[WARN: CSMA      ] not for us
+1683823701.866869;m3-2;[WARN: CSMA      ] not for us
+1683823701.867073;m3-3;[WARN: CSMA      ] not for us
+1683823701.867184;m3-3;[WARN: CSMA      ] not for us
+1683823701.878947;m3-1;[WARN: CSMA      ] not for us
+1683823701.879157;m3-1;[WARN: CSMA      ] not for us
+1683823701.882419;m3-2;[WARN: CSMA      ] not for us
+1683823701.882672;m3-2;[WARN: CSMA      ] not for us
+1683823701.882958;m3-3;[WARN: CSMA      ] not for us
+1683823701.883075;m3-3;[WARN: CSMA      ] not for us
+1683823702.170462;m3-2;[WARN: CSMA      ] not for us
+1683823702.170937;m3-3;[WARN: CSMA      ] not for us
+1683823702.182933;m3-1;[WARN: CSMA      ] not for us
+1683823702.183144;m3-1;[WARN: CSMA      ] not for us
+1683823702.183261;m3-1;[WARN: CSMA      ] not for us
+1683823702.186393;m3-2;[WARN: CSMA      ] not for us
+1683823702.186640;m3-2;[WARN: CSMA      ] not for us
+1683823702.186912;m3-3;[WARN: CSMA      ] not for us
+1683823702.187032;m3-3;[WARN: CSMA      ] not for us
+1683823702.198833;m3-1;[WARN: CSMA      ] not for us
+1683823702.202355;m3-2;[WARN: CSMA      ] not for us
+1683823702.202880;m3-3;[WARN: CSMA      ] not for us
+1683823702.522411;m3-2;[WARN: CSMA      ] not for us
+1683823702.522663;m3-2;[WARN: CSMA      ] not for us
+1683823702.523107;m3-3;[WARN: CSMA      ] not for us
+1683823702.523236;m3-3;[WARN: CSMA      ] not for us
+1683823702.534896;m3-1;[WARN: CSMA      ] not for us
+1683823702.535109;m3-1;[WARN: CSMA      ] not for us
+1683823702.854886;m3-1;[WARN: CSMA      ] not for us
+1683823703.530406;m3-2;[WARN: CSMA      ] not for us
+1683823703.531011;m3-3;[WARN: CSMA      ] not for us
+1683823703.543031;m3-1;[WARN: CSMA      ] not for us
+1683823703.543243;m3-1;[WARN: CSMA      ] not for us
+1683823703.546329;m3-2;[WARN: CSMA      ] not for us
+1683823703.546789;m3-3;[WARN: CSMA      ] not for us
+1683823704.918939;m3-1;[WARN: CSMA      ] not for us
+1683823704.919171;m3-1;[WARN: CSMA      ] not for us
+1683823704.922368;m3-2;[WARN: CSMA      ] not for us
+1683823704.922683;m3-2;[WARN: CSMA      ] not for us
+1683823704.922973;m3-3;[WARN: CSMA      ] not for us
+1683823704.923088;m3-3;[WARN: CSMA      ] not for us
+1683823705.339068;m3-3;[INFO: App       ] Sending request 20 to [INFO: App       ] 
+1683823705.370204;m3-2;[INFO: App       ] Sending request 21 to [INFO: App       ] 
+1683823705.382818;m3-1;[INFO: App       ] Received request 'hello 20' from fd00::9787
+1683823705.383034;m3-1;[INFO: App       ] sending response
+1683823705.386169;m3-2;[WARN: CSMA      ] not for us
+1683823705.402156;m3-2;[WARN: CSMA      ] not for us
+1683823705.402792;m3-3;[INFO: App       ] Received response 'hello 20' from fd00::a484
+1683823705.418926;m3-3;[WARN: CSMA      ] not for us
+1683823705.430715;m3-1;[INFO: App       ] Received request 'hello 21' from fd00::a685
+1683823705.430930;m3-1;[INFO: App       ] sending response
+1683823705.466137;m3-2;[INFO: App       ] Received response 'hello 21' from fd00::a484
+1683823705.466700;m3-3;[WARN: CSMA      ] not for us
+1683823706.602259;m3-2;[WARN: CSMA      ] not for us
+1683823706.602723;m3-3;[WARN: CSMA      ] not for us
+1683823706.614747;m3-1;[WARN: CSMA      ] not for us
+1683823706.614958;m3-1;[WARN: CSMA      ] not for us
+1683823706.618093;m3-2;[WARN: CSMA      ] not for us
+1683823706.618696;m3-3;[WARN: CSMA      ] not for us
+1683823706.934665;m3-1;[WARN: CSMA      ] not for us
+1683823706.934884;m3-1;[WARN: CSMA      ] not for us
+1683823706.938073;m3-2;[WARN: CSMA      ] not for us
+1683823706.938594;m3-3;[WARN: CSMA      ] not for us
+1683823706.950531;m3-1;[WARN: CSMA      ] not for us
+1683823706.950783;m3-1;[WARN: CSMA      ] not for us
+1683823706.954075;m3-2;[WARN: CSMA      ] not for us
+1683823706.954324;m3-2;[WARN: CSMA      ] not for us
+1683823706.954521;m3-2;[WARN: CSMA      ] not for us
+1683823706.954761;m3-3;[WARN: CSMA      ] not for us
+1683823706.954868;m3-3;[WARN: CSMA      ] not for us
+1683823706.954963;m3-3;[WARN: CSMA      ] not for us
+1683823706.955055;m3-3;[WARN: CSMA      ] not for us
+1683823706.966510;m3-1;[WARN: CSMA      ] not for us
+1683823706.966756;m3-1;[WARN: CSMA      ] not for us
+1683823706.970038;m3-2;[WARN: CSMA      ] not for us
+1683823707.622744;m3-1;[WARN: CSMA      ] not for us
+1683823707.990648;m3-1;[WARN: CSMA      ] not for us
+1683823707.990862;m3-1;[WARN: CSMA      ] not for us
+1683823707.994132;m3-2;[WARN: CSMA      ] not for us
+1683823707.994400;m3-2;[WARN: CSMA      ] not for us
+1683823707.994715;m3-3;[WARN: CSMA      ] not for us
+1683823707.994831;m3-3;[WARN: CSMA      ] not for us
+1683823708.294598;m3-1;[WARN: CSMA      ] not for us
+1683823708.298131;m3-2;[WARN: CSMA      ] not for us
+1683823708.298382;m3-2;[WARN: CSMA      ] not for us
+1683823708.298695;m3-3;[WARN: CSMA      ] not for us
+1683823708.298817;m3-3;[WARN: CSMA      ] not for us
+1683823708.310446;m3-1;[WARN: CSMA      ] not for us
+1683823708.313996;m3-2;[WARN: CSMA      ] not for us
+1683823708.314569;m3-3;[WARN: CSMA      ] not for us
+1683823708.326478;m3-1;[WARN: CSMA      ] not for us
+1683823708.326722;m3-1;[WARN: CSMA      ] not for us
+1683823708.329999;m3-2;[WARN: CSMA      ] not for us
+1683823708.330503;m3-3;[WARN: CSMA      ] not for us
+1683823708.666031;m3-2;[WARN: CSMA      ] not for us
+1683823708.666327;m3-2;[WARN: CSMA      ] not for us
+1683823708.666651;m3-3;[WARN: CSMA      ] not for us
+1683823708.666770;m3-3;[WARN: CSMA      ] not for us
+1683823708.678497;m3-1;[WARN: CSMA      ] not for us
+1683823708.678741;m3-1;[WARN: CSMA      ] not for us
+1683823709.334610;m3-1;[WARN: CSMA      ] not for us
+1683823709.334830;m3-1;[WARN: CSMA      ] not for us
+1683823709.337977;m3-2;[WARN: CSMA      ] not for us
+1683823709.338188;m3-2;[WARN: CSMA      ] not for us
+1683823709.338563;m3-3;[WARN: CSMA      ] not for us
+1683823709.338699;m3-3;[WARN: CSMA      ] not for us
+1683823711.338748;m3-3;[INFO: App       ] Sending request 21 to [INFO: App       ] 
+1683823711.369803;m3-2;[INFO: App       ] Sending request 22 to [INFO: App       ] 
+1683823711.370291;m3-3;[WARN: CSMA      ] not for us
+1683823711.382384;m3-1;[INFO: App       ] Received request 'hello 22' from fd00::a685
+1683823711.382637;m3-1;[INFO: App       ] sending response
+1683823711.385759;m3-2;[INFO: App       ] Received response 'hello 22' from fd00::a484
+1683823711.386272;m3-3;[WARN: CSMA      ] not for us
+1683823711.398364;m3-1;[INFO: App       ] Received request 'hello 21' from fd00::9787
+1683823711.398617;m3-1;[INFO: App       ] sending response
+1683823711.401775;m3-2;[WARN: CSMA      ] not for us
+1683823711.449735;m3-2;[WARN: CSMA      ] not for us
+1683823711.450249;m3-3;[INFO: App       ] Received response 'hello 21' from fd00::a484
+1683823713.062324;m3-1;[WARN: CSMA      ] not for us
+1683823713.062582;m3-1;[WARN: CSMA      ] not for us
+1683823713.065805;m3-2;[WARN: CSMA      ] not for us
+1683823713.066018;m3-2;[WARN: CSMA      ] not for us
+1683823713.066319;m3-3;[WARN: CSMA      ] not for us
+1683823713.066447;m3-3;[WARN: CSMA      ] not for us
+1683823713.078123;m3-1;[WARN: CSMA      ] not for us
+1683823713.081697;m3-2;[WARN: CSMA      ] not for us
+1683823713.081912;m3-2;[WARN: CSMA      ] not for us
+1683823713.082175;m3-3;[WARN: CSMA      ] not for us
+1683823713.082332;m3-3;[WARN: CSMA      ] not for us
+1683823713.094062;m3-1;[WARN: CSMA      ] not for us
+1683823713.750318;m3-1;[WARN: CSMA      ] not for us
+1683823713.750574;m3-1;[WARN: CSMA      ] not for us
+1683823713.750704;m3-1;[WARN: CSMA      ] not for us
+1683823713.750808;m3-1;[WARN: CSMA      ] not for us
+1683823713.753723;m3-2;[WARN: CSMA      ] not for us
+1683823713.754006;m3-2;[WARN: CSMA      ] not for us
+1683823713.754133;m3-2;[WARN: CSMA      ] not for us
+1683823713.754269;m3-2;[WARN: CSMA      ] not for us
+1683823713.754441;m3-3;[WARN: CSMA      ] not for us
+1683823713.754576;m3-3;[WARN: CSMA      ] not for us
+1683823713.754684;m3-3;[WARN: CSMA      ] not for us
+1683823713.754774;m3-3;[WARN: CSMA      ] not for us
+1683823714.118274;m3-1;[WARN: CSMA      ] not for us
+1683823714.121623;m3-2;[WARN: CSMA      ] not for us
+1683823714.121836;m3-2;[WARN: CSMA      ] not for us
+1683823714.122106;m3-3;[WARN: CSMA      ] not for us
+1683823714.790158;m3-1;[WARN: CSMA      ] not for us
+1683823714.793719;m3-2;[WARN: CSMA      ] not for us
+1683823714.793932;m3-2;[WARN: CSMA      ] not for us
+1683823714.794200;m3-3;[WARN: CSMA      ] not for us
+1683823714.794358;m3-3;[WARN: CSMA      ] not for us
+1683823714.806015;m3-1;[WARN: CSMA      ] not for us
+1683823715.126019;m3-1;[WARN: CSMA      ] not for us
+1683823715.126291;m3-1;[WARN: CSMA      ] not for us
+1683823715.129605;m3-2;[WARN: CSMA      ] not for us
+1683823715.129887;m3-2;[WARN: CSMA      ] not for us
+1683823715.130015;m3-2;[WARN: CSMA      ] not for us
+1683823715.130191;m3-3;[WARN: CSMA      ] not for us
+1683823715.130336;m3-3;[WARN: CSMA      ] not for us
+1683823715.130430;m3-3;[WARN: CSMA      ] not for us
+1683823715.141985;m3-1;[WARN: CSMA      ] not for us
+1683823715.142197;m3-1;[WARN: CSMA      ] not for us
+1683823715.145554;m3-2;[WARN: CSMA      ] not for us
+1683823715.145904;m3-3;[WARN: CSMA      ] not for us
+1683823715.205975;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823715.209430;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823715.209899;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823715.450321;m3-3;[WARN: CSMA      ] not for us
+1683823715.462115;m3-1;[WARN: CSMA      ] not for us
+1683823715.462362;m3-1;[WARN: CSMA      ] not for us
+1683823715.465432;m3-2;[WARN: CSMA      ] not for us
+1683823715.465645;m3-2;[WARN: CSMA      ] not for us
+1683823715.465940;m3-3;[WARN: CSMA      ] not for us
+1683823716.470060;m3-1;[WARN: CSMA      ] not for us
+1683823716.470318;m3-1;[WARN: CSMA      ] not for us
+1683823716.473625;m3-2;[WARN: CSMA      ] not for us
+1683823716.473907;m3-2;[WARN: CSMA      ] not for us
+1683823716.474104;m3-3;[WARN: CSMA      ] not for us
+1683823716.474259;m3-3;[WARN: CSMA      ] not for us
+1683823717.338197;m3-3;[INFO: App       ] Sending request 22 to [INFO: App       ] 
+1683823717.369393;m3-2;[INFO: App       ] Sending request 23 to [INFO: App       ] 
+1683823717.369610;m3-2;[WARN: CSMA      ] not for us
+1683823717.381948;m3-1;[INFO: App       ] Received request 'hello 22' from fd00::9787
+1683823717.382166;m3-1;[INFO: App       ] sending response
+1683823717.401337;m3-2;[WARN: CSMA      ] not for us
+1683823717.401827;m3-3;[INFO: App       ] Received response 'hello 22' from fd00::a484
+1683823717.413903;m3-1;[INFO: App       ] Received request 'hello 23' from fd00::a685
+1683823717.414119;m3-1;[INFO: App       ] sending response
+1683823717.418026;m3-3;[WARN: CSMA      ] not for us
+1683823717.465991;m3-3;[WARN: CSMA      ] not for us
+1683823717.481303;m3-2;[INFO: App       ] Received response 'hello 23' from fd00::a484
+1683823718.873401;m3-2;[WARN: CSMA      ] not for us
+1683823718.873811;m3-3;[WARN: CSMA      ] not for us
+1683823718.885956;m3-1;[WARN: CSMA      ] not for us
+1683823718.886170;m3-1;[WARN: CSMA      ] not for us
+1683823718.889273;m3-2;[WARN: CSMA      ] not for us
+1683823718.889735;m3-3;[WARN: CSMA      ] not for us
+1683823719.205818;m3-1;[WARN: CSMA      ] not for us
+1683823719.881419;m3-2;[WARN: CSMA      ] not for us
+1683823719.881710;m3-2;[WARN: CSMA      ] not for us
+1683823719.881910;m3-3;[WARN: CSMA      ] not for us
+1683823719.882022;m3-3;[WARN: CSMA      ] not for us
+1683823719.893905;m3-1;[WARN: CSMA      ] not for us
+1683823719.894119;m3-1;[WARN: CSMA      ] not for us
+1683823719.894300;m3-1;[WARN: CSMA      ] not for us
+1683823719.894409;m3-1;[WARN: CSMA      ] not for us
+1683823719.894505;m3-1;[WARN: CSMA      ] not for us
+1683823719.897318;m3-2;[WARN: CSMA      ] not for us
+1683823719.897531;m3-2;[WARN: CSMA      ] not for us
+1683823719.897732;m3-2;[WARN: CSMA      ] not for us
+1683823719.897838;m3-2;[WARN: CSMA      ] not for us
+1683823719.898006;m3-3;[WARN: CSMA      ] not for us
+1683823719.898105;m3-3;[WARN: CSMA      ] not for us
+1683823719.898196;m3-3;[WARN: CSMA      ] not for us
+1683823719.898324;m3-3;[WARN: CSMA      ] not for us
+1683823719.909712;m3-1;[WARN: CSMA      ] not for us
+1683823719.909925;m3-1;[WARN: CSMA      ] not for us
+1683823719.913249;m3-2;[WARN: CSMA      ] not for us
+1683823719.913607;m3-3;[WARN: CSMA      ] not for us
+1683823720.233602;m3-3;[WARN: CSMA      ] not for us
+1683823720.245697;m3-1;[WARN: CSMA      ] not for us
+1683823720.245909;m3-1;[WARN: CSMA      ] not for us
+1683823720.249136;m3-2;[WARN: CSMA      ] not for us
+1683823720.249350;m3-2;[WARN: CSMA      ] not for us
+1683823720.249617;m3-3;[WARN: CSMA      ] not for us
+1683823720.565809;m3-1;[WARN: CSMA      ] not for us
+1683823720.566022;m3-1;[WARN: CSMA      ] not for us
+1683823720.569281;m3-2;[WARN: CSMA      ] not for us
+1683823720.569494;m3-2;[WARN: CSMA      ] not for us
+1683823720.569762;m3-3;[WARN: CSMA      ] not for us
+1683823720.569883;m3-3;[WARN: CSMA      ] not for us
+1683823720.581701;m3-1;[WARN: CSMA      ] not for us
+1683823720.581913;m3-1;[WARN: CSMA      ] not for us
+1683823720.585191;m3-2;[WARN: CSMA      ] not for us
+1683823720.585403;m3-2;[WARN: CSMA      ] not for us
+1683823720.585678;m3-3;[WARN: CSMA      ] not for us
+1683823720.585793;m3-3;[WARN: CSMA      ] not for us
+1683823720.585891;m3-3;[WARN: CSMA      ] not for us
+1683823720.585984;m3-3;[WARN: CSMA      ] not for us
+1683823720.597671;m3-1;[WARN: CSMA      ] not for us
+1683823720.597883;m3-1;[WARN: CSMA      ] not for us
+1683823720.601120;m3-2;[WARN: CSMA      ] not for us
+1683823721.253617;m3-1;[WARN: CSMA      ] not for us
+1683823721.253831;m3-1;[WARN: CSMA      ] not for us
+1683823721.257272;m3-2;[WARN: CSMA      ] not for us
+1683823721.257550;m3-2;[WARN: CSMA      ] not for us
+1683823721.257673;m3-2;[WARN: CSMA      ] not for us
+1683823721.257849;m3-3;[WARN: CSMA      ] not for us
+1683823721.257956;m3-3;[WARN: CSMA      ] not for us
+1683823721.258050;m3-3;[WARN: CSMA      ] not for us
+1683823721.269575;m3-1;[WARN: CSMA      ] not for us
+1683823721.269787;m3-1;[WARN: CSMA      ] not for us
+1683823721.273167;m3-2;[WARN: CSMA      ] not for us
+1683823721.273520;m3-3;[WARN: CSMA      ] not for us
+1683823721.577187;m3-2;[WARN: CSMA      ] not for us
+1683823721.577401;m3-2;[WARN: CSMA      ] not for us
+1683823721.577663;m3-3;[WARN: CSMA      ] not for us
+1683823721.577785;m3-3;[WARN: CSMA      ] not for us
+1683823721.589695;m3-1;[WARN: CSMA      ] not for us
+1683823721.589907;m3-1;[WARN: CSMA      ] not for us
+1683823723.269644;m3-1;[WARN: CSMA      ] not for us
+1683823723.273098;m3-2;[WARN: CSMA      ] not for us
+1683823723.273313;m3-2;[WARN: CSMA      ] not for us
+1683823723.273597;m3-3;[WARN: CSMA      ] not for us
+1683823723.273712;m3-3;[WARN: CSMA      ] not for us
+1683823723.285494;m3-1;[WARN: CSMA      ] not for us
+1683823723.337086;m3-2;[WARN: CSMA      ] not for us
+1683823723.337488;m3-3;[INFO: App       ] Sending request 23 to [INFO: App       ] 
+1683823723.349616;m3-1;[INFO: App       ] Received request 'hello 23' from fd00::9787
+1683823723.349831;m3-1;[INFO: App       ] sending response
+1683823723.368944;m3-2;[INFO: App       ] Sending request 24 to [INFO: App       ] 
+1683823723.369160;m3-2;[WARN: CSMA      ] not for us
+1683823723.369437;m3-3;[INFO: App       ] Received response 'hello 23' from fd00::a484
+1683823723.477483;m3-1;[INFO: App       ] Received request 'hello 24' from fd00::a685
+1683823723.481558;m3-3;[WARN: CSMA      ] not for us
+1683823723.493438;m3-1;[INFO: App       ] sending response
+1683823723.496931;m3-2;[INFO: App       ] Received response 'hello 24' from fd00::a484
+1683823723.497288;m3-3;[WARN: CSMA      ] not for us
+1683823725.001010;m3-2;[WARN: CSMA      ] not for us
+1683823725.001236;m3-2;[WARN: CSMA      ] not for us
+1683823725.001517;m3-3;[WARN: CSMA      ] not for us
+1683823725.001632;m3-3;[WARN: CSMA      ] not for us
+1683823725.013520;m3-1;[WARN: CSMA      ] not for us
+1683823725.013732;m3-1;[WARN: CSMA      ] not for us
+1683823725.333521;m3-1;[WARN: CSMA      ] not for us
+1683823725.333741;m3-1;[WARN: CSMA      ] not for us
+1683823725.337021;m3-2;[WARN: CSMA      ] not for us
+1683823725.337311;m3-2;[WARN: CSMA      ] not for us
+1683823725.337507;m3-3;[WARN: CSMA      ] not for us
+1683823725.337618;m3-3;[WARN: CSMA      ] not for us
+1683823725.989304;m3-1;[WARN: CSMA      ] not for us
+1683823725.992953;m3-2;[WARN: CSMA      ] not for us
+1683823725.993241;m3-2;[WARN: CSMA      ] not for us
+1683823725.993437;m3-3;[WARN: CSMA      ] not for us
+1683823725.993549;m3-3;[WARN: CSMA      ] not for us
+1683823726.005242;m3-1;[WARN: CSMA      ] not for us
+1683823726.009387;m3-3;[WARN: CSMA      ] not for us
+1683823726.021219;m3-1;[WARN: CSMA      ] not for us
+1683823726.024867;m3-2;[WARN: CSMA      ] not for us
+1683823726.025228;m3-3;[WARN: CSMA      ] not for us
+1683823726.037212;m3-1;[WARN: CSMA      ] not for us
+1683823726.037423;m3-1;[WARN: CSMA      ] not for us
+1683823726.040835;m3-2;[WARN: CSMA      ] not for us
+1683823726.041185;m3-3;[WARN: CSMA      ] not for us
+1683823726.360897;m3-2;[WARN: CSMA      ] not for us
+1683823726.361180;m3-2;[WARN: CSMA      ] not for us
+1683823726.361385;m3-3;[WARN: CSMA      ] not for us
+1683823726.361497;m3-3;[WARN: CSMA      ] not for us
+1683823726.373379;m3-1;[WARN: CSMA      ] not for us
+1683823726.373592;m3-1;[WARN: CSMA      ] not for us
+1683823726.677301;m3-1;[WARN: CSMA      ] not for us
+1683823726.677513;m3-1;[WARN: CSMA      ] not for us
+1683823726.680780;m3-2;[WARN: CSMA      ] not for us
+1683823726.680992;m3-2;[WARN: CSMA      ] not for us
+1683823726.681262;m3-3;[WARN: CSMA      ] not for us
+1683823726.681377;m3-3;[WARN: CSMA      ] not for us
+1683823726.693226;m3-1;[WARN: CSMA      ] not for us
+1683823726.696720;m3-2;[WARN: CSMA      ] not for us
+1683823726.697073;m3-3;[WARN: CSMA      ] not for us
+1683823727.381255;m3-1;[WARN: CSMA      ] not for us
+1683823727.381467;m3-1;[WARN: CSMA      ] not for us
+1683823727.384861;m3-2;[WARN: CSMA      ] not for us
+1683823727.385140;m3-2;[WARN: CSMA      ] not for us
+1683823727.385334;m3-3;[WARN: CSMA      ] not for us
+1683823727.385448;m3-3;[WARN: CSMA      ] not for us
+1683823727.701136;m3-1;[WARN: CSMA      ] not for us
+1683823727.704764;m3-2;[WARN: CSMA      ] not for us
+1683823727.705051;m3-2;[WARN: CSMA      ] not for us
+1683823727.705245;m3-3;[WARN: CSMA      ] not for us
+1683823727.705357;m3-3;[WARN: CSMA      ] not for us
+1683823727.717090;m3-1;[WARN: CSMA      ] not for us
+1683823729.337338;m3-3;[INFO: App       ] Sending request 24 to [INFO: App       ] 
+1683823729.365223;m3-1;[INFO: App       ] Received request 'hello 25' from fd00::a685
+1683823729.365439;m3-1;[INFO: App       ] sending response
+1683823729.368887;m3-2;[INFO: App       ] Sending request 25 to [INFO: App       ] 
+1683823729.369171;m3-3;[WARN: CSMA      ] not for us
+1683823729.381072;m3-1;[INFO: App       ] Received request 'hello 24' from fd00::9787
+1683823729.381289;m3-1;[INFO: App       ] sending response
+1683823729.384686;m3-2;[WARN: CSMA      ] not for us
+1683823729.416649;m3-2;[INFO: App       ] Received response 'hello 25' from fd00::a484
+1683823729.416942;m3-2;[WARN: CSMA      ] not for us
+1683823729.417140;m3-3;[WARN: CSMA      ] not for us
+1683823729.417252;m3-3;[INFO: App       ] Received response 'hello 24' from fd00::a484
+1683823730.773057;m3-1;[WARN: CSMA      ] not for us
+1683823730.777196;m3-3;[WARN: CSMA      ] not for us
+1683823731.124939;m3-1;[WARN: CSMA      ] not for us
+1683823731.125153;m3-1;[WARN: CSMA      ] not for us
+1683823731.128587;m3-2;[WARN: CSMA      ] not for us
+1683823731.128869;m3-2;[WARN: CSMA      ] not for us
+1683823731.129062;m3-3;[WARN: CSMA      ] not for us
+1683823731.129174;m3-3;[WARN: CSMA      ] not for us
+1683823731.220897;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823731.224460;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823731.224822;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823731.461055;m3-1;[WARN: CSMA      ] not for us
+1683823731.461267;m3-1;[WARN: CSMA      ] not for us
+1683823731.464577;m3-2;[WARN: CSMA      ] not for us
+1683823731.464867;m3-2;[WARN: CSMA      ] not for us
+1683823731.465061;m3-3;[WARN: CSMA      ] not for us
+1683823731.465173;m3-3;[WARN: CSMA      ] not for us
+1683823731.476938;m3-1;[WARN: CSMA      ] not for us
+1683823731.477151;m3-1;[WARN: CSMA      ] not for us
+1683823731.480458;m3-2;[WARN: CSMA      ] not for us
+1683823731.480749;m3-2;[WARN: CSMA      ] not for us
+1683823731.480942;m3-3;[WARN: CSMA      ] not for us
+1683823731.481055;m3-3;[WARN: CSMA      ] not for us
+1683823732.116761;m3-1;[WARN: CSMA      ] not for us
+1683823732.116982;m3-1;[WARN: CSMA      ] not for us
+1683823732.120487;m3-2;[WARN: CSMA      ] not for us
+1683823732.120766;m3-2;[WARN: CSMA      ] not for us
+1683823732.120960;m3-3;[WARN: CSMA      ] not for us
+1683823732.121073;m3-3;[WARN: CSMA      ] not for us
+1683823732.136437;m3-2;[WARN: CSMA      ] not for us
+1683823732.136717;m3-2;[WARN: CSMA      ] not for us
+1683823732.136909;m3-3;[WARN: CSMA      ] not for us
+1683823732.137020;m3-3;[WARN: CSMA      ] not for us
+1683823732.148798;m3-1;[WARN: CSMA      ] not for us
+1683823732.149011;m3-1;[WARN: CSMA      ] not for us
+1683823732.152413;m3-2;[WARN: CSMA      ] not for us
+1683823732.152695;m3-2;[WARN: CSMA      ] not for us
+1683823732.152889;m3-3;[WARN: CSMA      ] not for us
+1683823732.153002;m3-3;[WARN: CSMA      ] not for us
+1683823732.164784;m3-1;[WARN: CSMA      ] not for us
+1683823732.164996;m3-1;[WARN: CSMA      ] not for us
+1683823732.484955;m3-1;[WARN: CSMA      ] not for us
+1683823732.488580;m3-2;[WARN: CSMA      ] not for us
+1683823732.488861;m3-2;[WARN: CSMA      ] not for us
+1683823732.489053;m3-3;[WARN: CSMA      ] not for us
+1683823732.489165;m3-3;[WARN: CSMA      ] not for us
+1683823732.500834;m3-1;[WARN: CSMA      ] not for us
+1683823732.501046;m3-1;[WARN: CSMA      ] not for us
+1683823732.501164;m3-1;[WARN: CSMA      ] not for us
+1683823732.504464;m3-2;[WARN: CSMA      ] not for us
+1683823732.504754;m3-2;[WARN: CSMA      ] not for us
+1683823732.504957;m3-3;[WARN: CSMA      ] not for us
+1683823732.505069;m3-3;[WARN: CSMA      ] not for us
+1683823732.505183;m3-3;[WARN: CSMA      ] not for us
+1683823732.516779;m3-1;[WARN: CSMA      ] not for us
+1683823732.516991;m3-1;[WARN: CSMA      ] not for us
+1683823732.520429;m3-2;[WARN: CSMA      ] not for us
+1683823732.520719;m3-2;[WARN: CSMA      ] not for us
+1683823732.520912;m3-3;[WARN: CSMA      ] not for us
+1683823732.804787;m3-1;[WARN: CSMA      ] not for us
+1683823732.805009;m3-1;[WARN: CSMA      ] not for us
+1683823732.808310;m3-2;[WARN: CSMA      ] not for us
+1683823732.808596;m3-2;[WARN: CSMA      ] not for us
+1683823732.808789;m3-3;[WARN: CSMA      ] not for us
+1683823732.808903;m3-3;[WARN: CSMA      ] not for us
+1683823733.476831;m3-1;[WARN: CSMA      ] not for us
+1683823733.480464;m3-2;[WARN: CSMA      ] not for us
+1683823733.480746;m3-2;[WARN: CSMA      ] not for us
+1683823733.480941;m3-3;[WARN: CSMA      ] not for us
+1683823733.481054;m3-3;[WARN: CSMA      ] not for us
+1683823733.492702;m3-1;[WARN: CSMA      ] not for us
+1683823733.828698;m3-1;[WARN: CSMA      ] not for us
+1683823733.828911;m3-1;[WARN: CSMA      ] not for us
+1683823733.832389;m3-2;[WARN: CSMA      ] not for us
+1683823733.832666;m3-2;[WARN: CSMA      ] not for us
+1683823733.832857;m3-3;[WARN: CSMA      ] not for us
+1683823733.832970;m3-3;[WARN: CSMA      ] not for us
+1683823735.336927;m3-3;[INFO: App       ] Sending request 25 to [INFO: App       ] 
+1683823735.348787;m3-1;[INFO: App       ] Received request 'hello 25' from fd00::9787
+1683823735.349006;m3-1;[INFO: App       ] sending response
+1683823735.352461;m3-2;[WARN: CSMA      ] not for us
+1683823735.352676;m3-2;[WARN: CSMA      ] not for us
+1683823735.352868;m3-3;[INFO: App       ] Received response 'hello 25' from fd00::a484
+1683823735.368278;m3-2;[INFO: App       ] Sending request 26 to [INFO: App       ] 
+1683823735.412628;m3-1;[INFO: App       ] Received request 'hello 26' from fd00::a685
+1683823735.412844;m3-1;[INFO: App       ] sending response
+1683823735.416709;m3-3;[WARN: CSMA      ] not for us
+1683823735.464248;m3-2;[INFO: App       ] Received response 'hello 26' from fd00::a484
+1683823735.464598;m3-3;[WARN: CSMA      ] not for us
+1683823736.884637;m3-1;[WARN: CSMA      ] not for us
+1683823736.884857;m3-1;[WARN: CSMA      ] not for us
+1683823736.888296;m3-2;[WARN: CSMA      ] not for us
+1683823736.888582;m3-2;[WARN: CSMA      ] not for us
+1683823736.888779;m3-3;[WARN: CSMA      ] not for us
+1683823736.888890;m3-3;[WARN: CSMA      ] not for us
+1683823736.900493;m3-1;[WARN: CSMA      ] not for us
+1683823736.900706;m3-1;[WARN: CSMA      ] not for us
+1683823736.904162;m3-2;[WARN: CSMA      ] not for us
+1683823736.904451;m3-2;[WARN: CSMA      ] not for us
+1683823736.904644;m3-3;[WARN: CSMA      ] not for us
+1683823736.904756;m3-3;[WARN: CSMA      ] not for us
+1683823737.588893;m3-1;[WARN: CSMA      ] not for us
+1683823737.589147;m3-1;[WARN: CSMA      ] not for us
+1683823737.592167;m3-2;[WARN: CSMA      ] not for us
+1683823737.592445;m3-2;[WARN: CSMA      ] not for us
+1683823737.592637;m3-3;[WARN: CSMA      ] not for us
+1683823737.592748;m3-3;[WARN: CSMA      ] not for us
+1683823737.940566;m3-1;[WARN: CSMA      ] not for us
+1683823737.940778;m3-1;[WARN: CSMA      ] not for us
+1683823737.944071;m3-2;[WARN: CSMA      ] not for us
+1683823737.944356;m3-2;[WARN: CSMA      ] not for us
+1683823737.944549;m3-3;[WARN: CSMA      ] not for us
+1683823737.944661;m3-3;[WARN: CSMA      ] not for us
+1683823738.244376;m3-1;[WARN: CSMA      ] not for us
+1683823738.244588;m3-1;[WARN: CSMA      ] not for us
+1683823738.248066;m3-2;[WARN: CSMA      ] not for us
+1683823738.248350;m3-2;[WARN: CSMA      ] not for us
+1683823738.248544;m3-3;[WARN: CSMA      ] not for us
+1683823738.260347;m3-1;[WARN: CSMA      ] not for us
+1683823738.264015;m3-2;[WARN: CSMA      ] not for us
+1683823738.264305;m3-2;[WARN: CSMA      ] not for us
+1683823738.264499;m3-3;[WARN: CSMA      ] not for us
+1683823738.264610;m3-3;[WARN: CSMA      ] not for us
+1683823738.276226;m3-1;[WARN: CSMA      ] not for us
+1683823738.920286;m3-3;[WARN: CSMA      ] not for us
+1683823738.932512;m3-1;[WARN: CSMA      ] not for us
+1683823738.932741;m3-1;[WARN: CSMA      ] not for us
+1683823738.936106;m3-2;[WARN: CSMA      ] not for us
+1683823738.936318;m3-2;[WARN: CSMA      ] not for us
+1683823738.936509;m3-3;[WARN: CSMA      ] not for us
+1683823739.300401;m3-1;[WARN: CSMA      ] not for us
+1683823739.300613;m3-1;[WARN: CSMA      ] not for us
+1683823739.303908;m3-2;[WARN: CSMA      ] not for us
+1683823739.304186;m3-2;[WARN: CSMA      ] not for us
+1683823739.304377;m3-3;[WARN: CSMA      ] not for us
+1683823739.304488;m3-3;[WARN: CSMA      ] not for us
+1683823741.336467;m3-3;[INFO: App       ] Sending request 26 to [INFO: App       ] 
+1683823741.368044;m3-2;[INFO: App       ] Sending request 27 to [INFO: App       ] 
+1683823741.380374;m3-1;[INFO: App       ] Received request 'hello 26' from fd00::9787
+1683823741.380591;m3-1;[INFO: App       ] sending response
+1683823741.383841;m3-2;[WARN: CSMA      ] not for us
+1683823741.428195;m3-1;[INFO: App       ] Received request 'hello 27' from fd00::a685
+1683823741.428411;m3-1;[INFO: App       ] sending response
+1683823741.432312;m3-3;[WARN: CSMA      ] not for us
+1683823741.447802;m3-2;[WARN: CSMA      ] not for us
+1683823741.448151;m3-3;[INFO: App       ] Received response 'hello 26' from fd00::a484
+1683823741.463799;m3-2;[INFO: App       ] Received response 'hello 27' from fd00::a484
+1683823741.464162;m3-3;[WARN: CSMA      ] not for us
+1683823743.012261;m3-1;[WARN: CSMA      ] not for us
+1683823743.012481;m3-1;[WARN: CSMA      ] not for us
+1683823743.016009;m3-2;[WARN: CSMA      ] not for us
+1683823743.016220;m3-2;[WARN: CSMA      ] not for us
+1683823743.016340;m3-2;[WARN: CSMA      ] not for us
+1683823743.016440;m3-2;[WARN: CSMA      ] not for us
+1683823743.016605;m3-3;[WARN: CSMA      ] not for us
+1683823743.016704;m3-3;[WARN: CSMA      ] not for us
+1683823743.016794;m3-3;[WARN: CSMA      ] not for us
+1683823743.028105;m3-1;[WARN: CSMA      ] not for us
+1683823743.028315;m3-1;[WARN: CSMA      ] not for us
+1683823743.028432;m3-1;[WARN: CSMA      ] not for us
+1683823743.028532;m3-1;[WARN: CSMA      ] not for us
+1683823743.031868;m3-2;[WARN: CSMA      ] not for us
+1683823743.032081;m3-2;[WARN: CSMA      ] not for us
+1683823743.032270;m3-3;[WARN: CSMA      ] not for us
+1683823743.032381;m3-3;[WARN: CSMA      ] not for us
+1683823743.044018;m3-1;[WARN: CSMA      ] not for us
+1683823743.047775;m3-2;[WARN: CSMA      ] not for us
+1683823743.047988;m3-2;[WARN: CSMA      ] not for us
+1683823743.048178;m3-3;[WARN: CSMA      ] not for us
+1683823743.048289;m3-3;[WARN: CSMA      ] not for us
+1683823743.060000;m3-1;[WARN: CSMA      ] not for us
+1683823743.223816;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823743.236022;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823743.239680;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823743.380204;m3-1;[WARN: CSMA      ] not for us
+1683823743.380416;m3-1;[WARN: CSMA      ] not for us
+1683823743.383937;m3-2;[WARN: CSMA      ] not for us
+1683823743.384150;m3-2;[WARN: CSMA      ] not for us
+1683823743.384340;m3-3;[WARN: CSMA      ] not for us
+1683823743.384453;m3-3;[WARN: CSMA      ] not for us
+1683823744.055692;m3-2;[WARN: CSMA      ] not for us
+1683823744.056038;m3-3;[WARN: CSMA      ] not for us
+1683823744.056170;m3-3;[WARN: CSMA      ] not for us
+1683823744.068138;m3-1;[WARN: CSMA      ] not for us
+1683823744.068350;m3-1;[WARN: CSMA      ] not for us
+1683823744.071623;m3-2;[WARN: CSMA      ] not for us
+1683823744.407759;m3-2;[WARN: CSMA      ] not for us
+1683823744.408037;m3-2;[WARN: CSMA      ] not for us
+1683823744.408230;m3-3;[WARN: CSMA      ] not for us
+1683823744.408344;m3-3;[WARN: CSMA      ] not for us
+1683823744.420093;m3-1;[WARN: CSMA      ] not for us
+1683823744.420306;m3-1;[WARN: CSMA      ] not for us
+1683823744.739919;m3-1;[WARN: CSMA      ] not for us
+1683823744.743603;m3-2;[WARN: CSMA      ] not for us
+1683823745.396085;m3-1;[WARN: CSMA      ] not for us
+1683823745.399645;m3-2;[WARN: CSMA      ] not for us
+1683823745.399927;m3-2;[WARN: CSMA      ] not for us
+1683823745.400138;m3-3;[WARN: CSMA      ] not for us
+1683823745.400251;m3-3;[WARN: CSMA      ] not for us
+1683823745.411954;m3-1;[WARN: CSMA      ] not for us
+1683823745.415713;m3-3;[WARN: CSMA      ] not for us
+1683823745.427932;m3-1;[WARN: CSMA      ] not for us
+1683823745.428143;m3-1;[WARN: CSMA      ] not for us
+1683823745.431491;m3-2;[WARN: CSMA      ] not for us
+1683823745.431778;m3-2;[WARN: CSMA      ] not for us
+1683823745.431970;m3-3;[WARN: CSMA      ] not for us
+1683823747.336038;m3-3;[INFO: App       ] Sending request 27 to [INFO: App       ] 
+1683823747.348066;m3-1;[INFO: App       ] Received request 'hello 27' from fd00::9787
+1683823747.348281;m3-1;[INFO: App       ] sending response
+1683823747.351616;m3-2;[WARN: CSMA      ] not for us
+1683823747.367516;m3-2;[INFO: App       ] Sending request 28 to [INFO: App       ] 
+1683823747.367736;m3-2;[WARN: CSMA      ] not for us
+1683823747.367931;m3-3;[INFO: App       ] Received response 'hello 27' from fd00::a484
+1683823747.395755;m3-1;[INFO: App       ] Received request 'hello 28' from fd00::a685
+1683823747.395971;m3-1;[INFO: App       ] sending response
+1683823747.399813;m3-3;[WARN: CSMA      ] not for us
+1683823747.447447;m3-2;[INFO: App       ] Received response 'hello 28' from fd00::a484
+1683823747.447731;m3-3;[WARN: CSMA      ] not for us
+1683823748.819886;m3-1;[WARN: CSMA      ] not for us
+1683823748.820099;m3-1;[WARN: CSMA      ] not for us
+1683823748.823452;m3-2;[WARN: CSMA      ] not for us
+1683823748.823741;m3-2;[WARN: CSMA      ] not for us
+1683823748.823932;m3-3;[WARN: CSMA      ] not for us
+1683823748.824044;m3-3;[WARN: CSMA      ] not for us
+1683823749.139631;m3-1;[WARN: CSMA      ] not for us
+1683823749.143391;m3-2;[WARN: CSMA      ] not for us
+1683823749.143602;m3-2;[WARN: CSMA      ] not for us
+1683823749.143790;m3-3;[WARN: CSMA      ] not for us
+1683823749.155595;m3-1;[WARN: CSMA      ] not for us
+1683823749.155808;m3-1;[WARN: CSMA      ] not for us
+1683823749.159337;m3-2;[WARN: CSMA      ] not for us
+1683823749.159549;m3-2;[WARN: CSMA      ] not for us
+1683823749.159735;m3-3;[WARN: CSMA      ] not for us
+1683823749.159846;m3-3;[WARN: CSMA      ] not for us
+1683823749.507740;m3-1;[WARN: CSMA      ] not for us
+1683823749.507958;m3-1;[WARN: CSMA      ] not for us
+1683823749.511484;m3-2;[WARN: CSMA      ] not for us
+1683823749.511697;m3-2;[WARN: CSMA      ] not for us
+1683823749.511884;m3-3;[WARN: CSMA      ] not for us
+1683823749.511994;m3-3;[WARN: CSMA      ] not for us
+1683823749.811641;m3-1;[WARN: CSMA      ] not for us
+1683823749.811854;m3-1;[WARN: CSMA      ] not for us
+1683823749.815364;m3-2;[WARN: CSMA      ] not for us
+1683823749.815577;m3-2;[WARN: CSMA      ] not for us
+1683823749.815768;m3-3;[WARN: CSMA      ] not for us
+1683823749.815881;m3-3;[WARN: CSMA      ] not for us
+1683823750.499676;m3-1;[WARN: CSMA      ] not for us
+1683823750.499918;m3-1;[WARN: CSMA      ] not for us
+1683823750.503384;m3-2;[WARN: CSMA      ] not for us
+1683823750.503663;m3-3;[WARN: CSMA      ] not for us
+1683823750.867470;m3-1;[WARN: CSMA      ] not for us
+1683823750.870318;m3-1;[WARN: CSMA      ] not for us
+1683823750.871091;m3-2;[WARN: CSMA      ] not for us
+1683823750.871303;m3-2;[WARN: CSMA      ] not for us
+1683823750.871469;m3-3;[WARN: CSMA      ] not for us
+1683823750.871574;m3-3;[WARN: CSMA      ] not for us
+1683823753.335481;m3-3;[INFO: App       ] Sending request 28 to [INFO: App       ] 
+1683823753.363696;m3-1;[INFO: App       ] Received request 'hello 29' from fd00::a685
+1683823753.363915;m3-1;[INFO: App       ] sending response
+1683823753.367273;m3-2;[INFO: App       ] Sending request 29 to [INFO: App       ] 
+1683823753.367488;m3-2;[INFO: App       ] Received response 'hello 29' from fd00::a484
+1683823753.367643;m3-3;[WARN: CSMA      ] not for us
+1683823753.367752;m3-3;[WARN: CSMA      ] not for us
+1683823753.398988;m3-2;[WARN: CSMA      ] not for us
+1683823753.411402;m3-1;[INFO: App       ] Received request 'hello 28' from fd00::9787
+1683823753.411618;m3-1;[INFO: App       ] sending response
+1683823753.414988;m3-2;[WARN: CSMA      ] not for us
+1683823753.415287;m3-3;[INFO: App       ] Received response 'hello 28' from fd00::a484
+1683823754.947436;m3-1;[WARN: CSMA      ] not for us
+1683823754.947654;m3-1;[WARN: CSMA      ] not for us
+1683823754.951085;m3-2;[WARN: CSMA      ] not for us
+1683823754.951297;m3-2;[WARN: CSMA      ] not for us
+1683823754.951484;m3-3;[WARN: CSMA      ] not for us
+1683823754.951596;m3-3;[WARN: CSMA      ] not for us
+1683823755.254925;m3-2;[WARN: CSMA      ] not for us
+1683823755.255206;m3-3;[WARN: CSMA      ] not for us
+1683823755.267191;m3-1;[WARN: CSMA      ] not for us
+1683823755.267402;m3-1;[WARN: CSMA      ] not for us
+1683823755.270906;m3-2;[WARN: CSMA      ] not for us
+1683823755.271147;m3-3;[WARN: CSMA      ] not for us
+1683823755.299079;m3-1;[WARN: CSMA      ] not for us
+1683823755.299288;m3-1;[WARN: CSMA      ] not for us
+1683823755.302923;m3-2;[WARN: CSMA      ] not for us
+1683823755.303138;m3-2;[WARN: CSMA      ] not for us
+1683823755.303284;m3-3;[WARN: CSMA      ] not for us
+1683823755.303391;m3-3;[WARN: CSMA      ] not for us
+1683823755.635304;m3-1;[WARN: CSMA      ] not for us
+1683823755.635524;m3-1;[WARN: CSMA      ] not for us
+1683823755.639062;m3-2;[WARN: CSMA      ] not for us
+1683823755.639273;m3-2;[WARN: CSMA      ] not for us
+1683823755.639423;m3-3;[WARN: CSMA      ] not for us
+1683823755.639529;m3-3;[WARN: CSMA      ] not for us
+1683823755.939234;m3-1;[WARN: CSMA      ] not for us
+1683823755.939446;m3-1;[WARN: CSMA      ] not for us
+1683823755.942993;m3-2;[WARN: CSMA      ] not for us
+1683823755.943206;m3-2;[WARN: CSMA      ] not for us
+1683823755.943393;m3-3;[WARN: CSMA      ] not for us
+1683823755.955171;m3-1;[WARN: CSMA      ] not for us
+1683823755.955384;m3-1;[WARN: CSMA      ] not for us
+1683823755.958913;m3-2;[WARN: CSMA      ] not for us
+1683823755.959124;m3-2;[WARN: CSMA      ] not for us
+1683823755.959311;m3-3;[WARN: CSMA      ] not for us
+1683823755.959423;m3-3;[WARN: CSMA      ] not for us
+1683823756.243164;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823756.246994;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823756.247241;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823756.291140;m3-1;[WARN: CSMA      ] not for us
+1683823756.291354;m3-1;[WARN: CSMA      ] not for us
+1683823756.294945;m3-2;[WARN: CSMA      ] not for us
+1683823756.295157;m3-2;[WARN: CSMA      ] not for us
+1683823756.295308;m3-3;[WARN: CSMA      ] not for us
+1683823756.295414;m3-3;[WARN: CSMA      ] not for us
+1683823756.627306;m3-1;[WARN: CSMA      ] not for us
+1683823756.627518;m3-1;[WARN: CSMA      ] not for us
+1683823756.630847;m3-2;[WARN: CSMA      ] not for us
+1683823756.631061;m3-2;[WARN: CSMA      ] not for us
+1683823756.631208;m3-3;[WARN: CSMA      ] not for us
+1683823756.631314;m3-3;[WARN: CSMA      ] not for us
+1683823756.995097;m3-1;[WARN: CSMA      ] not for us
+1683823756.995311;m3-1;[WARN: CSMA      ] not for us
+1683823756.998899;m3-2;[WARN: CSMA      ] not for us
+1683823756.999109;m3-2;[WARN: CSMA      ] not for us
+1683823756.999259;m3-3;[WARN: CSMA      ] not for us
+1683823756.999366;m3-3;[WARN: CSMA      ] not for us
+1683823759.335000;m3-3;[INFO: App       ] Sending request 29 to [INFO: App       ] 
+1683823759.363182;m3-1;[WARN: CSMA      ] not for us
+1683823759.363394;m3-1;[WARN: CSMA      ] not for us
+1683823759.367001;m3-2;[INFO: App       ] Sending request 30 to [INFO: App       ] 
+1683823759.367217;m3-2;[WARN: CSMA      ] not for us
+1683823759.367337;m3-2;[WARN: CSMA      ] not for us
+1683823759.367470;m3-3;[WARN: CSMA      ] not for us
+1683823759.367571;m3-3;[WARN: CSMA      ] not for us
+1683823759.379006;m3-1;[INFO: App       ] Received request 'hello 29' from fd00::9787
+1683823759.379221;m3-1;[INFO: App       ] sending response
+1683823759.382817;m3-2;[WARN: CSMA      ] not for us
+1683823759.394956;m3-1;[INFO: App       ] Received request 'hello 30' from fd00::a685
+1683823759.395172;m3-1;[INFO: App       ] sending response
+1683823759.398817;m3-3;[WARN: CSMA      ] not for us
+1683823759.414718;m3-2;[WARN: CSMA      ] not for us
+1683823759.430792;m3-3;[INFO: App       ] Received response 'hello 29' from fd00::a484
+1683823759.446717;m3-2;[INFO: App       ] Received response 'hello 30' from fd00::a484
+1683823759.446959;m3-3;[WARN: CSMA      ] not for us
+1683823761.075018;m3-1;[WARN: CSMA      ] not for us
+1683823761.075282;m3-1;[WARN: CSMA      ] not for us
+1683823761.078799;m3-2;[WARN: CSMA      ] not for us
+1683823761.079010;m3-2;[WARN: CSMA      ] not for us
+1683823761.079160;m3-3;[WARN: CSMA      ] not for us
+1683823761.079266;m3-3;[WARN: CSMA      ] not for us
+1683823761.382693;m3-2;[WARN: CSMA      ] not for us
+1683823761.382937;m3-3;[WARN: CSMA      ] not for us
+1683823761.394895;m3-1;[WARN: CSMA      ] not for us
+1683823761.395107;m3-1;[WARN: CSMA      ] not for us
+1683823761.395227;m3-1;[WARN: CSMA      ] not for us
+1683823761.395326;m3-1;[WARN: CSMA      ] not for us
+1683823761.398522;m3-2;[WARN: CSMA      ] not for us
+1683823761.398769;m3-2;[WARN: CSMA      ] not for us
+1683823761.398920;m3-3;[WARN: CSMA      ] not for us
+1683823761.399027;m3-3;[WARN: CSMA      ] not for us
+1683823761.426708;m3-1;[WARN: CSMA      ] not for us
+1683823761.426921;m3-1;[WARN: CSMA      ] not for us
+1683823761.430453;m3-2;[WARN: CSMA      ] not for us
+1683823761.430717;m3-2;[WARN: CSMA      ] not for us
+1683823761.430873;m3-3;[WARN: CSMA      ] not for us
+1683823761.430981;m3-3;[WARN: CSMA      ] not for us
+1683823762.066852;m3-1;[WARN: CSMA      ] not for us
+1683823762.067064;m3-1;[WARN: CSMA      ] not for us
+1683823762.070520;m3-2;[WARN: CSMA      ] not for us
+1683823762.070784;m3-2;[WARN: CSMA      ] not for us
+1683823762.070938;m3-3;[WARN: CSMA      ] not for us
+1683823762.071044;m3-3;[WARN: CSMA      ] not for us
+1683823762.082727;m3-1;[WARN: CSMA      ] not for us
+1683823762.082940;m3-1;[WARN: CSMA      ] not for us
+1683823762.086511;m3-2;[WARN: CSMA      ] not for us
+1683823762.086756;m3-2;[WARN: CSMA      ] not for us
+1683823762.086908;m3-3;[WARN: CSMA      ] not for us
+1683823762.087014;m3-3;[WARN: CSMA      ] not for us
+1683823762.098632;m3-1;[WARN: CSMA      ] not for us
+1683823762.098845;m3-1;[WARN: CSMA      ] not for us
+1683823762.102467;m3-2;[WARN: CSMA      ] not for us
+1683823762.102713;m3-2;[WARN: CSMA      ] not for us
+1683823762.102866;m3-3;[WARN: CSMA      ] not for us
+1683823762.102970;m3-3;[WARN: CSMA      ] not for us
+1683823765.334527;m3-3;[INFO: App       ] Sending request 30 to [INFO: App       ] 
+1683823765.366459;m3-2;[INFO: App       ] Sending request 31 to [INFO: App       ] 
+1683823765.366717;m3-2;[WARN: CSMA      ] not for us
+1683823765.378755;m3-1;[INFO: App       ] Received request 'hello 30' from fd00::9787
+1683823765.378971;m3-1;[INFO: App       ] sending response
+1683823765.430450;m3-2;[WARN: CSMA      ] not for us
+1683823765.430727;m3-3;[INFO: App       ] Received response 'hello 30' from fd00::a484
+1683823765.458601;m3-1;[INFO: App       ] Received request 'hello 31' from fd00::a685
+1683823765.458818;m3-1;[INFO: App       ] sending response
+1683823765.462383;m3-3;[WARN: CSMA      ] not for us
+1683823765.478379;m3-2;[INFO: App       ] Received response 'hello 31' from fd00::a484
+1683823765.478658;m3-3;[WARN: CSMA      ] not for us
+1683823766.418623;m3-1;[WARN: CSMA      ] not for us
+1683823766.834435;m3-1;[WARN: CSMA      ] not for us
+1683823766.834687;m3-1;[WARN: CSMA      ] not for us
+1683823766.838375;m3-2;[WARN: CSMA      ] not for us
+1683823766.838622;m3-2;[WARN: CSMA      ] not for us
+1683823766.838777;m3-3;[WARN: CSMA      ] not for us
+1683823766.838885;m3-3;[WARN: CSMA      ] not for us
+1683823766.854324;m3-3;[WARN: CSMA      ] not for us
+1683823766.866389;m3-1;[WARN: CSMA      ] not for us
+1683823766.866653;m3-1;[WARN: CSMA      ] not for us
+1683823766.870270;m3-2;[WARN: CSMA      ] not for us
+1683823766.870484;m3-2;[WARN: CSMA      ] not for us
+1683823766.870673;m3-3;[WARN: CSMA      ] not for us
+1683823766.870781;m3-3;[WARN: CSMA      ] not for us
+1683823767.202419;m3-1;[WARN: CSMA      ] not for us
+1683823767.202673;m3-1;[WARN: CSMA      ] not for us
+1683823767.206261;m3-2;[WARN: CSMA      ] not for us
+1683823767.206495;m3-2;[WARN: CSMA      ] not for us
+1683823767.206690;m3-3;[WARN: CSMA      ] not for us
+1683823767.206799;m3-3;[WARN: CSMA      ] not for us
+1683823767.506582;m3-1;[WARN: CSMA      ] not for us
+1683823767.506807;m3-1;[WARN: CSMA      ] not for us
+1683823767.510352;m3-2;[WARN: CSMA      ] not for us
+1683823767.510599;m3-2;[WARN: CSMA      ] not for us
+1683823767.510753;m3-3;[WARN: CSMA      ] not for us
+1683823767.510858;m3-3;[WARN: CSMA      ] not for us
+1683823767.554437;m3-1;[WARN: CSMA      ] not for us
+1683823767.554685;m3-1;[WARN: CSMA      ] not for us
+1683823767.558294;m3-2;[WARN: CSMA      ] not for us
+1683823767.558510;m3-2;[WARN: CSMA      ] not for us
+1683823767.558705;m3-3;[WARN: CSMA      ] not for us
+1683823767.558813;m3-3;[WARN: CSMA      ] not for us
+1683823768.194350;m3-1;[WARN: CSMA      ] not for us
+1683823768.194658;m3-1;[WARN: CSMA      ] not for us
+1683823768.198069;m3-2;[WARN: CSMA      ] not for us
+1683823768.198323;m3-2;[WARN: CSMA      ] not for us
+1683823768.198476;m3-3;[WARN: CSMA      ] not for us
+1683823768.198632;m3-3;[WARN: CSMA      ] not for us
+1683823768.210290;m3-1;[WARN: CSMA      ] not for us
+1683823768.210503;m3-1;[WARN: CSMA      ] not for us
+1683823768.214077;m3-2;[WARN: CSMA      ] not for us
+1683823768.214327;m3-2;[WARN: CSMA      ] not for us
+1683823768.214480;m3-3;[WARN: CSMA      ] not for us
+1683823768.214626;m3-3;[WARN: CSMA      ] not for us
+1683823768.562428;m3-1;[WARN: CSMA      ] not for us
+1683823768.562680;m3-1;[WARN: CSMA      ] not for us
+1683823768.566298;m3-2;[WARN: CSMA      ] not for us
+1683823768.566511;m3-2;[WARN: CSMA      ] not for us
+1683823768.566699;m3-3;[WARN: CSMA      ] not for us
+1683823768.566806;m3-3;[WARN: CSMA      ] not for us
+1683823771.250321;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823771.254109;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823771.254396;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823771.333938;m3-3;[INFO: App       ] Sending request 31 to [INFO: App       ] 
+1683823771.365957;m3-2;[INFO: App       ] Sending request 32 to [INFO: App       ] 
+1683823771.366241;m3-3;[WARN: CSMA      ] not for us
+1683823771.378335;m3-1;[INFO: App       ] Received request 'hello 32' from fd00::a685
+1683823771.378588;m3-1;[INFO: App       ] sending response
+1683823771.394135;m3-1;[INFO: App       ] Received request 'hello 31' from fd00::9787
+1683823771.394390;m3-1;[INFO: App       ] sending response
+1683823771.397998;m3-2;[WARN: CSMA      ] not for us
+1683823771.429923;m3-2;[INFO: App       ] Received response 'hello 32' from fd00::a484
+1683823771.430168;m3-3;[WARN: CSMA      ] not for us
+1683823771.445877;m3-2;[WARN: CSMA      ] not for us
+1683823771.446119;m3-3;[INFO: App       ] Received response 'hello 31' from fd00::a484
+1683823772.949972;m3-3;[WARN: CSMA      ] not for us
+1683823772.962134;m3-1;[WARN: CSMA      ] not for us
+1683823772.962387;m3-1;[WARN: CSMA      ] not for us
+1683823772.965805;m3-2;[WARN: CSMA      ] not for us
+1683823772.966045;m3-3;[WARN: CSMA      ] not for us
+1683823772.977990;m3-1;[WARN: CSMA      ] not for us
+1683823772.978204;m3-1;[WARN: CSMA      ] not for us
+1683823772.981834;m3-2;[WARN: CSMA      ] not for us
+1683823772.982046;m3-2;[WARN: CSMA      ] not for us
+1683823772.982196;m3-3;[WARN: CSMA      ] not for us
+1683823772.982345;m3-3;[WARN: CSMA      ] not for us
+1683823773.330031;m3-1;[WARN: CSMA      ] not for us
+1683823773.330302;m3-1;[WARN: CSMA      ] not for us
+1683823773.333833;m3-2;[WARN: CSMA      ] not for us
+1683823773.334047;m3-2;[WARN: CSMA      ] not for us
+1683823773.334195;m3-3;[WARN: CSMA      ] not for us
+1683823773.650081;m3-1;[WARN: CSMA      ] not for us
+1683823773.653925;m3-2;[WARN: CSMA      ] not for us
+1683823773.654136;m3-2;[WARN: CSMA      ] not for us
+1683823773.654324;m3-3;[WARN: CSMA      ] not for us
+1683823773.654434;m3-3;[WARN: CSMA      ] not for us
+1683823773.665993;m3-1;[WARN: CSMA      ] not for us
+1683823774.001878;m3-1;[WARN: CSMA      ] not for us
+1683823774.002108;m3-1;[WARN: CSMA      ] not for us
+1683823774.005735;m3-2;[WARN: CSMA      ] not for us
+1683823774.005946;m3-2;[WARN: CSMA      ] not for us
+1683823774.006094;m3-3;[WARN: CSMA      ] not for us
+1683823774.006201;m3-3;[WARN: CSMA      ] not for us
+1683823774.321934;m3-1;[WARN: CSMA      ] not for us
+1683823774.322145;m3-1;[WARN: CSMA      ] not for us
+1683823774.325720;m3-2;[WARN: CSMA      ] not for us
+1683823774.325932;m3-2;[WARN: CSMA      ] not for us
+1683823774.337852;m3-1;[WARN: CSMA      ] not for us
+1683823774.338064;m3-1;[WARN: CSMA      ] not for us
+1683823774.341697;m3-2;[WARN: CSMA      ] not for us
+1683823774.341908;m3-2;[WARN: CSMA      ] not for us
+1683823774.342057;m3-3;[WARN: CSMA      ] not for us
+1683823774.342164;m3-3;[WARN: CSMA      ] not for us
+1683823774.689976;m3-1;[WARN: CSMA      ] not for us
+1683823774.690192;m3-1;[WARN: CSMA      ] not for us
+1683823774.693826;m3-2;[WARN: CSMA      ] not for us
+1683823774.694037;m3-2;[WARN: CSMA      ] not for us
+1683823774.694184;m3-3;[WARN: CSMA      ] not for us
+1683823774.694362;m3-3;[WARN: CSMA      ] not for us
+1683823774.993890;m3-1;[WARN: CSMA      ] not for us
+1683823774.994106;m3-1;[WARN: CSMA      ] not for us
+1683823774.997680;m3-2;[WARN: CSMA      ] not for us
+1683823774.997893;m3-2;[WARN: CSMA      ] not for us
+1683823774.998041;m3-3;[WARN: CSMA      ] not for us
+1683823774.998149;m3-3;[WARN: CSMA      ] not for us
+1683823777.349589;m3-2;[WARN: CSMA      ] not for us
+1683823777.349848;m3-3;[INFO: App       ] Sending request 32 to [INFO: App       ] 
+1683823777.361679;m3-1;[INFO: App       ] Received request 'hello 32' from fd00::9787
+1683823777.361895;m3-1;[INFO: App       ] sending response
+1683823777.365511;m3-2;[WARN: CSMA      ] not for us
+1683823777.365723;m3-2;[INFO: App       ] Sending request 33 to [INFO: App       ] 
+1683823777.365876;m3-3;[INFO: App       ] Received response 'hello 32' from fd00::a484
+1683823777.393849;m3-1;[INFO: App       ] Received request 'hello 33' from fd00::a685
+1683823777.394066;m3-1;[INFO: App       ] sending response
+1683823777.397475;m3-2;[INFO: App       ] Received response 'hello 33' from fd00::a484
+1683823777.397721;m3-3;[WARN: CSMA      ] not for us
+1683823777.397848;m3-3;[WARN: CSMA      ] not for us
+1683823778.481833;m3-1;[WARN: CSMA      ] not for us
+1683823778.769570;m3-1;[WARN: CSMA      ] not for us
+1683823778.769783;m3-1;[WARN: CSMA      ] not for us
+1683823778.773555;m3-2;[WARN: CSMA      ] not for us
+1683823778.773767;m3-2;[WARN: CSMA      ] not for us
+1683823778.773915;m3-3;[WARN: CSMA      ] not for us
+1683823778.774022;m3-3;[WARN: CSMA      ] not for us
+1683823779.077415;m3-2;[WARN: CSMA      ] not for us
+1683823779.077656;m3-3;[WARN: CSMA      ] not for us
+1683823779.077781;m3-3;[WARN: CSMA      ] not for us
+1683823779.089502;m3-1;[WARN: CSMA      ] not for us
+1683823779.089714;m3-1;[WARN: CSMA      ] not for us
+1683823779.105497;m3-1;[WARN: CSMA      ] not for us
+1683823779.105709;m3-1;[WARN: CSMA      ] not for us
+1683823779.109364;m3-2;[WARN: CSMA      ] not for us
+1683823779.109576;m3-2;[WARN: CSMA      ] not for us
+1683823779.109725;m3-3;[WARN: CSMA      ] not for us
+1683823779.109834;m3-3;[WARN: CSMA      ] not for us
+1683823779.445541;m3-2;[WARN: CSMA      ] not for us
+1683823779.445781;m3-3;[WARN: CSMA      ] not for us
+1683823779.457674;m3-1;[WARN: CSMA      ] not for us
+1683823779.457888;m3-1;[WARN: CSMA      ] not for us
+1683823779.461390;m3-2;[WARN: CSMA      ] not for us
+1683823779.461630;m3-3;[WARN: CSMA      ] not for us
+1683823779.761570;m3-1;[WARN: CSMA      ] not for us
+1683823779.761782;m3-1;[WARN: CSMA      ] not for us
+1683823779.765389;m3-2;[WARN: CSMA      ] not for us
+1683823779.765601;m3-2;[WARN: CSMA      ] not for us
+1683823779.765750;m3-3;[WARN: CSMA      ] not for us
+1683823779.765857;m3-3;[WARN: CSMA      ] not for us
+1683823780.129575;m3-1;[WARN: CSMA      ] not for us
+1683823780.129788;m3-1;[WARN: CSMA      ] not for us
+1683823780.133341;m3-2;[WARN: CSMA      ] not for us
+1683823780.133553;m3-2;[WARN: CSMA      ] not for us
+1683823780.133721;m3-3;[WARN: CSMA      ] not for us
+1683823780.133830;m3-3;[WARN: CSMA      ] not for us
+1683823780.145535;m3-1;[WARN: CSMA      ] not for us
+1683823780.145749;m3-1;[WARN: CSMA      ] not for us
+1683823780.149296;m3-2;[WARN: CSMA      ] not for us
+1683823780.149506;m3-2;[WARN: CSMA      ] not for us
+1683823780.149655;m3-3;[WARN: CSMA      ] not for us
+1683823780.149761;m3-3;[WARN: CSMA      ] not for us
+1683823780.437438;m3-2;[WARN: CSMA      ] not for us
+1683823780.437647;m3-2;[WARN: CSMA      ] not for us
+1683823780.437795;m3-3;[WARN: CSMA      ] not for us
+1683823780.449557;m3-1;[WARN: CSMA      ] not for us
+1683823780.449771;m3-1;[WARN: CSMA      ] not for us
+1683823780.453278;m3-3;[WARN: CSMA      ] not for us
+1683823780.465418;m3-1;[WARN: CSMA      ] not for us
+1683823780.465631;m3-1;[WARN: CSMA      ] not for us
+1683823780.469276;m3-2;[WARN: CSMA      ] not for us
+1683823780.469489;m3-2;[WARN: CSMA      ] not for us
+1683823780.469637;m3-3;[WARN: CSMA      ] not for us
+1683823780.469743;m3-3;[WARN: CSMA      ] not for us
+1683823783.349087;m3-3;[INFO: App       ] Sending request 33 to [INFO: App       ] 
+1683823783.365371;m3-2;[INFO: App       ] Sending request 34 to [INFO: App       ] 
+1683823783.381037;m3-3;[WARN: CSMA      ] not for us
+1683823783.393132;m3-1;[INFO: App       ] Received request 'hello 34' from fd00::a685
+1683823783.393349;m3-1;[INFO: App       ] sending response
+1683823783.397163;m3-2;[WARN: CSMA      ] not for us
+1683823783.409325;m3-1;[INFO: App       ] Received request 'hello 33' from fd00::9787
+1683823783.409541;m3-1;[INFO: App       ] sending response
+1683823783.413218;m3-2;[WARN: CSMA      ] not for us
+1683823783.413431;m3-2;[INFO: App       ] Received response 'hello 34' from fd00::a484
+1683823783.413586;m3-3;[INFO: App       ] Received response 'hello 33' from fd00::a484
+1683823783.413698;m3-3;[WARN: CSMA      ] not for us
+1683823784.897258;m3-1;[WARN: CSMA      ] not for us
+1683823784.897474;m3-1;[WARN: CSMA      ] not for us
+1683823784.901129;m3-2;[WARN: CSMA      ] not for us
+1683823784.901342;m3-2;[WARN: CSMA      ] not for us
+1683823784.901462;m3-2;[WARN: CSMA      ] not for us
+1683823784.901563;m3-2;[WARN: CSMA      ] not for us
+1683823784.901690;m3-3;[WARN: CSMA      ] not for us
+1683823784.901786;m3-3;[WARN: CSMA      ] not for us
+1683823784.901875;m3-3;[WARN: CSMA      ] not for us
+1683823784.901963;m3-3;[WARN: CSMA      ] not for us
+1683823784.913115;m3-1;[WARN: CSMA      ] not for us
+1683823784.913327;m3-1;[WARN: CSMA      ] not for us
+1683823785.201106;m3-1;[WARN: CSMA      ] not for us
+1683823785.201318;m3-1;[WARN: CSMA      ] not for us
+1683823785.204991;m3-2;[WARN: CSMA      ] not for us
+1683823785.205234;m3-3;[WARN: CSMA      ] not for us
+1683823785.205359;m3-3;[WARN: CSMA      ] not for us
+1683823785.217066;m3-1;[WARN: CSMA      ] not for us
+1683823785.217280;m3-1;[WARN: CSMA      ] not for us
+1683823785.220976;m3-2;[WARN: CSMA      ] not for us
+1683823785.221185;m3-2;[WARN: CSMA      ] not for us
+1683823785.221306;m3-2;[WARN: CSMA      ] not for us
+1683823785.221439;m3-3;[WARN: CSMA      ] not for us
+1683823785.221539;m3-3;[WARN: CSMA      ] not for us
+1683823785.221631;m3-3;[WARN: CSMA      ] not for us
+1683823785.265077;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823785.268938;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823785.269186;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823785.573100;m3-2;[WARN: CSMA      ] not for us
+1683823785.573313;m3-2;[WARN: CSMA      ] not for us
+1683823785.573461;m3-3;[WARN: CSMA      ] not for us
+1683823785.573567;m3-3;[WARN: CSMA      ] not for us
+1683823785.585232;m3-1;[WARN: CSMA      ] not for us
+1683823785.585444;m3-1;[WARN: CSMA      ] not for us
+1683823785.889174;m3-1;[WARN: CSMA      ] not for us
+1683823785.889388;m3-1;[WARN: CSMA      ] not for us
+1683823785.892836;m3-3;[WARN: CSMA      ] not for us
+1683823785.905115;m3-1;[WARN: CSMA      ] not for us
+1683823785.905325;m3-1;[WARN: CSMA      ] not for us
+1683823785.905473;m3-1;[WARN: CSMA      ] not for us
+1683823785.905576;m3-1;[WARN: CSMA      ] not for us
+1683823785.908882;m3-2;[WARN: CSMA      ] not for us
+1683823785.909094;m3-2;[WARN: CSMA      ] not for us
+1683823785.909213;m3-2;[WARN: CSMA      ] not for us
+1683823785.909315;m3-2;[WARN: CSMA      ] not for us
+1683823785.909442;m3-3;[WARN: CSMA      ] not for us
+1683823785.909537;m3-3;[WARN: CSMA      ] not for us
+1683823785.909626;m3-3;[WARN: CSMA      ] not for us
+1683823785.909716;m3-3;[WARN: CSMA      ] not for us
+1683823786.241027;m3-1;[WARN: CSMA      ] not for us
+1683823786.241237;m3-1;[WARN: CSMA      ] not for us
+1683823786.244898;m3-2;[WARN: CSMA      ] not for us
+1683823786.245110;m3-2;[WARN: CSMA      ] not for us
+1683823786.245258;m3-3;[WARN: CSMA      ] not for us
+1683823786.245366;m3-3;[WARN: CSMA      ] not for us
+1683823786.256972;m3-1;[WARN: CSMA      ] not for us
+1683823786.257184;m3-1;[WARN: CSMA      ] not for us
+1683823786.260874;m3-2;[WARN: CSMA      ] not for us
+1683823786.261084;m3-2;[WARN: CSMA      ] not for us
+1683823786.261203;m3-2;[WARN: CSMA      ] not for us
+1683823786.261333;m3-3;[WARN: CSMA      ] not for us
+1683823786.261432;m3-3;[WARN: CSMA      ] not for us
+1683823786.261523;m3-3;[WARN: CSMA      ] not for us
+1683823786.273089;m3-1;[WARN: CSMA      ] not for us
+1683823786.273301;m3-1;[WARN: CSMA      ] not for us
+1683823786.273419;m3-1;[WARN: CSMA      ] not for us
+1683823786.273518;m3-1;[WARN: CSMA      ] not for us
+1683823786.276843;m3-2;[WARN: CSMA      ] not for us
+1683823786.277053;m3-2;[WARN: CSMA      ] not for us
+1683823786.277172;m3-2;[WARN: CSMA      ] not for us
+1683823786.277307;m3-3;[WARN: CSMA      ] not for us
+1683823786.277408;m3-3;[WARN: CSMA      ] not for us
+1683823786.277501;m3-3;[WARN: CSMA      ] not for us
+1683823786.289054;m3-1;[WARN: CSMA      ] not for us
+1683823786.292816;m3-2;[WARN: CSMA      ] not for us
+1683823786.293057;m3-3;[WARN: CSMA      ] not for us
+1683823786.564909;m3-2;[WARN: CSMA      ] not for us
+1683823786.565128;m3-2;[WARN: CSMA      ] not for us
+1683823786.565279;m3-3;[WARN: CSMA      ] not for us
+1683823786.565386;m3-3;[WARN: CSMA      ] not for us
+1683823786.576993;m3-1;[WARN: CSMA      ] not for us
+1683823786.577206;m3-1;[WARN: CSMA      ] not for us
+1683823789.348632;m3-3;[INFO: App       ] Sending request 34 to [INFO: App       ] 
+1683823789.364933;m3-2;[INFO: App       ] Sending request 35 to [INFO: App       ] 
+1683823789.377098;m3-1;[INFO: App       ] Received request 'hello 34' from fd00::9787
+1683823789.377314;m3-1;[INFO: App       ] sending response
+1683823789.380629;m3-2;[WARN: CSMA      ] not for us
+1683823789.380840;m3-2;[WARN: CSMA      ] not for us
+1683823789.380991;m3-3;[INFO: App       ] Received response 'hello 34' from fd00::a484
+1683823789.508688;m3-3;[WARN: CSMA      ] not for us
+1683823789.520935;m3-1;[INFO: App       ] Received request 'hello 35' from fd00::a685
+1683823789.521152;m3-1;[INFO: App       ] sending response
+1683823789.572653;m3-2;[INFO: App       ] Received response 'hello 35' from fd00::a484
+1683823789.572896;m3-3;[WARN: CSMA      ] not for us
+1683823791.024935;m3-1;[WARN: CSMA      ] not for us
+1683823791.025150;m3-1;[WARN: CSMA      ] not for us
+1683823791.028666;m3-2;[WARN: CSMA      ] not for us
+1683823791.028879;m3-2;[WARN: CSMA      ] not for us
+1683823791.029028;m3-3;[WARN: CSMA      ] not for us
+1683823791.029134;m3-3;[WARN: CSMA      ] not for us
+1683823791.328731;m3-1;[WARN: CSMA      ] not for us
+1683823791.328944;m3-1;[WARN: CSMA      ] not for us
+1683823791.332590;m3-2;[WARN: CSMA      ] not for us
+1683823791.332802;m3-2;[WARN: CSMA      ] not for us
+1683823791.332950;m3-3;[WARN: CSMA      ] not for us
+1683823791.333055;m3-3;[WARN: CSMA      ] not for us
+1683823791.376654;m3-1;[WARN: CSMA      ] not for us
+1683823791.376867;m3-1;[WARN: CSMA      ] not for us
+1683823791.380517;m3-2;[WARN: CSMA      ] not for us
+1683823791.380730;m3-2;[WARN: CSMA      ] not for us
+1683823791.380879;m3-3;[WARN: CSMA      ] not for us
+1683823791.380987;m3-3;[WARN: CSMA      ] not for us
+1683823791.696716;m3-1;[WARN: CSMA      ] not for us
+1683823791.700528;m3-2;[WARN: CSMA      ] not for us
+1683823791.700740;m3-2;[WARN: CSMA      ] not for us
+1683823791.700890;m3-3;[WARN: CSMA      ] not for us
+1683823791.700997;m3-3;[WARN: CSMA      ] not for us
+1683823791.712691;m3-1;[WARN: CSMA      ] not for us
+1683823792.016693;m3-1;[WARN: CSMA      ] not for us
+1683823792.016911;m3-1;[WARN: CSMA      ] not for us
+1683823792.020468;m3-2;[WARN: CSMA      ] not for us
+1683823792.020709;m3-3;[WARN: CSMA      ] not for us
+1683823792.032661;m3-1;[WARN: CSMA      ] not for us
+1683823792.032874;m3-1;[WARN: CSMA      ] not for us
+1683823792.036372;m3-2;[WARN: CSMA      ] not for us
+1683823792.036585;m3-2;[WARN: CSMA      ] not for us
+1683823792.036734;m3-3;[WARN: CSMA      ] not for us
+1683823792.036841;m3-3;[WARN: CSMA      ] not for us
+1683823792.048637;m3-1;[WARN: CSMA      ] not for us
+1683823792.048848;m3-1;[WARN: CSMA      ] not for us
+1683823792.052390;m3-2;[WARN: CSMA      ] not for us
+1683823792.052603;m3-2;[WARN: CSMA      ] not for us
+1683823792.052751;m3-3;[WARN: CSMA      ] not for us
+1683823792.052856;m3-3;[WARN: CSMA      ] not for us
+1683823792.356435;m3-2;[WARN: CSMA      ] not for us
+1683823792.356673;m3-3;[WARN: CSMA      ] not for us
+1683823792.368726;m3-1;[WARN: CSMA      ] not for us
+1683823792.368938;m3-1;[WARN: CSMA      ] not for us
+1683823792.372407;m3-2;[WARN: CSMA      ] not for us
+1683823792.372646;m3-3;[WARN: CSMA      ] not for us
+1683823792.708525;m3-2;[WARN: CSMA      ] not for us
+1683823792.708738;m3-2;[WARN: CSMA      ] not for us
+1683823792.708887;m3-3;[WARN: CSMA      ] not for us
+1683823792.708992;m3-3;[WARN: CSMA      ] not for us
+1683823792.720764;m3-1;[WARN: CSMA      ] not for us
+1683823792.720977;m3-1;[WARN: CSMA      ] not for us
+1683823795.348372;m3-3;[INFO: App       ] Sending request 35 to [INFO: App       ] 
+1683823795.364514;m3-2;[INFO: App       ] Sending request 36 to [INFO: App       ] 
+1683823795.376654;m3-1;[INFO: App       ] Received request 'hello 35' from fd00::9787
+1683823795.376870;m3-1;[INFO: App       ] sending response
+1683823795.380354;m3-2;[WARN: CSMA      ] not for us
+1683823795.396256;m3-2;[WARN: CSMA      ] not for us
+1683823795.396497;m3-3;[INFO: App       ] Received response 'hello 35' from fd00::a484
+1683823795.488576;m3-1;[INFO: App       ] Received request 'hello 36' from fd00::a685
+1683823795.488792;m3-1;[INFO: App       ] sending response
+1683823795.492257;m3-3;[WARN: CSMA      ] not for us
+1683823795.540211;m3-3;[WARN: CSMA      ] not for us
+1683823795.540490;m3-2;[INFO: App       ] Received response 'hello 36' from fd00::a484
+1683823796.804201;m3-2;[WARN: CSMA      ] not for us
+1683823796.804443;m3-3;[WARN: CSMA      ] not for us
+1683823796.816495;m3-1;[WARN: CSMA      ] not for us
+1683823796.816708;m3-1;[WARN: CSMA      ] not for us
+1683823796.820132;m3-2;[WARN: CSMA      ] not for us
+1683823796.820345;m3-2;[WARN: CSMA      ] not for us
+1683823796.820495;m3-3;[WARN: CSMA      ] not for us
+1683823796.820601;m3-3;[WARN: CSMA      ] not for us
+1683823797.140136;m3-2;[WARN: CSMA      ] not for us
+1683823797.140391;m3-3;[WARN: CSMA      ] not for us
+1683823797.152395;m3-1;[WARN: CSMA      ] not for us
+1683823797.152609;m3-1;[WARN: CSMA      ] not for us
+1683823797.156069;m3-2;[WARN: CSMA      ] not for us
+1683823797.156310;m3-3;[WARN: CSMA      ] not for us
+1683823797.456391;m3-1;[WARN: CSMA      ] not for us
+1683823797.456603;m3-1;[WARN: CSMA      ] not for us
+1683823797.460265;m3-2;[WARN: CSMA      ] not for us
+1683823797.460477;m3-2;[WARN: CSMA      ] not for us
+1683823797.460627;m3-3;[WARN: CSMA      ] not for us
+1683823797.460732;m3-3;[WARN: CSMA      ] not for us
+1683823797.492111;m3-2;[WARN: CSMA      ] not for us
+1683823797.492321;m3-2;[WARN: CSMA      ] not for us
+1683823797.492471;m3-3;[WARN: CSMA      ] not for us
+1683823797.492578;m3-3;[WARN: CSMA      ] not for us
+1683823797.504244;m3-1;[WARN: CSMA      ] not for us
+1683823797.504458;m3-1;[WARN: CSMA      ] not for us
+1683823797.824215;m3-1;[WARN: CSMA      ] not for us
+1683823797.824428;m3-1;[WARN: CSMA      ] not for us
+1683823797.827989;m3-3;[WARN: CSMA      ] not for us
+1683823797.828202;m3-3;[WARN: CSMA      ] not for us
+1683823797.828392;m3-2;[WARN: CSMA      ] not for us
+1683823797.828505;m3-2;[WARN: CSMA      ] not for us
+1683823798.132015;m3-2;[WARN: CSMA      ] not for us
+1683823798.132256;m3-3;[WARN: CSMA      ] not for us
+1683823798.144260;m3-1;[WARN: CSMA      ] not for us
+1683823798.144471;m3-1;[WARN: CSMA      ] not for us
+1683823798.147964;m3-2;[WARN: CSMA      ] not for us
+1683823798.148204;m3-3;[WARN: CSMA      ] not for us
+1683823798.160208;m3-1;[WARN: CSMA      ] not for us
+1683823798.160420;m3-1;[WARN: CSMA      ] not for us
+1683823798.163939;m3-2;[WARN: CSMA      ] not for us
+1683823798.164153;m3-2;[WARN: CSMA      ] not for us
+1683823798.164301;m3-3;[WARN: CSMA      ] not for us
+1683823798.164408;m3-3;[WARN: CSMA      ] not for us
+1683823798.176197;m3-1;[WARN: CSMA      ] not for us
+1683823798.176408;m3-1;[WARN: CSMA      ] not for us
+1683823798.179979;m3-2;[WARN: CSMA      ] not for us
+1683823798.180192;m3-2;[WARN: CSMA      ] not for us
+1683823798.180341;m3-3;[WARN: CSMA      ] not for us
+1683823798.180447;m3-3;[WARN: CSMA      ] not for us
+1683823798.512372;m3-1;[WARN: CSMA      ] not for us
+1683823798.512584;m3-1;[WARN: CSMA      ] not for us
+1683823798.516118;m3-2;[WARN: CSMA      ] not for us
+1683823798.516330;m3-2;[WARN: CSMA      ] not for us
+1683823798.516480;m3-3;[WARN: CSMA      ] not for us
+1683823798.516587;m3-3;[WARN: CSMA      ] not for us
+1683823799.280135;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823799.283883;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823799.284169;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823801.347896;m3-3;[INFO: App       ] Sending request 36 to [INFO: App       ] 
+1683823801.360179;m3-1;[INFO: App       ] Received request 'hello 37' from fd00::a685
+1683823801.360399;m3-1;[INFO: App       ] sending response
+1683823801.363785;m3-3;[WARN: CSMA      ] not for us
+1683823801.364069;m3-2;[INFO: App       ] Sending request 37 to [INFO: App       ] 
+1683823801.395947;m3-2;[WARN: CSMA      ] not for us
+1683823801.408043;m3-1;[INFO: App       ] Received request 'hello 36' from fd00::9787
+1683823801.408260;m3-1;[INFO: App       ] sending response
+1683823801.411746;m3-2;[WARN: CSMA      ] not for us
+1683823801.411989;m3-3;[INFO: App       ] Received response 'hello 36' from fd00::a484
+1683823801.427698;m3-2;[INFO: App       ] Received response 'hello 37' from fd00::a484
+1683823801.427943;m3-3;[WARN: CSMA      ] not for us
+1683823802.896145;m3-1;[WARN: CSMA      ] not for us
+1683823802.899820;m3-2;[WARN: CSMA      ] not for us
+1683823802.900036;m3-2;[WARN: CSMA      ] not for us
+1683823802.900185;m3-3;[WARN: CSMA      ] not for us
+1683823802.900292;m3-3;[WARN: CSMA      ] not for us
+1683823802.911919;m3-1;[WARN: CSMA      ] not for us
+1683823802.912131;m3-1;[WARN: CSMA      ] not for us
+1683823802.912252;m3-1;[WARN: CSMA      ] not for us
+1683823802.915680;m3-2;[WARN: CSMA      ] not for us
+1683823802.915890;m3-2;[WARN: CSMA      ] not for us
+1683823802.916009;m3-2;[WARN: CSMA      ] not for us
+1683823802.916142;m3-3;[WARN: CSMA      ] not for us
+1683823802.916241;m3-3;[WARN: CSMA      ] not for us
+1683823802.916331;m3-3;[WARN: CSMA      ] not for us
+1683823802.927861;m3-1;[WARN: CSMA      ] not for us
+1683823802.928074;m3-1;[WARN: CSMA      ] not for us
+1683823802.931609;m3-3;[WARN: CSMA      ] not for us
+1683823802.931889;m3-2;[WARN: CSMA      ] not for us
+1683823803.267649;m3-2;[WARN: CSMA      ] not for us
+1683823803.267879;m3-2;[WARN: CSMA      ] not for us
+1683823803.268030;m3-3;[WARN: CSMA      ] not for us
+1683823803.268138;m3-3;[WARN: CSMA      ] not for us
+1683823803.279872;m3-1;[WARN: CSMA      ] not for us
+1683823803.280086;m3-1;[WARN: CSMA      ] not for us
+1683823803.951967;m3-1;[WARN: CSMA      ] not for us
+1683823803.952216;m3-1;[WARN: CSMA      ] not for us
+1683823803.955683;m3-3;[WARN: CSMA      ] not for us
+1683823803.955920;m3-3;[WARN: CSMA      ] not for us
+1683823803.956114;m3-2;[WARN: CSMA      ] not for us
+1683823803.956226;m3-2;[WARN: CSMA      ] not for us
+1683823804.259531;m3-2;[WARN: CSMA      ] not for us
+1683823804.259783;m3-2;[WARN: CSMA      ] not for us
+1683823804.259936;m3-3;[WARN: CSMA      ] not for us
+1683823804.260042;m3-3;[WARN: CSMA      ] not for us
+1683823804.271709;m3-1;[WARN: CSMA      ] not for us
+1683823804.271920;m3-1;[WARN: CSMA      ] not for us
+1683823804.287731;m3-1;[WARN: CSMA      ] not for us
+1683823804.287943;m3-1;[WARN: CSMA      ] not for us
+1683823804.291496;m3-2;[WARN: CSMA      ] not for us
+1683823804.291706;m3-2;[WARN: CSMA      ] not for us
+1683823804.291856;m3-3;[WARN: CSMA      ] not for us
+1683823804.291965;m3-3;[WARN: CSMA      ] not for us
+1683823804.627681;m3-2;[WARN: CSMA      ] not for us
+1683823804.627952;m3-3;[WARN: CSMA      ] not for us
+1683823804.639917;m3-1;[WARN: CSMA      ] not for us
+1683823804.640132;m3-1;[WARN: CSMA      ] not for us
+1683823804.643516;m3-2;[WARN: CSMA      ] not for us
+1683823804.643755;m3-3;[WARN: CSMA      ] not for us
+1683823807.347550;m3-3;[INFO: App       ] Sending request 37 to [INFO: App       ] 
+1683823807.347913;m3-2;[WARN: CSMA      ] not for us
+1683823807.359702;m3-1;[INFO: App       ] Received request 'hello 37' from fd00::9787
+1683823807.359920;m3-1;[INFO: App       ] sending response
+1683823807.363307;m3-2;[INFO: App       ] Sending request 38 to [INFO: App       ] 
+1683823807.363522;m3-2;[WARN: CSMA      ] not for us
+1683823807.363671;m3-3;[INFO: App       ] Received response 'hello 37' from fd00::a484
+1683823807.407592;m3-1;[INFO: App       ] Received request 'hello 38' from fd00::a685
+1683823807.407811;m3-1;[INFO: App       ] sending response
+1683823807.411267;m3-2;[INFO: App       ] Received response 'hello 38' from fd00::a484
+1683823807.411513;m3-3;[WARN: CSMA      ] not for us
+1683823807.411636;m3-3;[WARN: CSMA      ] not for us
+1683823809.023657;m3-1;[WARN: CSMA      ] not for us
+1683823809.023927;m3-1;[WARN: CSMA      ] not for us
+1683823809.027298;m3-3;[WARN: CSMA      ] not for us
+1683823809.027578;m3-2;[WARN: CSMA      ] not for us
+1683823809.039440;m3-1;[WARN: CSMA      ] not for us
+1683823809.039651;m3-1;[WARN: CSMA      ] not for us
+1683823809.043165;m3-3;[WARN: CSMA      ] not for us
+1683823809.043377;m3-3;[WARN: CSMA      ] not for us
+1683823809.043494;m3-3;[WARN: CSMA      ] not for us
+1683823809.043598;m3-3;[WARN: CSMA      ] not for us
+1683823809.043765;m3-2;[WARN: CSMA      ] not for us
+1683823809.043864;m3-2;[WARN: CSMA      ] not for us
+1683823809.043954;m3-2;[WARN: CSMA      ] not for us
+1683823809.044043;m3-2;[WARN: CSMA      ] not for us
+1683823809.055421;m3-1;[WARN: CSMA      ] not for us
+1683823809.055634;m3-1;[WARN: CSMA      ] not for us
+1683823809.071412;m3-1;[WARN: CSMA      ] not for us
+1683823809.071625;m3-1;[WARN: CSMA      ] not for us
+1683823809.075156;m3-2;[WARN: CSMA      ] not for us
+1683823809.075369;m3-2;[WARN: CSMA      ] not for us
+1683823809.075519;m3-3;[WARN: CSMA      ] not for us
+1683823809.075627;m3-3;[WARN: CSMA      ] not for us
+1683823809.391482;m3-1;[WARN: CSMA      ] not for us
+1683823809.395016;m3-3;[WARN: CSMA      ] not for us
+1683823809.395299;m3-3;[WARN: CSMA      ] not for us
+1683823809.395490;m3-2;[WARN: CSMA      ] not for us
+1683823809.395603;m3-2;[WARN: CSMA      ] not for us
+1683823809.407384;m3-1;[WARN: CSMA      ] not for us
+1683823809.711553;m3-1;[WARN: CSMA      ] not for us
+1683823809.711812;m3-1;[WARN: CSMA      ] not for us
+1683823809.715231;m3-3;[WARN: CSMA      ] not for us
+1683823809.715444;m3-3;[WARN: CSMA      ] not for us
+1683823809.715632;m3-2;[WARN: CSMA      ] not for us
+1683823809.715743;m3-2;[WARN: CSMA      ] not for us
+1683823810.079421;m3-1;[WARN: CSMA      ] not for us
+1683823810.079654;m3-1;[WARN: CSMA      ] not for us
+1683823810.083155;m3-3;[WARN: CSMA      ] not for us
+1683823810.083370;m3-3;[WARN: CSMA      ] not for us
+1683823810.083490;m3-3;[WARN: CSMA      ] not for us
+1683823810.083592;m3-3;[WARN: CSMA      ] not for us
+1683823810.083761;m3-2;[WARN: CSMA      ] not for us
+1683823810.083883;m3-2;[WARN: CSMA      ] not for us
+1683823810.083975;m3-2;[WARN: CSMA      ] not for us
+1683823810.084064;m3-2;[WARN: CSMA      ] not for us
+1683823810.095284;m3-1;[WARN: CSMA      ] not for us
+1683823810.095496;m3-1;[WARN: CSMA      ] not for us
+1683823810.383345;m3-1;[WARN: CSMA      ] not for us
+1683823810.383577;m3-1;[WARN: CSMA      ] not for us
+1683823810.387032;m3-3;[WARN: CSMA      ] not for us
+1683823810.387310;m3-3;[WARN: CSMA      ] not for us
+1683823810.387501;m3-2;[WARN: CSMA      ] not for us
+1683823810.387614;m3-2;[WARN: CSMA      ] not for us
+1683823810.403119;m3-3;[WARN: CSMA      ] not for us
+1683823810.403333;m3-3;[WARN: CSMA      ] not for us
+1683823810.403519;m3-2;[WARN: CSMA      ] not for us
+1683823810.403629;m3-2;[WARN: CSMA      ] not for us
+1683823810.415304;m3-1;[WARN: CSMA      ] not for us
+1683823810.415517;m3-1;[WARN: CSMA      ] not for us
+1683823813.347062;m3-3;[INFO: App       ] Sending request 38 to [INFO: App       ] 
+1683823813.363396;m3-2;[INFO: App       ] Sending request 39 to [INFO: App       ] 
+1683823813.375340;m3-1;[INFO: App       ] Received request 'hello 39' from fd00::a685
+1683823813.375556;m3-1;[INFO: App       ] sending response
+1683823813.378893;m3-3;[WARN: CSMA      ] not for us
+1683823813.379106;m3-3;[WARN: CSMA      ] not for us
+1683823813.379298;m3-2;[INFO: App       ] Received response 'hello 39' from fd00::a484
+1683823813.391082;m3-1;[INFO: App       ] Received request 'hello 38' from fd00::9787
+1683823813.391298;m3-1;[INFO: App       ] sending response
+1683823813.395143;m3-2;[WARN: CSMA      ] not for us
+1683823813.426826;m3-3;[INFO: App       ] Received response 'hello 38' from fd00::a484
+1683823813.427114;m3-2;[WARN: CSMA      ] not for us
+1683823814.835032;m3-2;[WARN: CSMA      ] not for us
+1683823814.847125;m3-1;[WARN: CSMA      ] not for us
+1683823814.847344;m3-1;[WARN: CSMA      ] not for us
+1683823814.850808;m3-3;[WARN: CSMA      ] not for us
+1683823814.851019;m3-3;[WARN: CSMA      ] not for us
+1683823814.851210;m3-2;[WARN: CSMA      ] not for us
+1683823815.151087;m3-1;[WARN: CSMA      ] not for us
+1683823815.151328;m3-1;[WARN: CSMA      ] not for us
+1683823815.154797;m3-3;[WARN: CSMA      ] not for us
+1683823815.155010;m3-3;[WARN: CSMA      ] not for us
+1683823815.155202;m3-2;[WARN: CSMA      ] not for us
+1683823815.155313;m3-2;[WARN: CSMA      ] not for us
+1683823815.166991;m3-1;[WARN: CSMA      ] not for us
+1683823815.167205;m3-1;[WARN: CSMA      ] not for us
+1683823815.170749;m3-3;[WARN: CSMA      ] not for us
+1683823815.170965;m3-3;[WARN: CSMA      ] not for us
+1683823815.171155;m3-2;[WARN: CSMA      ] not for us
+1683823815.171268;m3-2;[WARN: CSMA      ] not for us
+1683823815.294979;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823815.298519;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823815.298926;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823815.519083;m3-1;[WARN: CSMA      ] not for us
+1683823815.519303;m3-1;[WARN: CSMA      ] not for us
+1683823815.522650;m3-3;[WARN: CSMA      ] not for us
+1683823815.522925;m3-3;[WARN: CSMA      ] not for us
+1683823815.523118;m3-2;[WARN: CSMA      ] not for us
+1683823815.523228;m3-2;[WARN: CSMA      ] not for us
+1683823815.826635;m3-3;[WARN: CSMA      ] not for us
+1683823815.827005;m3-2;[WARN: CSMA      ] not for us
+1683823815.839039;m3-1;[WARN: CSMA      ] not for us
+1683823815.839251;m3-1;[WARN: CSMA      ] not for us
+1683823815.842522;m3-3;[WARN: CSMA      ] not for us
+1683823815.842831;m3-3;[WARN: CSMA      ] not for us
+1683823815.842954;m3-3;[WARN: CSMA      ] not for us
+1683823815.843130;m3-2;[WARN: CSMA      ] not for us
+1683823815.843236;m3-2;[WARN: CSMA      ] not for us
+1683823815.843331;m3-2;[WARN: CSMA      ] not for us
+1683823815.855021;m3-1;[WARN: CSMA      ] not for us
+1683823815.855234;m3-1;[WARN: CSMA      ] not for us
+1683823816.206903;m3-1;[WARN: CSMA      ] not for us
+1683823816.207132;m3-1;[WARN: CSMA      ] not for us
+1683823816.207250;m3-1;[WARN: CSMA      ] not for us
+1683823816.210696;m3-3;[WARN: CSMA      ] not for us
+1683823816.210986;m3-3;[WARN: CSMA      ] not for us
+1683823816.211107;m3-3;[WARN: CSMA      ] not for us
+1683823816.211207;m3-3;[WARN: CSMA      ] not for us
+1683823816.211377;m3-2;[WARN: CSMA      ] not for us
+1683823816.211476;m3-2;[WARN: CSMA      ] not for us
+1683823816.211566;m3-2;[WARN: CSMA      ] not for us
+1683823816.211656;m3-2;[WARN: CSMA      ] not for us
+1683823816.222841;m3-1;[WARN: CSMA      ] not for us
+1683823816.511043;m3-1;[WARN: CSMA      ] not for us
+1683823816.511270;m3-1;[WARN: CSMA      ] not for us
+1683823816.514741;m3-3;[WARN: CSMA      ] not for us
+1683823816.515027;m3-3;[WARN: CSMA      ] not for us
+1683823816.515222;m3-2;[WARN: CSMA      ] not for us
+1683823816.515334;m3-2;[WARN: CSMA      ] not for us
+1683823816.879134;m3-1;[WARN: CSMA      ] not for us
+1683823816.879362;m3-1;[WARN: CSMA      ] not for us
+1683823816.882482;m3-3;[WARN: CSMA      ] not for us
+1683823816.882729;m3-3;[WARN: CSMA      ] not for us
+1683823816.883001;m3-2;[WARN: CSMA      ] not for us
+1683823816.883117;m3-2;[WARN: CSMA      ] not for us
+1683823819.346694;m3-3;[INFO: App       ] Sending request 39 to [INFO: App       ] 
+1683823819.362973;m3-2;[INFO: App       ] Sending request 40 to [INFO: App       ] 
+1683823819.390858;m3-1;[INFO: App       ] Received request 'hello 39' from fd00::9787
+1683823819.391075;m3-1;[INFO: App       ] sending response
+1683823819.394817;m3-2;[WARN: CSMA      ] not for us
+1683823819.406779;m3-1;[INFO: App       ] Received request 'hello 40' from fd00::a685
+1683823819.406993;m3-1;[INFO: App       ] sending response
+1683823819.410374;m3-3;[WARN: CSMA      ] not for us
+1683823819.442349;m3-3;[INFO: App       ] Received response 'hello 39' from fd00::a484
+1683823819.442733;m3-2;[WARN: CSMA      ] not for us
+1683823819.458410;m3-3;[WARN: CSMA      ] not for us
+1683823819.458730;m3-2;[INFO: App       ] Received response 'hello 40' from fd00::a484
+1683823820.962642;m3-3;[WARN: CSMA      ] not for us
+1683823820.962933;m3-3;[WARN: CSMA      ] not for us
+1683823820.963133;m3-2;[WARN: CSMA      ] not for us
+1683823820.963246;m3-2;[WARN: CSMA      ] not for us
+1683823820.974742;m3-1;[WARN: CSMA      ] not for us
+1683823820.974954;m3-1;[WARN: CSMA      ] not for us
+1683823821.278663;m3-1;[WARN: CSMA      ] not for us
+1683823821.278890;m3-1;[WARN: CSMA      ] not for us
+1683823821.282103;m3-3;[WARN: CSMA      ] not for us
+1683823821.282429;m3-3;[WARN: CSMA      ] not for us
+1683823821.282669;m3-2;[WARN: CSMA      ] not for us
+1683823821.282784;m3-2;[WARN: CSMA      ] not for us
+1683823821.314160;m3-3;[WARN: CSMA      ] not for us
+1683823821.314479;m3-3;[WARN: CSMA      ] not for us
+1683823821.314706;m3-2;[WARN: CSMA      ] not for us
+1683823821.314819;m3-2;[WARN: CSMA      ] not for us
+1683823821.326616;m3-1;[WARN: CSMA      ] not for us
+1683823821.326827;m3-1;[WARN: CSMA      ] not for us
+1683823821.646733;m3-1;[WARN: CSMA      ] not for us
+1683823821.646966;m3-1;[WARN: CSMA      ] not for us
+1683823821.650246;m3-3;[WARN: CSMA      ] not for us
+1683823821.650573;m3-3;[WARN: CSMA      ] not for us
+1683823821.650779;m3-2;[WARN: CSMA      ] not for us
+1683823821.650891;m3-2;[WARN: CSMA      ] not for us
+1683823821.954156;m3-3;[WARN: CSMA      ] not for us
+1683823821.954517;m3-3;[WARN: CSMA      ] not for us
+1683823821.954761;m3-2;[WARN: CSMA      ] not for us
+1683823821.954875;m3-2;[WARN: CSMA      ] not for us
+1683823821.966654;m3-1;[WARN: CSMA      ] not for us
+1683823821.966865;m3-1;[WARN: CSMA      ] not for us
+1683823821.966985;m3-1;[WARN: CSMA      ] not for us
+1683823821.970067;m3-3;[WARN: CSMA      ] not for us
+1683823821.970400;m3-3;[WARN: CSMA      ] not for us
+1683823821.970632;m3-2;[WARN: CSMA      ] not for us
+1683823821.970748;m3-2;[WARN: CSMA      ] not for us
+1683823821.982584;m3-1;[WARN: CSMA      ] not for us
+1683823821.982797;m3-1;[WARN: CSMA      ] not for us
+1683823821.982916;m3-1;[WARN: CSMA      ] not for us
+1683823821.986054;m3-3;[WARN: CSMA      ] not for us
+1683823821.986365;m3-3;[WARN: CSMA      ] not for us
+1683823821.986615;m3-2;[WARN: CSMA      ] not for us
+1683823821.986732;m3-2;[WARN: CSMA      ] not for us
+1683823822.322134;m3-3;[WARN: CSMA      ] not for us
+1683823822.322661;m3-2;[WARN: CSMA      ] not for us
+1683823822.334571;m3-1;[WARN: CSMA      ] not for us
+1683823822.334787;m3-1;[WARN: CSMA      ] not for us
+1683823822.338060;m3-3;[WARN: CSMA      ] not for us
+1683823822.338448;m3-2;[WARN: CSMA      ] not for us
+1683823822.638643;m3-1;[WARN: CSMA      ] not for us
+1683823822.638915;m3-1;[WARN: CSMA      ] not for us
+1683823822.642195;m3-3;[WARN: CSMA      ] not for us
+1683823822.642334;m3-3;[WARN: CSMA      ] not for us
+1683823822.642405;m3-2;[WARN: CSMA      ] not for us
+1683823822.642443;m3-2;[WARN: CSMA      ] not for us
+1683823822.654344;m3-1;[WARN: CSMA      ] not for us
+1683823822.654447;m3-1;[WARN: CSMA      ] not for us
+1683823822.657891;m3-3;[WARN: CSMA      ] not for us
+1683823822.657995;m3-3;[WARN: CSMA      ] not for us
+1683823822.658281;m3-2;[WARN: CSMA      ] not for us
+1683823822.658338;m3-2;[WARN: CSMA      ] not for us
+1683823825.346187;m3-3;[INFO: App       ] Sending request 40 to [INFO: App       ] 
+1683823825.362613;m3-2;[INFO: App       ] Sending request 41 to [INFO: App       ] 
+1683823825.374606;m3-1;[INFO: App       ] Received request 'hello 41' from fd00::a685
+1683823825.374825;m3-1;[INFO: App       ] sending response
+1683823825.377948;m3-3;[WARN: CSMA      ] not for us
+1683823825.406423;m3-1;[INFO: App       ] Received request 'hello 40' from fd00::9787
+1683823825.406678;m3-1;[INFO: App       ] sending response
+1683823825.409970;m3-3;[INFO: App       ] Received response 'hello 40' from fd00::a484
+1683823825.410294;m3-3;[WARN: CSMA      ] not for us
+1683823825.410503;m3-2;[WARN: CSMA      ] not for us
+1683823825.410679;m3-2;[WARN: CSMA      ] not for us
+1683823825.425912;m3-3;[WARN: CSMA      ] not for us
+1683823825.426301;m3-2;[INFO: App       ] Received response 'hello 41' from fd00::a484
+1683823826.738019;m3-3;[WARN: CSMA      ] not for us
+1683823826.738392;m3-3;[WARN: CSMA      ] not for us
+1683823826.738706;m3-2;[WARN: CSMA      ] not for us
+1683823826.738829;m3-2;[WARN: CSMA      ] not for us
+1683823826.750442;m3-1;[WARN: CSMA      ] not for us
+1683823826.750697;m3-1;[WARN: CSMA      ] not for us
+1683823826.766321;m3-1;[WARN: CSMA      ] not for us
+1683823826.766534;m3-1;[WARN: CSMA      ] not for us
+1683823826.769951;m3-3;[WARN: CSMA      ] not for us
+1683823826.770168;m3-3;[WARN: CSMA      ] not for us
+1683823826.770402;m3-2;[WARN: CSMA      ] not for us
+1683823826.770515;m3-2;[WARN: CSMA      ] not for us
+1683823827.086137;m3-1;[WARN: CSMA      ] not for us
+1683823827.089711;m3-3;[WARN: CSMA      ] not for us
+1683823827.089991;m3-3;[WARN: CSMA      ] not for us
+1683823827.090189;m3-2;[WARN: CSMA      ] not for us
+1683823827.090342;m3-2;[WARN: CSMA      ] not for us
+1683823827.102132;m3-1;[WARN: CSMA      ] not for us
+1683823827.102380;m3-1;[WARN: CSMA      ] not for us
+1683823827.102502;m3-1;[WARN: CSMA      ] not for us
+1683823827.105651;m3-3;[WARN: CSMA      ] not for us
+1683823827.105865;m3-3;[WARN: CSMA      ] not for us
+1683823827.106135;m3-2;[WARN: CSMA      ] not for us
+1683823827.106287;m3-2;[WARN: CSMA      ] not for us
+1683823827.297730;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823827.298091;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823827.310198;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823827.406118;m3-1;[WARN: CSMA      ] not for us
+1683823827.406410;m3-1;[WARN: CSMA      ] not for us
+1683823827.409729;m3-3;[WARN: CSMA      ] not for us
+1683823827.410021;m3-3;[WARN: CSMA      ] not for us
+1683823827.410256;m3-2;[WARN: CSMA      ] not for us
+1683823827.410375;m3-2;[WARN: CSMA      ] not for us
+1683823828.078377;m3-1;[WARN: CSMA      ] not for us
+1683823828.078658;m3-1;[WARN: CSMA      ] not for us
+1683823828.081836;m3-3;[WARN: CSMA      ] not for us
+1683823828.082119;m3-3;[WARN: CSMA      ] not for us
+1683823828.082354;m3-2;[WARN: CSMA      ] not for us
+1683823828.082487;m3-2;[WARN: CSMA      ] not for us
+1683823828.097729;m3-3;[WARN: CSMA      ] not for us
+1683823828.098083;m3-2;[WARN: CSMA      ] not for us
+1683823828.098255;m3-2;[WARN: CSMA      ] not for us
+1683823828.110069;m3-1;[WARN: CSMA      ] not for us
+1683823828.110320;m3-1;[WARN: CSMA      ] not for us
+1683823828.113694;m3-3;[WARN: CSMA      ] not for us
+1683823828.113986;m3-3;[WARN: CSMA      ] not for us
+1683823828.114108;m3-3;[WARN: CSMA      ] not for us
+1683823828.114320;m3-2;[WARN: CSMA      ] not for us
+1683823828.114434;m3-2;[WARN: CSMA      ] not for us
+1683823828.126143;m3-1;[WARN: CSMA      ] not for us
+1683823828.126394;m3-1;[WARN: CSMA      ] not for us
+1683823828.449748;m3-3;[WARN: CSMA      ] not for us
+1683823828.450028;m3-3;[WARN: CSMA      ] not for us
+1683823828.450260;m3-2;[WARN: CSMA      ] not for us
+1683823828.450388;m3-2;[WARN: CSMA      ] not for us
+1683823828.462164;m3-1;[WARN: CSMA      ] not for us
+1683823828.462422;m3-1;[WARN: CSMA      ] not for us
+1683823830.590131;m3-1;[WARN: CSMA      ] not for us
+1683823831.345631;m3-3;[INFO: App       ] Sending request 41 to [INFO: App       ] 
+1683823831.361543;m3-3;[WARN: CSMA      ] not for us
+1683823831.361896;m3-2;[INFO: App       ] Sending request 42 to [INFO: App       ] 
+1683823831.373959;m3-1;[INFO: App       ] Received request 'hello 42' from fd00::a685
+1683823831.374175;m3-1;[INFO: App       ] sending response
+1683823831.377447;m3-3;[WARN: CSMA      ] not for us
+1683823831.377795;m3-2;[INFO: App       ] Received response 'hello 42' from fd00::a484
+1683823831.389924;m3-1;[INFO: App       ] Received request 'hello 41' from fd00::9787
+1683823831.390139;m3-1;[INFO: App       ] sending response
+1683823831.393468;m3-3;[INFO: App       ] Received response 'hello 41' from fd00::a484
+1683823831.393817;m3-2;[WARN: CSMA      ] not for us
+1683823831.393950;m3-2;[WARN: CSMA      ] not for us
+1683823832.205969;m3-1;[WARN: CSMA      ] not for us
+1683823832.206182;m3-1;[WARN: CSMA      ] not for us
+1683823832.209496;m3-3;[WARN: CSMA      ] not for us
+1683823832.209771;m3-3;[WARN: CSMA      ] not for us
+1683823832.209975;m3-2;[WARN: CSMA      ] not for us
+1683823832.210089;m3-2;[WARN: CSMA      ] not for us
+1683823832.845971;m3-1;[WARN: CSMA      ] not for us
+1683823832.846287;m3-1;[WARN: CSMA      ] not for us
+1683823832.849509;m3-3;[WARN: CSMA      ] not for us
+1683823832.849788;m3-3;[WARN: CSMA      ] not for us
+1683823832.849983;m3-2;[WARN: CSMA      ] not for us
+1683823832.850094;m3-2;[WARN: CSMA      ] not for us
+1683823832.865370;m3-3;[WARN: CSMA      ] not for us
+1683823832.865716;m3-2;[WARN: CSMA      ] not for us
+1683823832.881335;m3-3;[WARN: CSMA      ] not for us
+1683823832.881691;m3-2;[WARN: CSMA      ] not for us
+1683823832.893824;m3-1;[WARN: CSMA      ] not for us
+1683823832.894037;m3-1;[WARN: CSMA      ] not for us
+1683823832.897329;m3-3;[WARN: CSMA      ] not for us
+1683823832.897707;m3-2;[WARN: CSMA      ] not for us
+1683823833.213841;m3-1;[WARN: CSMA      ] not for us
+1683823833.214059;m3-1;[WARN: CSMA      ] not for us
+1683823833.217237;m3-3;[WARN: CSMA      ] not for us
+1683823833.217520;m3-3;[WARN: CSMA      ] not for us
+1683823833.217717;m3-2;[WARN: CSMA      ] not for us
+1683823833.217829;m3-2;[WARN: CSMA      ] not for us
+1683823833.549852;m3-1;[WARN: CSMA      ] not for us
+1683823833.550067;m3-1;[WARN: CSMA      ] not for us
+1683823833.553388;m3-3;[WARN: CSMA      ] not for us
+1683823833.553665;m3-3;[WARN: CSMA      ] not for us
+1683823833.553865;m3-2;[WARN: CSMA      ] not for us
+1683823833.553979;m3-2;[WARN: CSMA      ] not for us
+1683823833.565731;m3-1;[WARN: CSMA      ] not for us
+1683823833.565942;m3-1;[WARN: CSMA      ] not for us
+1683823833.569271;m3-3;[WARN: CSMA      ] not for us
+1683823833.569557;m3-3;[WARN: CSMA      ] not for us
+1683823833.569770;m3-2;[WARN: CSMA      ] not for us
+1683823833.569884;m3-2;[WARN: CSMA      ] not for us
+1683823834.205778;m3-1;[WARN: CSMA      ] not for us
+1683823834.205988;m3-1;[WARN: CSMA      ] not for us
+1683823834.209316;m3-3;[WARN: CSMA      ] not for us
+1683823834.209623;m3-3;[WARN: CSMA      ] not for us
+1683823834.209826;m3-2;[WARN: CSMA      ] not for us
+1683823834.209938;m3-2;[WARN: CSMA      ] not for us
+1683823834.573919;m3-1;[WARN: CSMA      ] not for us
+1683823834.577278;m3-3;[WARN: CSMA      ] not for us
+1683823834.577489;m3-3;[WARN: CSMA      ] not for us
+1683823834.577756;m3-2;[WARN: CSMA      ] not for us
+1683823834.577870;m3-2;[WARN: CSMA      ] not for us
+1683823834.589722;m3-1;[WARN: CSMA      ] not for us
+1683823837.341693;m3-1;[INFO: App       ] Received request 'hello 42' from fd00::9787
+1683823837.341912;m3-1;[INFO: App       ] sending response
+1683823837.345237;m3-3;[INFO: App       ] Sending request 42 to [INFO: App       ] 
+1683823837.345678;m3-2;[WARN: CSMA      ] not for us
+1683823837.361043;m3-3;[WARN: CSMA      ] not for us
+1683823837.361542;m3-2;[INFO: App       ] Sending request 43 to [INFO: App       ] 
+1683823837.373534;m3-1;[INFO: App       ] Received request 'hello 43' from fd00::a685
+1683823837.373749;m3-1;[INFO: App       ] sending response
+1683823837.377031;m3-3;[INFO: App       ] Received response 'hello 42' from fd00::a484
+1683823837.377460;m3-2;[WARN: CSMA      ] not for us
+1683823837.393012;m3-3;[WARN: CSMA      ] not for us
+1683823837.393367;m3-2;[INFO: App       ] Received response 'hello 43' from fd00::a484
+1683823838.973639;m3-1;[WARN: CSMA      ] not for us
+1683823838.973866;m3-1;[WARN: CSMA      ] not for us
+1683823838.976967;m3-3;[WARN: CSMA      ] not for us
+1683823838.977180;m3-3;[WARN: CSMA      ] not for us
+1683823838.977445;m3-2;[WARN: CSMA      ] not for us
+1683823838.977568;m3-2;[WARN: CSMA      ] not for us
+1683823838.989420;m3-1;[WARN: CSMA      ] not for us
+1683823838.989633;m3-1;[WARN: CSMA      ] not for us
+1683823838.992839;m3-3;[WARN: CSMA      ] not for us
+1683823838.993051;m3-3;[WARN: CSMA      ] not for us
+1683823838.993325;m3-2;[WARN: CSMA      ] not for us
+1683823838.993452;m3-2;[WARN: CSMA      ] not for us
+1683823839.341409;m3-1;[WARN: CSMA      ] not for us
+1683823839.341620;m3-1;[WARN: CSMA      ] not for us
+1683823839.344844;m3-3;[WARN: CSMA      ] not for us
+1683823839.345195;m3-2;[WARN: CSMA      ] not for us
+1683823839.345333;m3-2;[WARN: CSMA      ] not for us
+1683823839.677393;m3-1;[WARN: CSMA      ] not for us
+1683823839.677605;m3-1;[WARN: CSMA      ] not for us
+1683823839.680942;m3-3;[WARN: CSMA      ] not for us
+1683823839.681153;m3-3;[WARN: CSMA      ] not for us
+1683823839.681427;m3-2;[WARN: CSMA      ] not for us
+1683823839.681540;m3-2;[WARN: CSMA      ] not for us
+1683823840.016939;m3-3;[WARN: CSMA      ] not for us
+1683823840.017288;m3-2;[WARN: CSMA      ] not for us
+1683823840.029329;m3-1;[WARN: CSMA      ] not for us
+1683823840.029539;m3-1;[WARN: CSMA      ] not for us
+1683823840.032828;m3-3;[WARN: CSMA      ] not for us
+1683823840.033180;m3-2;[WARN: CSMA      ] not for us
+1683823840.333330;m3-1;[WARN: CSMA      ] not for us
+1683823840.333540;m3-1;[WARN: CSMA      ] not for us
+1683823840.336857;m3-3;[WARN: CSMA      ] not for us
+1683823840.337068;m3-3;[WARN: CSMA      ] not for us
+1683823840.337334;m3-2;[WARN: CSMA      ] not for us
+1683823840.337453;m3-2;[WARN: CSMA      ] not for us
+1683823840.349265;m3-1;[WARN: CSMA      ] not for us
+1683823840.349478;m3-1;[WARN: CSMA      ] not for us
+1683823840.352664;m3-3;[WARN: CSMA      ] not for us
+1683823840.352876;m3-3;[WARN: CSMA      ] not for us
+1683823840.353159;m3-2;[WARN: CSMA      ] not for us
+1683823840.353289;m3-2;[WARN: CSMA      ] not for us
+1683823840.701405;m3-1;[WARN: CSMA      ] not for us
+1683823840.701616;m3-1;[WARN: CSMA      ] not for us
+1683823840.704822;m3-3;[WARN: CSMA      ] not for us
+1683823840.705032;m3-3;[WARN: CSMA      ] not for us
+1683823840.705400;m3-2;[WARN: CSMA      ] not for us
+1683823840.705532;m3-2;[WARN: CSMA      ] not for us
+1683823842.317347;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823842.320747;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823842.321212;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823843.344651;m3-3;[INFO: App       ] Sending request 43 to [INFO: App       ] 
+1683823843.361421;m3-2;[INFO: App       ] Sending request 44 to [INFO: App       ] 
+1683823843.389226;m3-1;[INFO: App       ] Received request 'hello 43' from fd00::9787
+1683823843.389442;m3-1;[INFO: App       ] sending response
+1683823843.393265;m3-2;[WARN: CSMA      ] not for us
+1683823843.408274;m3-3;[INFO: App       ] Received response 'hello 43' from fd00::a484
+1683823843.409027;m3-2;[WARN: CSMA      ] not for us
+1683823843.517208;m3-1;[INFO: App       ] Received request 'hello 44' from fd00::a685
+1683823843.517424;m3-1;[INFO: App       ] sending response
+1683823843.520592;m3-3;[WARN: CSMA      ] not for us
+1683823843.536492;m3-3;[WARN: CSMA      ] not for us
+1683823843.537200;m3-2;[INFO: App       ] Received response 'hello 44' from fd00::a484
+1683823844.781109;m3-1;[WARN: CSMA      ] not for us
+1683823844.784526;m3-3;[WARN: CSMA      ] not for us
+1683823844.784737;m3-3;[WARN: CSMA      ] not for us
+1683823844.785038;m3-2;[WARN: CSMA      ] not for us
+1683823844.785162;m3-2;[WARN: CSMA      ] not for us
+1683823844.796960;m3-1;[WARN: CSMA      ] not for us
+1683823845.100858;m3-1;[WARN: CSMA      ] not for us
+1683823845.101069;m3-1;[WARN: CSMA      ] not for us
+1683823845.104306;m3-3;[WARN: CSMA      ] not for us
+1683823845.104517;m3-3;[WARN: CSMA      ] not for us
+1683823845.104987;m3-2;[WARN: CSMA      ] not for us
+1683823845.116903;m3-1;[WARN: CSMA      ] not for us
+1683823845.117114;m3-1;[WARN: CSMA      ] not for us
+1683823845.120332;m3-3;[WARN: CSMA      ] not for us
+1683823845.120541;m3-3;[WARN: CSMA      ] not for us
+1683823845.120884;m3-2;[WARN: CSMA      ] not for us
+1683823845.121014;m3-2;[WARN: CSMA      ] not for us
+1683823845.468992;m3-1;[WARN: CSMA      ] not for us
+1683823845.469204;m3-1;[WARN: CSMA      ] not for us
+1683823845.472402;m3-3;[WARN: CSMA      ] not for us
+1683823845.472612;m3-3;[WARN: CSMA      ] not for us
+1683823845.472731;m3-3;[WARN: CSMA      ] not for us
+1683823845.472995;m3-2;[WARN: CSMA      ] not for us
+1683823845.473106;m3-2;[WARN: CSMA      ] not for us
+1683823845.473199;m3-2;[WARN: CSMA      ] not for us
+1683823845.473289;m3-2;[WARN: CSMA      ] not for us
+1683823845.484945;m3-1;[WARN: CSMA      ] not for us
+1683823845.485157;m3-1;[WARN: CSMA      ] not for us
+1683823845.488353;m3-3;[WARN: CSMA      ] not for us
+1683823846.144516;m3-3;[WARN: CSMA      ] not for us
+1683823846.144729;m3-3;[WARN: CSMA      ] not for us
+1683823846.144995;m3-2;[WARN: CSMA      ] not for us
+1683823846.145109;m3-2;[WARN: CSMA      ] not for us
+1683823846.156981;m3-1;[WARN: CSMA      ] not for us
+1683823846.157190;m3-1;[WARN: CSMA      ] not for us
+1683823846.157309;m3-1;[WARN: CSMA      ] not for us
+1683823846.157408;m3-1;[WARN: CSMA      ] not for us
+1683823846.160412;m3-3;[WARN: CSMA      ] not for us
+1683823846.160623;m3-3;[WARN: CSMA      ] not for us
+1683823846.160890;m3-2;[WARN: CSMA      ] not for us
+1683823846.161002;m3-2;[WARN: CSMA      ] not for us
+1683823846.460890;m3-1;[WARN: CSMA      ] not for us
+1683823846.461100;m3-1;[WARN: CSMA      ] not for us
+1683823846.464292;m3-3;[WARN: CSMA      ] not for us
+1683823846.464502;m3-3;[WARN: CSMA      ] not for us
+1683823846.464936;m3-2;[WARN: CSMA      ] not for us
+1683823846.465068;m3-2;[WARN: CSMA      ] not for us
+1683823846.828964;m3-1;[WARN: CSMA      ] not for us
+1683823846.829175;m3-1;[WARN: CSMA      ] not for us
+1683823846.832376;m3-3;[WARN: CSMA      ] not for us
+1683823846.832588;m3-3;[WARN: CSMA      ] not for us
+1683823846.832930;m3-2;[WARN: CSMA      ] not for us
+1683823846.833060;m3-2;[WARN: CSMA      ] not for us
+1683823849.344213;m3-3;[INFO: App       ] Sending request 44 to [INFO: App       ] 
+1683823849.361012;m3-2;[INFO: App       ] Sending request 45 to [INFO: App       ] 
+1683823849.388822;m3-1;[INFO: App       ] Received request 'hello 45' from fd00::a685
+1683823849.389037;m3-1;[INFO: App       ] sending response
+1683823849.391997;m3-3;[WARN: CSMA      ] not for us
+1683823849.404673;m3-1;[INFO: App       ] Received request 'hello 44' from fd00::9787
+1683823849.404906;m3-1;[INFO: App       ] sending response
+1683823849.407988;m3-3;[WARN: CSMA      ] not for us
+1683823849.408688;m3-2;[WARN: CSMA      ] not for us
+1683823849.408833;m3-2;[INFO: App       ] Received response 'hello 45' from fd00::a484
+1683823849.440034;m3-3;[INFO: App       ] Received response 'hello 44' from fd00::a484
+1683823849.440621;m3-2;[WARN: CSMA      ] not for us
+1683823850.908692;m3-1;[WARN: CSMA      ] not for us
+1683823850.908904;m3-1;[WARN: CSMA      ] not for us
+1683823850.912090;m3-3;[WARN: CSMA      ] not for us
+1683823850.912656;m3-2;[WARN: CSMA      ] not for us
+1683823850.912803;m3-2;[WARN: CSMA      ] not for us
+1683823850.924524;m3-1;[WARN: CSMA      ] not for us
+1683823850.924734;m3-1;[WARN: CSMA      ] not for us
+1683823850.927955;m3-3;[WARN: CSMA      ] not for us
+1683823850.928167;m3-3;[WARN: CSMA      ] not for us
+1683823850.928475;m3-2;[WARN: CSMA      ] not for us
+1683823850.928603;m3-2;[WARN: CSMA      ] not for us
+1683823851.215918;m3-3;[WARN: CSMA      ] not for us
+1683823851.216603;m3-2;[WARN: CSMA      ] not for us
+1683823851.228533;m3-1;[WARN: CSMA      ] not for us
+1683823851.228743;m3-1;[WARN: CSMA      ] not for us
+1683823851.228863;m3-1;[WARN: CSMA      ] not for us
+1683823851.228965;m3-1;[WARN: CSMA      ] not for us
+1683823851.231914;m3-3;[WARN: CSMA      ] not for us
+1683823851.232123;m3-3;[WARN: CSMA      ] not for us
+1683823851.232241;m3-3;[WARN: CSMA      ] not for us
+1683823851.232488;m3-2;[WARN: CSMA      ] not for us
+1683823851.232601;m3-2;[WARN: CSMA      ] not for us
+1683823851.244490;m3-1;[WARN: CSMA      ] not for us
+1683823851.244703;m3-1;[WARN: CSMA      ] not for us
+1683823851.247907;m3-3;[WARN: CSMA      ] not for us
+1683823851.248116;m3-3;[WARN: CSMA      ] not for us
+1683823851.248234;m3-3;[WARN: CSMA      ] not for us
+1683823851.248335;m3-3;[WARN: CSMA      ] not for us
+1683823851.248586;m3-2;[WARN: CSMA      ] not for us
+1683823851.248697;m3-2;[WARN: CSMA      ] not for us
+1683823851.248788;m3-2;[WARN: CSMA      ] not for us
+1683823851.248877;m3-2;[WARN: CSMA      ] not for us
+1683823851.260529;m3-1;[WARN: CSMA      ] not for us
+1683823851.260740;m3-1;[WARN: CSMA      ] not for us
+1683823851.260859;m3-1;[WARN: CSMA      ] not for us
+1683823851.260960;m3-1;[WARN: CSMA      ] not for us
+1683823851.263890;m3-3;[WARN: CSMA      ] not for us
+1683823851.264102;m3-3;[WARN: CSMA      ] not for us
+1683823851.264442;m3-2;[WARN: CSMA      ] not for us
+1683823851.264569;m3-2;[WARN: CSMA      ] not for us
+1683823851.900658;m3-1;[WARN: CSMA      ] not for us
+1683823851.904044;m3-3;[WARN: CSMA      ] not for us
+1683823851.916538;m3-1;[WARN: CSMA      ] not for us
+1683823851.916749;m3-1;[WARN: CSMA      ] not for us
+1683823851.920217;m3-3;[WARN: CSMA      ] not for us
+1683823851.920495;m3-3;[WARN: CSMA      ] not for us
+1683823851.920623;m3-3;[WARN: CSMA      ] not for us
+1683823851.920725;m3-3;[WARN: CSMA      ] not for us
+1683823851.920891;m3-2;[WARN: CSMA      ] not for us
+1683823851.920989;m3-2;[WARN: CSMA      ] not for us
+1683823851.921080;m3-2;[WARN: CSMA      ] not for us
+1683823851.921169;m3-2;[WARN: CSMA      ] not for us
+1683823851.932468;m3-1;[WARN: CSMA      ] not for us
+1683823851.932679;m3-1;[WARN: CSMA      ] not for us
+1683823852.252395;m3-1;[WARN: CSMA      ] not for us
+1683823852.252606;m3-1;[WARN: CSMA      ] not for us
+1683823852.255830;m3-3;[WARN: CSMA      ] not for us
+1683823852.256043;m3-3;[WARN: CSMA      ] not for us
+1683823852.256506;m3-2;[WARN: CSMA      ] not for us
+1683823852.256638;m3-2;[WARN: CSMA      ] not for us
+1683823852.604557;m3-1;[WARN: CSMA      ] not for us
+1683823852.604768;m3-1;[WARN: CSMA      ] not for us
+1683823852.607939;m3-3;[WARN: CSMA      ] not for us
+1683823852.608152;m3-3;[WARN: CSMA      ] not for us
+1683823852.608592;m3-2;[WARN: CSMA      ] not for us
+1683823852.608721;m3-2;[WARN: CSMA      ] not for us
+1683823855.324393;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823855.327781;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823855.328462;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823855.340193;m3-1;[INFO: App       ] Received request 'hello 45' from fd00::9787
+1683823855.340409;m3-1;[INFO: App       ] sending response
+1683823855.343615;m3-3;[INFO: App       ] Sending request 45 to [INFO: App       ] 
+1683823855.344266;m3-2;[WARN: CSMA      ] not for us
+1683823855.360407;m3-2;[INFO: App       ] Sending request 46 to [INFO: App       ] 
+1683823855.407616;m3-3;[INFO: App       ] Received response 'hello 45' from fd00::a484
+1683823855.408127;m3-2;[WARN: CSMA      ] not for us
+1683823855.487559;m3-3;[WARN: CSMA      ] not for us
+1683823855.500212;m3-1;[INFO: App       ] Received request 'hello 46' from fd00::a685
+1683823855.500426;m3-1;[INFO: App       ] sending response
+1683823855.503548;m3-3;[WARN: CSMA      ] not for us
+1683823855.504215;m3-2;[INFO: App       ] Received response 'hello 46' from fd00::a484
+1683823857.039625;m3-3;[WARN: CSMA      ] not for us
+1683823857.040301;m3-2;[WARN: CSMA      ] not for us
+1683823857.052228;m3-1;[WARN: CSMA      ] not for us
+1683823857.052439;m3-1;[WARN: CSMA      ] not for us
+1683823857.055497;m3-3;[WARN: CSMA      ] not for us
+1683823857.055708;m3-3;[WARN: CSMA      ] not for us
+1683823857.056185;m3-2;[WARN: CSMA      ] not for us
+1683823857.056319;m3-2;[WARN: CSMA      ] not for us
+1683823857.343522;m3-3;[WARN: CSMA      ] not for us
+1683823857.343733;m3-3;[WARN: CSMA      ] not for us
+1683823857.344178;m3-2;[WARN: CSMA      ] not for us
+1683823857.344308;m3-2;[WARN: CSMA      ] not for us
+1683823857.356169;m3-1;[WARN: CSMA      ] not for us
+1683823857.356380;m3-1;[WARN: CSMA      ] not for us
+1683823857.372087;m3-1;[WARN: CSMA      ] not for us
+1683823857.372297;m3-1;[WARN: CSMA      ] not for us
+1683823857.372416;m3-1;[WARN: CSMA      ] not for us
+1683823857.375477;m3-3;[WARN: CSMA      ] not for us
+1683823857.375687;m3-3;[WARN: CSMA      ] not for us
+1683823857.375808;m3-3;[WARN: CSMA      ] not for us
+1683823857.375911;m3-3;[WARN: CSMA      ] not for us
+1683823857.376148;m3-2;[WARN: CSMA      ] not for us
+1683823857.376256;m3-2;[WARN: CSMA      ] not for us
+1683823857.376348;m3-2;[WARN: CSMA      ] not for us
+1683823857.376438;m3-2;[WARN: CSMA      ] not for us
+1683823857.388062;m3-1;[WARN: CSMA      ] not for us
+1683823857.388272;m3-1;[WARN: CSMA      ] not for us
+1683823857.388391;m3-1;[WARN: CSMA      ] not for us
+1683823857.391427;m3-3;[WARN: CSMA      ] not for us
+1683823857.392124;m3-2;[WARN: CSMA      ] not for us
+1683823857.392272;m3-2;[WARN: CSMA      ] not for us
+1683823858.028225;m3-1;[WARN: CSMA      ] not for us
+1683823858.028438;m3-1;[WARN: CSMA      ] not for us
+1683823858.031618;m3-3;[WARN: CSMA      ] not for us
+1683823858.031827;m3-3;[WARN: CSMA      ] not for us
+1683823858.032284;m3-2;[WARN: CSMA      ] not for us
+1683823858.032412;m3-2;[WARN: CSMA      ] not for us
+1683823858.044096;m3-1;[WARN: CSMA      ] not for us
+1683823858.044307;m3-1;[WARN: CSMA      ] not for us
+1683823858.047381;m3-3;[WARN: CSMA      ] not for us
+1683823858.047591;m3-3;[WARN: CSMA      ] not for us
+1683823858.048174;m3-2;[WARN: CSMA      ] not for us
+1683823858.048305;m3-2;[WARN: CSMA      ] not for us
+1683823858.060056;m3-1;[WARN: CSMA      ] not for us
+1683823858.060267;m3-1;[WARN: CSMA      ] not for us
+1683823858.063347;m3-3;[WARN: CSMA      ] not for us
+1683823858.063558;m3-3;[WARN: CSMA      ] not for us
+1683823858.064137;m3-2;[WARN: CSMA      ] not for us
+1683823858.064266;m3-2;[WARN: CSMA      ] not for us
+1683823858.380030;m3-1;[WARN: CSMA      ] not for us
+1683823858.380240;m3-1;[WARN: CSMA      ] not for us
+1683823858.383379;m3-3;[WARN: CSMA      ] not for us
+1683823858.383592;m3-3;[WARN: CSMA      ] not for us
+1683823858.384082;m3-2;[WARN: CSMA      ] not for us
+1683823858.384211;m3-2;[WARN: CSMA      ] not for us
+1683823861.343248;m3-3;[INFO: App       ] Sending request 46 to [INFO: App       ] 
+1683823861.359165;m3-3;[WARN: CSMA      ] not for us
+1683823861.360317;m3-2;[INFO: App       ] Sending request 47 to [INFO: App       ] 
+1683823861.372058;m3-1;[INFO: App       ] Received request 'hello 47' from fd00::a685
+1683823861.372272;m3-1;[INFO: App       ] sending response
+1683823861.376149;m3-2;[WARN: CSMA      ] not for us
+1683823861.387785;m3-1;[INFO: App       ] Received request 'hello 46' from fd00::9787
+1683823861.388001;m3-1;[INFO: App       ] sending response
+1683823861.407118;m3-3;[WARN: CSMA      ] not for us
+1683823861.407805;m3-2;[INFO: App       ] Received response 'hello 47' from fd00::a484
+1683823861.423052;m3-3;[INFO: App       ] Received response 'hello 46' from fd00::a484
+1683823861.423774;m3-2;[WARN: CSMA      ] not for us
+1683823862.299923;m3-1;[WARN: CSMA      ] not for us
+1683823862.815243;m3-3;[WARN: CSMA      ] not for us
+1683823862.816063;m3-2;[WARN: CSMA      ] not for us
+1683823862.827937;m3-1;[WARN: CSMA      ] not for us
+1683823862.828150;m3-1;[WARN: CSMA      ] not for us
+1683823862.831068;m3-3;[WARN: CSMA      ] not for us
+1683823862.831279;m3-3;[WARN: CSMA      ] not for us
+1683823862.831885;m3-2;[WARN: CSMA      ] not for us
+1683823862.832016;m3-2;[WARN: CSMA      ] not for us
+1683823863.163723;m3-1;[WARN: CSMA      ] not for us
+1683823863.163932;m3-1;[WARN: CSMA      ] not for us
+1683823863.167053;m3-3;[WARN: CSMA      ] not for us
+1683823863.167747;m3-2;[WARN: CSMA      ] not for us
+1683823863.167896;m3-2;[WARN: CSMA      ] not for us
+1683823864.155825;m3-1;[WARN: CSMA      ] not for us
+1683823864.156052;m3-1;[WARN: CSMA      ] not for us
+1683823864.160071;m3-2;[WARN: CSMA      ] not for us
+1683823864.160282;m3-2;[WARN: CSMA      ] not for us
+1683823864.171667;m3-1;[WARN: CSMA      ] not for us
+1683823864.171877;m3-1;[WARN: CSMA      ] not for us
+1683823864.175047;m3-3;[WARN: CSMA      ] not for us
+1683823864.175259;m3-3;[WARN: CSMA      ] not for us
+1683823864.175766;m3-2;[WARN: CSMA      ] not for us
+1683823864.175898;m3-2;[WARN: CSMA      ] not for us
+1683823864.187627;m3-1;[WARN: CSMA      ] not for us
+1683823864.187839;m3-1;[WARN: CSMA      ] not for us
+1683823864.190943;m3-3;[WARN: CSMA      ] not for us
+1683823864.191153;m3-3;[WARN: CSMA      ] not for us
+1683823864.191756;m3-2;[WARN: CSMA      ] not for us
+1683823864.191886;m3-2;[WARN: CSMA      ] not for us
+1683823867.342934;m3-3;[INFO: App       ] Sending request 47 to [INFO: App       ] 
+1683823867.358849;m3-3;[WARN: CSMA      ] not for us
+1683823867.360010;m3-2;[INFO: App       ] Sending request 48 to [INFO: App       ] 
+1683823867.371737;m3-1;[INFO: App       ] Received request 'hello 48' from fd00::a685
+1683823867.371952;m3-1;[INFO: App       ] sending response
+1683823867.372072;m3-1;[INFO: App       ] Received request 'hello 47' from fd00::9787
+1683823867.372177;m3-1;[INFO: App       ] sending response
+1683823867.375739;m3-2;[WARN: CSMA      ] not for us
+1683823867.390728;m3-3;[INFO: App       ] Received response 'hello 47' from fd00::a484
+1683823867.390944;m3-3;[WARN: CSMA      ] not for us
+1683823867.391517;m3-2;[WARN: CSMA      ] not for us
+1683823867.454794;m3-3;[WARN: CSMA      ] not for us
+1683823867.455764;m3-2;[INFO: App       ] Received response 'hello 48' from fd00::a484
+1683823868.331536;m3-1;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823868.334910;m3-3;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823868.335635;m3-2;[ERR : 6LoWPAN   ] uncompression: unknown dispatch: 0x00, or IPHC disabled
+1683823868.923508;m3-1;[WARN: CSMA      ] not for us
+1683823868.923728;m3-1;[WARN: CSMA      ] not for us
+1683823868.926744;m3-3;[WARN: CSMA      ] not for us
+1683823868.926957;m3-3;[WARN: CSMA      ] not for us
+1683823868.928039;m3-2;[WARN: CSMA      ] not for us
+1683823868.939344;m3-1;[WARN: CSMA      ] not for us
+1683823868.939555;m3-1;[WARN: CSMA      ] not for us
+1683823868.942704;m3-3;[WARN: CSMA      ] not for us
+1683823868.942916;m3-3;[WARN: CSMA      ] not for us
+1683823868.943555;m3-2;[WARN: CSMA      ] not for us
+1683823868.943686;m3-2;[WARN: CSMA      ] not for us

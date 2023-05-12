@@ -1,0 +1,1992 @@
+1683895518.569426;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 187, status 0, tx 1
+1683895518.585184;m3-1;[INFO: TSCH-LOG  ] {asn 00.00000084 link  0 397   0 132  0 ch 15} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 187, st 0  1
+1683895519.227601;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895520.235494;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895520.633102;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895520.633350;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895520.633479;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 219, queue 1 1, len 14 94
+1683895520.665060;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 188, status 0, tx 1
+1683895520.665282;m3-1;[INFO: TSCH-LOG  ] {asn 00.00000155 link  2  31   0  0  1 ch 26} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 188, st 0  1
+1683895521.243257;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895521.273106;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895521.273327;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895522.203256;m3-2;[INFO: App       ] Not reachable yet
+1683895522.267086;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895522.553152;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 189, status 0, tx 1
+1683895522.553389;m3-1;[INFO: TSCH-LOG  ] {asn 00.00000211 link  0 397   0 132  0 ch 25} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 189, st 0  1
+1683895523.275233;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895524.283190;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895524.792943;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895524.793169;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895525.291216;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895526.299125;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895526.520806;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 190, status 0, tx 1
+1683895526.521032;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000039e link  0 397   0 132  0 ch 26} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 190, st 0  1
+1683895527.307066;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895527.352833;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895527.353055;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895527.353183;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 219, queue 1 1, len 14 94
+1683895527.496582;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 191, status 0, tx 1
+1683895527.496807;m3-1;[INFO: TSCH-LOG  ] {asn 00.000003ff link  2  31   0  0  1 ch 15} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 191, st 0  1
+1683895528.202910;m3-2;[INFO: App       ] Not reachable yet
+1683895528.314764;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895529.322780;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895530.346650;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895531.096453;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895531.096693;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895531.354569;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895532.362491;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895533.370573;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895534.202523;m3-2;[INFO: App       ] Not reachable yet
+1683895534.378412;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895534.472334;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 192, status 0, tx 1
+1683895534.472559;m3-1;[INFO: TSCH-LOG  ] {asn 00.000006b8 link  0 397   0 132  0 ch 15} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 192, st 0  1
+1683895535.386386;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895536.394413;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895537.418152;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895538.426340;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895539.434185;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895540.217941;m3-2;[INFO: App       ] Not reachable yet
+1683895540.441946;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895541.271969;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895541.272207;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895541.272334;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 219, queue 1 1, len 14 94
+1683895541.450060;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895541.463734;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 193, status 0, tx 1
+1683895541.463958;m3-1;[INFO: TSCH-LOG  ] {asn 00.00000972 link  2  31   0  0  1 ch 20} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 193, st 0  1
+1683895542.458007;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895543.465844;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895544.345908;m3-2;[INFO: RPL       ] sending a DIS to ff02::1a
+1683895544.346140;m3-2;[WARN: 6LoWPAN   ] output: failed to calculate payload size - dropping packet
+1683895544.473758;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895545.497601;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895546.217649;m3-2;[INFO: App       ] Not reachable yet
+1683895546.505562;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895546.791464;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895546.791686;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895547.513674;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895548.521600;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895549.529570;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895550.359266;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 194, status 0, tx 1
+1683895550.359490;m3-1;[INFO: TSCH-LOG  ] {asn 00.00000cec link  0 397   0 132  0 ch 15} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 194, st 0  1
+1683895550.537466;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895551.545357;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895552.217317;m3-2;[INFO: App       ] Not reachable yet
+1683895552.553275;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895553.577268;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895554.585115;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895555.593143;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895556.601051;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895557.609061;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895558.216945;m3-2;[INFO: App       ] Not reachable yet
+1683895558.616823;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895559.624820;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895560.632837;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895561.270612;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895561.270886;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895561.656749;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895562.278379;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 195, status 0, tx 1
+1683895562.278607;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001193 link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 195, st 0  1
+1683895562.664650;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895563.672644;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895564.216525;m3-2;[INFO: App       ] Not reachable yet
+1683895564.680446;m3-2;[INFO: TSCH      ] scanning on channel 15
+1683895565.688412;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895566.696463;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895567.704334;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895568.728194;m3-2;[INFO: TSCH      ] scanning on channel 20
+1683895569.736206;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895570.216220;m3-2;[INFO: App       ] Not reachable yet
+1683895570.744045;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895571.752126;m3-2;[INFO: TSCH      ] scanning on channel 25
+1683895572.760060;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895573.765610;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895573.765836;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895573.767901;m3-2;[INFO: TSCH      ] scanning on channel 26
+1683895574.197548;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 196, status 0, tx 1
+1683895574.213372;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000163a link  0 397   0 132  0 ch 26} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 196, st 0  1
+1683895574.214118;m3-2;[INFO: TSCH      ] scan: received packet (35 bytes) on channel 26
+1683895574.214308;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895574.214425;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895574.214527;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895574.214627;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895574.214723;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895574.214817;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895574.214910;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895574.215115;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895574.215207;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895574.226873;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895574.227128;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895574.227254;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895574.227361;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895574.227460;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895574.227554;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895574.227646;m3-2;[INFO: TSCH      ] parse_eb: no schedule
+1683895574.227740;m3-2;[INFO: TSCH Queue] update time source: (NULL LL addr) -> 0200.0000.0000.a484
+1683895574.227836;m3-2;[INFO: TSCH Sched] add_link sf=0 opt=Rx type=ADV_ONLY ts=132 ch=0 addr=ffff.ffff.ffff.ffff
+1683895574.241821;m3-2;[INFO: TSCH      ] association done (1), sec 0, PAN ID 81a5, asn-0.163a, jp 1, timeslot id 0, hopping id 0, slotframe len 0 with 0 links, from 0200.0000.0000.a484
+1683895574.242056;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000163b link  0 397   0 133  0 ch  0} !dl-miss assoc 1287 328
+1683895574.242187;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000163c link  1  17   0 14 135 ch  0} !dl-miss assoc 962 328
+1683895574.242341;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000163d link  1  17   0 15 135 ch  0} !dl-miss assoc 636 328
+1683895576.209848;m3-2;[INFO: App       ] Not reachable yet
+1683895576.645371;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895576.645605;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895576.645733;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 219, queue 1 1, len 14 94
+1683895576.821237;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 197, status 0, tx 1
+1683895576.831136;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0000.0000.0000.0000 14 80 (94)
+1683895576.831357;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 65535
+1683895576.831488;m3-2;[INFO: RPL       ] received a multicast-DIO from fe80::a484, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 128
+1683895576.831609;m3-2;[INFO: RPL       ] adding global IP address fd00::a685
+1683895576.831714;m3-2;[INFO: RPL       ] reset MRHOF
+1683895576.831810;m3-2;[INFO: RPL       ] initialized DAG with instance ID 0, DAG ID fd00::a484, prexix fd00::/64, rank 65535
+1683895576.837119;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001740 link  2  31   0  0  1 ch 25} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 197, st 0  1
+1683895576.846607;m3-2;[WARN: RPL       ] just joined, no parent yet, setting timer for leaving
+1683895576.846829;m3-2;[INFO: RPL       ] refreshing lifetime
+1683895576.846992;m3-2;[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::a484
+1683895576.847109;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001740 link  2  31   0  0  1 ch 25} bc-1-0 rx LL-a484->LL-NULL, len  94, seq   0, edr   1, dr  -1
+1683895577.166782;m3-2;[INFO: RPL       ] nbr: own state, addr fd00::a685, DAG state: initialized, MOP 1 OCP 1 rank 65535 max-rank 65535, dioint 0, nbr count 1 (Periodic)
+1683895577.167122;m3-2;[INFO: RPL       ] nbr: fe80::a484  128,   128 =>   256 --  0 rba   (no tx, better since 0 min)
+1683895577.167279;m3-2;[INFO: RPL       ] nbr: end of list
+1683895577.189217;m3-1;[INFO: RPL       ] nbr: own state, addr fd00::a484, DAG state: reachable, MOP 1 OCP 1 rank 128 max-rank 65535, dioint 15, nbr count 0 (Periodic)
+1683895577.189448;m3-1;[INFO: RPL       ] nbr: end of list
+1683895577.189573;m3-1;[INFO: RPL       ] No routing links
+1683895578.302765;m3-2;[INFO: RPL       ] probing fe80::a484 (urgent) last tx 1 min ago
+1683895578.303026;m3-2;[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::a484
+1683895578.303160;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 79 (100)
+1683895578.303273;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 132, queue 1 1, len 21 100
+1683895578.462506;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895578.469278;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 79 (100)
+1683895578.469501;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 132
+1683895578.469628;m3-1;[INFO: RPL       ] received a unicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 65535
+1683895578.478530;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895578.478748;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 132, status 0, tx 1
+1683895578.478878;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895578.479035;m3-2;[INFO: TSCH-LOG  ] {asn 00.000017e4 link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len 100, seq 132, st 0  1, dr   0
+1683895578.479147;m3-2;[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::a484
+1683895578.485082;m3-1;[INFO: TSCH-LOG  ] {asn 00.000017e4 link  1  17   0 13 134 ch 26} !dl-miss RxBeforeAck 131 133
+1683895578.485307;m3-1;[INFO: TSCH-LOG  ] {asn 00.000017e4 link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len 100, seq 132, edr   0
+1683895580.318785;m3-2;[INFO: RPL       ] sending a DIS to ff02::1a
+1683895580.319169;m3-2;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 10 (24)
+1683895580.319309;m3-2;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 132, queue 1 1, len 14 24
+1683895580.542401;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 140, status 0, tx 1
+1683895580.549176;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0000.0000.0000.0000 14 10 (24)
+1683895580.549399;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 65535
+1683895580.549528;m3-1;[INFO: RPL       ] received a DIS from fe80::a685
+1683895580.549637;m3-1;[INFO: RPL       ] reset DIO timer (Multicast DIS)
+1683895580.549740;m3-1;[INFO: TSCH-LOG  ] {asn 00.000018b4 link  2  31   0  0  1 ch 25} bc-1-0 rx LL-a685->LL-NULL, len  24, seq 132, edr   0
+1683895580.558384;m3-2;[INFO: TSCH-LOG  ] {asn 00.000018b4 link  2  31   0  0  1 ch 25} bc-1-0 tx LL-a685->LL-NULL, len  24, seq 140, st 0  1
+1683895582.206465;m3-2;[INFO: App       ] Not reachable yet
+1683895582.222364;m3-2;[INFO: RPL       ] probing fe80::a484 (urgent) last tx 0 min ago
+1683895582.222589;m3-2;[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::a484
+1683895582.222721;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 79 (100)
+1683895582.222829;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 133, queue 1 1, len 21 100
+1683895582.382362;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895582.382581;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895582.382708;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 133, status 0, tx 1
+1683895582.389010;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 79 (100)
+1683895582.389232;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 133
+1683895582.389359;m3-1;[INFO: RPL       ] received a unicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 65535
+1683895582.389478;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000196b link  1  17   0 13 134 ch 25} !dl-miss RxBeforeAck 131 133
+1683895582.389604;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000196b link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len 100, seq 133, edr   0
+1683895582.398359;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895582.398584;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000196b link  1  17   0 13 135 ch 25} drift 0 ppm (min/max delta seen: -1/0)
+1683895582.398719;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000196b link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len 100, seq 133, st 0  1, dr   0
+1683895582.398840;m3-2;[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::a484
+1683895582.542326;m3-2;[INFO: RPL       ] probing fe80::a484 (urgent) last tx 0 min ago
+1683895582.542549;m3-2;[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::a484
+1683895582.542679;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 79 (100)
+1683895582.548741;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 79 (100)
+1683895582.548966;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 134
+1683895582.558354;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 134, queue 1 1,[DBG : Frame 15.4] ie type 0, current state 0
+1683895582.558583;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895582.558704;m3-2; len 21 100
+1683895582.558808;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 134, status 0, tx 1
+1683895582.558912;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895582.559058;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000197c link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len 100, seq 134, st 0  1, dr   0
+1683895582.564745;m3-1;[INFO: RPL       ] received a unicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 65535
+1683895582.564973;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000197c link  1  17   0 13 134 ch 26} !dl-miss RxBeforeAck 131 133
+1683895582.565105;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000197c link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len 100, seq 134, edr   0
+1683895582.574202;m3-2;[INFO: RPL       ] best parent is not fresh, schedule urgent probing to fe80::a484
+1683895583.108679;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895583.124692;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895583.124911;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 219, queue 1 1, len 14 94
+1683895583.342384;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0000.0000.0000.0000 14 80 (94)
+1683895583.342606;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 65535
+1683895583.342734;m3-2;[INFO: RPL       ] received a multicast-DIO from fe80::a484, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 128
+1683895583.348876;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 198, status 0, tx 1
+1683895583.349097;m3-1;[INFO: TSCH-LOG  ] {asn 00.000019cb link  2  31   0  0  1 ch 15} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 198, st 0  1
+1683895583.358143;m3-2;[INFO: TSCH-LOG  ] {asn 00.000019cb link  2  31   0  0  1 ch 15} bc-1-0 rx LL-a484->LL-NULL, len  94, seq   0, edr   1, dr  -1
+1683895585.022262;m3-2;[INFO: RPL       ] probing fe80::a484 (urgent) last tx 0 min ago
+1683895585.022485;m3-2;[INFO: RPL       ] sending a unicast-DIO with rank 65535 to fe80::a484
+1683895585.022614;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 79 (100)
+1683895585.022724;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 135, queue 1 1, len 21 100
+1683895585.102077;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895585.102347;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895585.108864;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 79 (100)
+1683895585.109084;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 135
+1683895585.109213;m3-1;[INFO: RPL       ] received a unicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 65535
+1683895585.109350;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001a7b link  1  17   0 13 134 ch 25} !dl-miss RxBeforeAck 131 133
+1683895585.115378;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 135, status 0, tx 1
+1683895585.115600;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895585.115732;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001a7b link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len 100, seq 135, st 0  1, dr   1
+1683895585.115854;m3-2;[INFO: RPL       ] parent switch: (NULL IP addr) -> fe80::a484
+1683895585.115959;m3-2;[WARN: RPL       ] found parent: fe80::a484, staying in DAG
+1683895585.124585;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001a7b link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len 100, seq 135, edr   1
+1683895585.131055;m3-2;[INFO: RPL       ] nbr: own state, addr fd00::a685, DAG state: joined, MOP 1 OCP 1 rank 256 max-rank 1280, dioint 0, nbr count 1 (Parent switch)
+1683895585.131284;m3-2;[INFO: RPL       ] nbr: fe80::a484  128,   128 =>   256 --  4 rbafp (last tx 0 min ago)
+1683895585.131418;m3-2;[INFO: RPL       ] nbr: end of list
+1683895585.780604;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895585.780828;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895586.116542;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 199, status 0, tx 1
+1683895586.123235;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895586.123452;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895586.123578;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895586.123688;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895586.123788;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895586.123881;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895586.132484;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001ae1 link  0 397   0 132  0 ch 25} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 199, st 0  1
+1683895586.135820;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895586.136037;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895586.136161;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895586.136268;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895586.136367;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895586.136463;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895586.136556;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895586.136651;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895586.136744;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895586.151125;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001ae1 link  0 397   0 132  0 ch 25} bc-0-0 rx LL-a484->LL-NULL, len  35, seq   0, edr   1, dr  -1
+1683895588.215119;m3-2;[INFO: App       ] Not reachable yet
+1683895588.215367;m3-2;[INFO: RPL       ] sending a DAO seqno 241, tx count 1, lifetime 30, prefix fd00::a685 to fd00::a484, parent fe80::a484
+1683895588.230899;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895588.231151;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 62 (83)
+1683895588.231279;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 136, queue 1 1, len 21 83
+1683895588.340673;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 62 (83)
+1683895588.340894;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 136
+1683895588.341022;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895588.341142;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895588.342987;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895588.343204;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895588.343330;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 136, status 0, tx 1
+1683895588.343442;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895588.343547;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001bbe link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895588.353539;m3-1;[INFO: RPL       ] received a DAO from fd00::a685, seqno 241, lifetime 30, prefix fd00::a685, prefix length 128, parent fd00::a484 
+1683895588.353765;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001bbe link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  83, seq 136, edr   0
+1683895588.353899;m3-1;[INFO: RPL       ] sending a DAO-ACK seqno 241 to fd00::a685 with status 0
+1683895588.354011;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895588.354116;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895588.354262;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 20 (41)
+1683895588.358800;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001bbe link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  83, seq 136, st 0  1, dr   0
+1683895588.369368;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 220, queue 1 1, len 21 41
+1683895588.513290;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895588.513508;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895588.513632;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 220, status 0, tx 1
+1683895588.518897;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 20 (41)
+1683895588.519158;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 220
+1683895588.519287;m3-2;[INFO: RPL       ] received a DAO-ACK with seqno 241 (241 241) and status 0 from fd00::a484
+1683895588.519400;m3-2;[INFO: RPL       ] reset DIO timer (Reachable)
+1683895588.519503;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001bd0 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  41, seq 220, edr   0, dr   0
+1683895588.529238;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 320
+1683895588.529460;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001bd0 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  41, seq 220, st 0  1
+1683895589.121259;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895589.121478;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895589.137217;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 220, queue 1 1, len 14 94
+1683895589.233397;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 200, status 0, tx 1
+1683895589.233619;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001c18 link  2  31   0  0  1 ch 25} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 200, st 0  1
+1683895589.239118;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0000.0000.0000.0000 14 80 (94)
+1683895589.239337;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 65535
+1683895589.239468;m3-2;[INFO: RPL       ] received a multicast-DIO from fe80::a484, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 128
+1683895589.239587;m3-2;[INFO: RPL       ] refreshing lifetime
+1683895589.254873;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001c18 link  2  31   0  0  1 ch 25} bc-1-0 rx LL-a484->LL-NULL, len  94, seq 220, edr   0, dr   0
+1683895590.246899;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895590.247159;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895591.526800;m3-2;[INFO: RPL       ] sending a multicast-DIO with rank 256 to ff02::1a
+1683895591.527069;m3-2;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895591.527203;m3-2;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 136, queue 1 2, len 14 94
+1683895591.713197;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0000.0000.0000.0000 14 80 (94)
+1683895591.718691;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 142, status 0, tx 1
+1683895591.718911;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001d10 link  2  31   0  0  1 ch 25} bc-1-0 tx LL-a685->LL-NULL, len  94, seq 142, st 0  1
+1683895591.729127;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 65535
+1683895591.729348;m3-1;[INFO: RPL       ] received a multicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 256
+1683895591.729501;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001d10 link  2  31   0  0  1 ch 25} bc-1-0 rx LL-a685->LL-NULL, len  94, seq 136, edr   0
+1683895592.273195;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895592.273430;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895594.065123;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 201, status 0, tx 1
+1683895594.070770;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895594.071024;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895594.071152;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895594.071262;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895594.071361;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895594.071454;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895594.071547;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895594.080875;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001dfb link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 201, st 0  1
+1683895594.083052;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895594.083266;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895594.083391;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895594.083498;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895594.083598;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895594.083693;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895594.083787;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895594.083879;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895594.083970;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 141, status 0, tx 1
+1683895594.098557;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001dfb link  0 397   0 132  0 ch 20} drift -3 ppm (min/max delta seen: -1/1)
+1683895594.098780;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001dfb link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 220, edr   1, dr  -1
+1683895594.098952;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001dfc link  0 397   0 133  0 ch 15} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 141, st 0  1
+1683895594.210705;m3-2;[INFO: App       ] Sending request 0 to [INFO: App       ] 
+1683895594.210961;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895594.211094;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895594.211203;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 137, queue 1 1, len 21 46
+1683895594.289093;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895594.289314;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 137
+1683895594.290454;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895594.290671;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895594.290794;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 137, status 0, tx 1
+1683895594.301967;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895594.302195;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895594.302374;m3-1;[INFO: App       ] Received request 'hello 0' from fd00::a685
+1683895594.302485;m3-1;[INFO: App       ] sending response
+1683895594.302585;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895594.302686;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895594.302786;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895594.306418;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895594.306640;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001e11 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  46, seq 137, st 0  1, dr   1
+1683895594.316947;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 221, queue 1 1, len 21 46
+1683895594.317186;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001e11 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  46, seq 137, edr   1
+1683895594.466468;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895594.477036;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895594.477254;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895594.477376;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 221, status 0, tx 1
+1683895594.477487;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 272
+1683895594.477592;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001e23 link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  46, seq 221, st 0  1
+1683895594.482424;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 221
+1683895594.482643;m3-2;[INFO: App       ] Received response 'hello 0' from fd00::a484
+1683895594.482773;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001e23 link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  46, seq 221, edr   0, dr   0
+1683895597.858459;m3-2;[INFO: RPL       ] sending a multicast-DIO with rank 256 to ff02::1a
+1683895597.858703;m3-2;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895597.858832;m3-2;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 137, queue 1 1, len 14 94
+1683895597.922339;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 143, status 0, tx 1
+1683895597.922559;m3-2;[INFO: TSCH-LOG  ] {asn 00.00001f7c link  2  31   0  0  1 ch 25} bc-1-0 tx LL-a685->LL-NULL, len  94, seq 143, st 0  1
+1683895597.932715;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0000.0000.0000.0000 14 80 (94)
+1683895597.932937;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 65535
+1683895597.933063;m3-1;[INFO: RPL       ] received a multicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 256
+1683895597.933184;m3-1;[INFO: TSCH-LOG  ] {asn 00.00001f7c link  2  31   0  0  1 ch 25} bc-1-0 rx LL-a685->LL-NULL, len  94, seq 137, edr   0
+1683895599.244798;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895599.245016;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895600.210375;m3-2;[INFO: App       ] Sending request 1 to [INFO: App       ] 
+1683895600.210595;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895600.210720;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895600.210830;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 138, queue 1 1, len 21 46
+1683895600.242163;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895600.242431;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895600.242561;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 138, status 0, tx 1
+1683895600.250808;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895600.251063;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 138
+1683895600.251190;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895600.251309;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895600.251420;m3-1;[INFO: App       ] Received request 'hello 1' from fd00::a685
+1683895600.258164;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895600.258423;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002064 link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895600.258560;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002064 link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  46, seq 138, st 0  1, dr   0
+1683895600.265609;m3-1;[INFO: App       ] sending response
+1683895600.265823;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895600.265953;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895600.266081;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895600.266184;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 222, queue 1 2, len 21 46
+1683895600.266345;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002064 link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  46, seq 138, edr   0
+1683895600.425595;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895600.425813;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895600.425936;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 222, status 0, tx 1
+1683895600.426047;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 236
+1683895600.434136;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895600.434395;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 222
+1683895600.434526;m3-2;[INFO: App       ] Received response 'hello 1' from fd00::a484
+1683895600.434639;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002076 link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  46, seq 222, edr   0, dr   0
+1683895600.441478;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002076 link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  46, seq 222, st 0  1
+1683895600.514111;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895600.530065;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895602.009539;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 202, status 0, tx 1
+1683895602.018324;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895602.018541;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895602.018664;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895602.018773;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895602.018871;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895602.019009;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895602.019105;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895602.025439;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002115 link  0 397   0 132  0 ch 25} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 202, st 0  1
+1683895602.030645;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895602.030862;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895602.031029;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895602.031139;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895602.031241;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895602.031338;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895602.031432;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895602.031526;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895602.031619;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 144, status 0, tx 1
+1683895602.046019;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002115 link  0 397   0 132  0 ch 25} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 222, edr   0, dr   0
+1683895602.046301;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002116 link  0 397   0 133  0 ch 26} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 144, st 0  1
+1683895605.881335;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895605.881601;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895605.881734;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 222, queue 1 1, len 14 94
+1683895605.993096;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 203, status 0, tx 1
+1683895605.993319;m3-1;[INFO: TSCH-LOG  ] {asn 00.000022a2 link  2  31   0  0  1 ch 20} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 203, st 0  1
+1683895606.205909;m3-2;[INFO: App       ] Sending request 2 to [INFO: App       ] 
+1683895606.206130;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895606.221743;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895606.221963;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 139, queue 1 1, len 21 46
+1683895606.365736;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895606.365953;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895606.375916;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895606.376137;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 139
+1683895606.376266;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895606.376386;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895606.376498;m3-1;[INFO: App       ] Received request 'hello 2' from fd00::a685
+1683895606.381784;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 139, status 0, tx 1
+1683895606.382006;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895606.382138;m3-2;[INFO: TSCH-LOG  ] {asn 00.000022c8 link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895606.382306;m3-2;[INFO: TSCH-LOG  ] {asn 00.000022c8 link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  46, seq 139, st 0  1, dr   1
+1683895606.391240;m3-1;[INFO: App       ] sending response
+1683895606.391454;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895606.391586;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895606.391700;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895606.391802;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 223, queue 1 1, len 21 46
+1683895606.391903;m3-1;[INFO: TSCH-LOG  ] {asn 00.000022c8 link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  46, seq 139, edr   1
+1683895606.551139;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895606.551357;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895606.551485;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 223, status 0, tx 1
+1683895606.551600;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 225
+1683895606.557747;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895606.557966;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 223
+1683895606.558093;m3-2;[INFO: App       ] Received response 'hello 2' from fd00::a484
+1683895606.558242;m3-2;[INFO: TSCH-LOG  ] {asn 00.000022da link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  46, seq 223, edr   1, dr  -1
+1683895606.567028;m3-1;[INFO: TSCH-LOG  ] {asn 00.000022da link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  46, seq 223, st 0  1
+1683895606.877712;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895606.877931;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895609.293747;m3-2;[INFO: RPL       ] sending a multicast-DIO with rank 256 to ff02::1a
+1683895609.293989;m3-2;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895609.294119;m3-2;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 139, queue 1 2, len 14 94
+1683895609.399083;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0000.0000.0000.0000 14 80 (94)
+1683895609.405592;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 146, status 0, tx 1
+1683895609.405816;m3-2;[INFO: TSCH-LOG  ] {asn 00.000023f7 link  2  31   0  0  1 ch 15} bc-1-0 tx LL-a685->LL-NULL, len  94, seq 146, st 0  1
+1683895609.414955;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 65535
+1683895609.415176;m3-1;[INFO: RPL       ] received a multicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 256
+1683895609.415315;m3-1;[INFO: TSCH-LOG  ] {asn 00.000023f7 link  2  31   0  0  1 ch 15} bc-1-0 rx LL-a685->LL-NULL, len  94, seq 139, edr   0
+1683895609.981519;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 145, status 0, tx 1
+1683895609.981740;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002430 link  0 397   0 133  0 ch 15} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 145, st 0  1
+1683895612.205472;m3-2;[INFO: App       ] Sending request 3 to [INFO: App       ] 
+1683895612.205714;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895612.221566;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895612.221786;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 140, queue 1 1, len 21 46
+1683895612.327003;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895612.327238;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 140
+1683895612.327369;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895612.333500;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895612.333717;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895612.333839;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 140, status 0, tx 1
+1683895612.333952;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895612.334058;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000251b link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895612.334162;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000251b link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  46, seq 140, st 0  1, dr   0
+1683895612.339760;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895612.339987;m3-1;[INFO: App       ] Received request 'hello 3' from fd00::a685
+1683895612.340116;m3-1;[INFO: App       ] sending response
+1683895612.340224;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895612.340329;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895612.340430;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895612.340527;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 224, queue 1 1, len 21 46
+1683895612.355615;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000251b link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  46, seq 140, edr   0
+1683895612.499513;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895612.509349;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895612.509571;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 224
+1683895612.509699;m3-2;[INFO: App       ] Received response 'hello 3' from fd00::a484
+1683895612.509807;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000252d link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  46, seq 224, edr   0, dr   0
+1683895612.515632;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895612.515850;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 224, status 0, tx 1
+1683895612.515981;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 215
+1683895612.516095;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000252d link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  46, seq 224, st 0  1
+1683895613.139630;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895613.139884;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895613.933373;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895613.933601;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895613.933726;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895613.933836;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895613.933936;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895613.939700;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 204, status 0, tx 1
+1683895613.939920;m3-1;[INFO: TSCH-LOG  ] {asn 00.000025bc link  0 397   0 132  0 ch 15} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 204, st 0  1
+1683895613.945930;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895613.946148;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895613.946319;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895613.946431;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895613.946533;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895613.946648;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895613.946744;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895613.946838;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895613.946968;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895613.947066;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895613.961154;m3-2;[INFO: TSCH-LOG  ] {asn 00.000025bc link  0 397   0 132  0 ch 15} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 224, edr   0, dr   0
+1683895618.217146;m3-2;[INFO: App       ] Sending request 4 to [INFO: App       ] 
+1683895618.217391;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895618.217518;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895618.217628;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 141, queue 1 1, len 21 46
+1683895618.275393;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895618.281008;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895618.281226;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895618.281350;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 141, status 0, tx 1
+1683895618.287964;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 141
+1683895618.288184;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895618.288324;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895618.288442;m3-1;[INFO: App       ] Received request 'hello 4' from fd00::a685
+1683895618.288545;m3-1;[INFO: App       ] sending response
+1683895618.296931;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895618.297156;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000276e link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895618.297291;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000276e link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  46, seq 141, st 0  1, dr   1
+1683895618.303261;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895618.303481;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895618.303612;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895618.303722;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 225, queue 1 1, len 21 46
+1683895618.303827;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000276e link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  46, seq 141, edr   1
+1683895618.456914;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895618.463292;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895618.463508;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895618.463633;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 225, status 0, tx 1
+1683895618.463745;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 206
+1683895618.463850;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002780 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  46, seq 225, st 0  1
+1683895618.472891;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 225
+1683895618.473112;m3-2;[INFO: App       ] Received response 'hello 4' from fd00::a484
+1683895618.473240;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002780 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  46, seq 225, edr   1, dr  -1
+1683895619.224892;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895619.225112;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895621.896798;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 147, status 0, tx 1
+1683895621.897040;m3-2;[INFO: TSCH-LOG  ] {asn 00.000028d7 link  0 397   0 133  0 ch 20} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 147, st 0  1
+1683895624.216841;m3-2;[INFO: App       ] Sending request 5 to [INFO: App       ] 
+1683895624.217117;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895624.217245;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895624.217354;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 142, queue 1 1, len 21 46
+1683895624.232626;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895624.232844;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895624.232967;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 142, status 0, tx 1
+1683895624.239219;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895624.239437;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 142
+1683895624.239566;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895624.239685;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895624.248765;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895624.248987;m3-2;[INFO: TSCH-LOG  ] {asn 00.000029c1 link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895624.249119;m3-2;[INFO: TSCH-LOG  ] {asn 00.000029c1 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  46, seq 142, st 0  1, dr   0
+1683895624.251891;m3-1;[INFO: App       ] Received request 'hello 5' from fd00::a685
+1683895624.252107;m3-1;[INFO: App       ] sending response
+1683895624.252228;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895624.252339;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895624.252441;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895624.252537;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 226, queue 1 1, len 21 46
+1683895624.266832;m3-1;[INFO: TSCH-LOG  ] {asn 00.000029c1 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  46, seq 142, edr   0
+1683895624.410780;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895624.411033;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895624.424712;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895624.424931;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 226
+1683895624.425059;m3-2;[INFO: App       ] Received response 'hello 5' from fd00::a484
+1683895624.425171;m3-2;[INFO: TSCH-LOG  ] {asn 00.000029d3 link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  46, seq 226, edr   0, dr   0
+1683895624.426776;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 226, status 0, tx 1
+1683895624.427028;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 198
+1683895624.427161;m3-1;[INFO: TSCH-LOG  ] {asn 00.000029d3 link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  46, seq 226, st 0  1
+1683895628.874766;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895628.875058;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895629.832493;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895629.832716;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895629.832839;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895629.832948;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895629.833047;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895629.833142;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895629.833235;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895629.833327;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895629.833419;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895629.834563;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 205, status 0, tx 1
+1683895629.834782;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002bf0 link  0 397   0 132  0 ch 15} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 205, st 0  1
+1683895629.848261;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895629.848494;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895629.848619;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895629.848727;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895629.848826;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895629.848921;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895629.849014;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002bf0 link  0 397   0 132  0 ch 15} drift -3 ppm (min/max delta seen: -1/1)
+1683895629.849116;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002bf0 link  0 397   0 132  0 ch 15} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 226, edr   1, dr  -1
+1683895630.216222;m3-2;[INFO: App       ] Sending request 6 to [INFO: App       ] 
+1683895630.216437;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895630.216560;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895630.216667;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 143, queue 1 1, len 21 46
+1683895630.360312;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895630.360527;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895630.360650;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 143, status 0, tx 1
+1683895630.362637;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895630.362856;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 143
+1683895630.363090;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895630.375555;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895630.375782;m3-1;[INFO: App       ] Received request 'hello 6' from fd00::a685
+1683895630.375985;m3-1;[INFO: App       ] sending response
+1683895630.376096;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895630.376200;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895630.376301;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895630.376395;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 227, queue 1 1, len 21 46
+1683895630.376567;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895630.376673;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002c25 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  46, seq 143, st 0  1, dr   1
+1683895630.391431;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002c25 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  46, seq 143, edr   1
+1683895630.535353;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895630.535877;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895630.551421;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895630.551636;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 227, status 0, tx 1
+1683895630.551836;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 191
+1683895630.551958;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002c37 link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  46, seq 227, st 0  1
+1683895630.552138;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 227
+1683895630.552246;m3-2;[INFO: App       ] Received response 'hello 6' from fd00::a484
+1683895630.552344;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002c37 link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  46, seq 227, edr   0, dr   0
+1683895633.048157;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895633.048406;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895633.816146;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 148, status 0, tx 1
+1683895633.816391;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002d7e link  0 397   0 133  0 ch 26} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 148, st 0  1
+1683895634.712001;m3-2;[INFO: RPL       ] sending a multicast-DIO with rank 256 to ff02::1a
+1683895634.712239;m3-2;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895634.712367;m3-2;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 143, queue 1 1, len 14 94
+1683895634.839610;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 149, status 0, tx 1
+1683895634.855188;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0000.0000.0000.0000 14 80 (94)
+1683895634.855406;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 65535
+1683895634.855611;m3-1;[INFO: RPL       ] received a multicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 256
+1683895634.855734;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002de5 link  2  31   0  0  1 ch 26} bc-1-0 rx LL-a685->LL-NULL, len  94, seq 143, edr   0
+1683895634.855911;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002de5 link  2  31   0  0  1 ch 26} bc-1-0 tx LL-a685->LL-NULL, len  94, seq 149, st 0  1
+1683895636.215946;m3-2;[INFO: App       ] Sending request 7 to [INFO: App       ] 
+1683895636.216165;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895636.216291;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895636.216400;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 144, queue 1 1, len 21 46
+1683895636.311232;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895636.311603;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895636.311749;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895636.323563;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 144
+1683895636.323780;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895636.323915;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895636.324033;m3-1;[INFO: App       ] Received request 'hello 7' from fd00::a685
+1683895636.324133;m3-1;[INFO: App       ] sending response
+1683895636.327861;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 144, status 0, tx 1
+1683895636.328080;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895636.328209;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002e78 link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895636.328323;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002e78 link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  46, seq 144, st 0  1, dr   0
+1683895636.339081;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895636.339300;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895636.339429;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895636.339539;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 228, queue 1 1, len 21 46
+1683895636.339645;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002e78 link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  46, seq 144, edr   0
+1683895636.371022;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895636.371239;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895636.371367;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 228, queue 1 2, len 14 94
+1683895636.391731;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0000.0000.0000.0000 14 80 (94)
+1683895636.403001;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 206, status 0, tx 1
+1683895636.403223;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002e80 link  2  31   0  0  1 ch 25} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 206, st 0  1
+1683895636.407767;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 65535
+1683895636.407987;m3-2;[INFO: RPL       ] received a multicast-DIO from fe80::a484, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 128
+1683895636.408123;m3-2;[INFO: RPL       ] refreshing lifetime
+1683895636.408229;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002e80 link  2  31   0  0  1 ch 25} bc-1-0 rx LL-a484->LL-NULL, len  94, seq 227, edr   0, dr   0
+1683895636.499038;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895636.499256;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895636.499380;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 228, status 0, tx 1
+1683895636.499492;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 184
+1683895636.499598;m3-1;[INFO: TSCH-LOG  ] {asn 00.00002e8a link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  46, seq 228, st 0  1
+1683895636.503745;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895636.503965;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 228
+1683895636.504092;m3-2;[INFO: App       ] Received response 'hello 7' from fd00::a484
+1683895636.504200;m3-2;[INFO: TSCH-LOG  ] {asn 00.00002e8a link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  46, seq 228, edr   0, dr   0
+1683895637.111739;m3-2;[INFO: RPL       ] no neighbor needs probing
+1683895637.159818;m3-2;[INFO: RPL       ] nbr: own state, addr fd00::a685, DAG state: reachable, MOP 1 OCP 1 rank 256 max-rank 1280, dioint 15, nbr count 1 (Periodic)
+1683895637.160047;m3-2;[INFO: RPL       ] nbr: fe80::a484  128,   128 =>   256 -- 13 rbafp (last tx 0 min ago)
+1683895637.160176;m3-2;[INFO: RPL       ] nbr: end of list
+1683895637.186979;m3-1;[INFO: RPL       ] nbr: own state, addr fd00::a484, DAG state: reachable, MOP 1 OCP 1 rank 128 max-rank 65535, dioint 15, nbr count 1 (Periodic)
+1683895637.187208;m3-1;[INFO: RPL       ] nbr: fe80::a685  256,   184 =>   440 --  9  baf  (last tx 0 min ago)
+1683895637.187339;m3-1;[INFO: RPL       ] nbr: end of list
+1683895637.187447;m3-1;[INFO: RPL       ] links: 2 routing links in total (Periodic)
+1683895637.187548;m3-1;[INFO: RPL       ] links: fd00::a484  (DODAG root) (lifetime: infinite)
+1683895637.202834;m3-1;[INFO: RPL       ] links: fd00::a685  to fd00::a484 (lifetime: 1740 seconds)
+1683895637.203086;m3-1;[INFO: RPL       ] links: end of list
+1683895641.618746;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895641.619066;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895641.746571;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 207, status 0, tx 1
+1683895641.746791;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003097 link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 207, st 0  1
+1683895641.751771;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895641.751984;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895641.752107;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895641.752214;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895641.752315;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895641.752409;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895641.752502;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895641.752595;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895641.767574;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895641.767787;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895641.767912;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895641.768018;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895641.768116;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895641.768211;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895641.768303;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895641.768396;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003097 link  0 397   0 132  0 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895641.768498;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003097 link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 228, edr   0, dr   0
+1683895642.215419;m3-2;[INFO: App       ] Sending request 8 to [INFO: App       ] 
+1683895642.215636;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895642.215760;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895642.215867;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 145, queue 1 1, len 21 46
+1683895642.274793;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895642.275111;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 145
+1683895642.275242;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895642.275363;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895642.279536;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895642.279749;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895642.279872;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 145, status 0, tx 1
+1683895642.279983;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895642.280087;m3-2;[INFO: TSCH-LOG  ] {asn 00.000030cb link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  46, seq 145, st 0  1, dr   1
+1683895642.290026;m3-1;[INFO: App       ] Received request 'hello 8' from fd00::a685
+1683895642.290280;m3-1;[INFO: App       ] sending response
+1683895642.290410;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895642.290522;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895642.290627;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895642.290725;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 229, queue 1 1, len 21 46
+1683895642.305511;m3-1;[INFO: TSCH-LOG  ] {asn 00.000030cb link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  46, seq 145, edr   1
+1683895642.449617;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895642.449830;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895642.449952;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 229, status 0, tx 1
+1683895642.455454;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895642.455672;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 229
+1683895642.455799;m3-2;[INFO: App       ] Received response 'hello 8' from fd00::a484
+1683895642.455905;m3-2;[INFO: TSCH-LOG  ] {asn 00.000030dd link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  46, seq 229, edr   1, dr  -1
+1683895642.465539;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 178
+1683895642.465759;m3-1;[INFO: TSCH-LOG  ] {asn 00.000030dd link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  46, seq 229, st 0  1
+1683895645.095434;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895645.095694;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895645.735287;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 150, status 0, tx 1
+1683895645.735507;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003225 link  0 397   0 133  0 ch 25} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 150, st 0  1
+1683895648.215268;m3-2;[INFO: App       ] Sending request 9 to [INFO: App       ] 
+1683895648.215512;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895648.215635;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 25 (46)
+1683895648.215741;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 146, queue 1 1, len 21 46
+1683895648.225334;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 25 (46)
+1683895648.225552;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 146
+1683895648.231211;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895648.231425;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895648.231550;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 146, status 0, tx 1
+1683895648.231662;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895648.231767;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000331e link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895648.238321;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895648.238548;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895648.238682;m3-1;[INFO: App       ] Received request 'hello 9' from fd00::a685
+1683895648.238789;m3-1;[INFO: App       ] sending response
+1683895648.238886;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895648.239025;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895648.239125;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 25 (46)
+1683895648.247031;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000331e link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  46, seq 146, st 0  1, dr   0
+1683895648.253188;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 230, queue 1 1, len 21 46
+1683895648.253410;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000331e link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  46, seq 146, edr   0
+1683895648.407115;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 25 (46)
+1683895648.407334;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 230
+1683895648.407461;m3-2;[INFO: App       ] Received response 'hello 9' from fd00::a484
+1683895648.413295;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895648.413510;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895648.413634;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 230, status 0, tx 1
+1683895648.413746;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 173
+1683895648.413852;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003330 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  46, seq 230, st 0  1
+1683895648.422885;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003330 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  46, seq 230, edr   0, dr   0
+1683895654.214897;m3-2;[INFO: App       ] Sending request 10 to [INFO: App       ] 
+1683895654.215260;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895654.215388;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895654.215495;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 147, queue 1 1, len 21 47
+1683895654.348889;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895654.349108;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 147
+1683895654.358866;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895654.359120;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895654.359245;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 147, status 0, tx 1
+1683895654.359359;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895654.359466;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003582 link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895654.361431;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895654.361655;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895654.361790;m3-1;[INFO: App       ] Received request 'hello 10' from fd00::a685
+1683895654.361901;m3-1;[INFO: App       ] sending response
+1683895654.362000;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895654.362101;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895654.374607;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003582 link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 147, st 0  1, dr   1
+1683895654.376690;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895654.376907;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 231, queue 1 1, len 21 47
+1683895654.377055;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003582 link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 147, edr   1
+1683895654.534659;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895654.534878;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 231
+1683895654.535048;m3-2;[INFO: App       ] Received response 'hello 10' from fd00::a484
+1683895654.535158;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003594 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq 231, edr   1, dr  -1
+1683895654.536690;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895654.536906;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895654.537030;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 231, status 0, tx 1
+1683895654.537143;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 168
+1683895654.537247;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003594 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq 231, st 0  1
+1683895657.336649;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895657.336891;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895657.638611;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895657.638828;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895657.640505;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 208, status 0, tx 1
+1683895657.640722;m3-1;[INFO: TSCH-LOG  ] {asn 00.000036cb link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 208, st 0  1
+1683895657.650796;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895657.651047;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895657.651173;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895657.651280;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895657.651381;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895657.651475;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895657.651567;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895657.651658;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895657.651748;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895657.651839;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895657.651929;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895657.652020;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895657.666413;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895657.666625;m3-2;[INFO: TSCH-LOG  ] {asn 00.000036cb link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 231, edr   0, dr   0
+1683895659.346537;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895659.346775;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895660.210354;m3-2;[INFO: App       ] Sending request 11 to [INFO: App       ] 
+1683895660.210571;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895660.210695;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895660.210802;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 148, queue 1 2, len 21 47
+1683895660.306402;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895660.306616;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895660.306740;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 148, status 0, tx 1
+1683895660.312294;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895660.312515;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 148
+1683895660.312641;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895660.312758;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895660.312869;m3-1;[INFO: App       ] Received request 'hello 11' from fd00::a685
+1683895660.322374;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895660.322612;m3-2;[INFO: TSCH-LOG  ] {asn 00.000037d5 link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895660.322744;m3-2;[INFO: TSCH-LOG  ] {asn 00.000037d5 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  47, seq 148, st 0  1, dr   0
+1683895660.327382;m3-1;[INFO: App       ] sending response
+1683895660.327595;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895660.327723;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895660.327837;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895660.327940;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 232, queue 1 1, len 21 47
+1683895660.328043;m3-1;[INFO: TSCH-LOG  ] {asn 00.000037d5 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  47, seq 148, edr   0
+1683895660.482201;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895660.487285;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895660.487500;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895660.487622;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 232, status 0, tx 1
+1683895660.487734;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 164
+1683895660.498195;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 232
+1683895660.498471;m3-2;[INFO: App       ] Received response 'hello 11' from fd00::a484
+1683895660.498598;m3-2;[INFO: TSCH-LOG  ] {asn 00.000037e7 link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  47, seq 232, edr   0, dr   0
+1683895660.503190;m3-1;[INFO: TSCH-LOG  ] {asn 00.000037e7 link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  47, seq 232, st 0  1
+1683895661.634292;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 151, status 0, tx 1
+1683895661.634512;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003859 link  0 397   0 133  0 ch 25} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 151, st 0  1
+1683895666.210065;m3-2;[INFO: App       ] Sending request 12 to [INFO: App       ] 
+1683895666.210385;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895666.210519;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895666.210627;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 149, queue 1 1, len 21 47
+1683895666.257792;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895666.258007;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895666.263169;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895666.263387;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 149
+1683895666.263513;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895666.273821;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 149, status 0, tx 1
+1683895666.274040;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895666.274170;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003a28 link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895666.274326;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003a28 link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  47, seq 149, st 0  1, dr   1
+1683895666.276041;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895666.276265;m3-1;[INFO: App       ] Received request 'hello 12' from fd00::a685
+1683895666.276391;m3-1;[INFO: App       ] sending response
+1683895666.276497;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895666.276601;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895666.276701;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895666.276797;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 233, queue 1 1, len 21 47
+1683895666.291879;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003a28 link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  47, seq 149, edr   1
+1683895666.436018;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895666.449962;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895666.450181;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 233
+1683895666.450381;m3-2;[INFO: App       ] Received response 'hello 12' from fd00::a484
+1683895666.450495;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003a3a link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  47, seq 233, edr   1, dr  -1
+1683895666.451962;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895666.452176;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 233, status 0, tx 1
+1683895666.452305;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 160
+1683895666.452416;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003a3a link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  47, seq 233, st 0  1
+1683895671.537700;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895671.537949;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895672.209658;m3-2;[INFO: App       ] Sending request 13 to [INFO: App       ] 
+1683895672.209875;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895672.209996;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895672.210104;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 150, queue 1 2, len 21 47
+1683895672.211704;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895672.211920;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895672.385520;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895672.385739;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895672.385863;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 150, status 0, tx 1
+1683895672.387640;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895672.387858;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 150
+1683895672.387989;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895672.400195;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895672.400419;m3-1;[INFO: App       ] Received request 'hello 13' from fd00::a685
+1683895672.400546;m3-1;[INFO: App       ] sending response
+1683895672.400651;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895672.400756;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895672.400856;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895672.401308;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895672.401436;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003c8c link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895672.401541;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003c8c link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  47, seq 150, st 0  1, dr   0
+1683895672.415368;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 234, queue 1 2, len 21 47
+1683895672.415587;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003c8c link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  47, seq 150, edr   0
+1683895672.575493;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895672.575711;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895672.575835;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 234, status 0, tx 1
+1683895672.575946;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 156
+1683895672.576051;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003c9e link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  47, seq 234, st 0  1
+1683895672.577371;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895672.577589;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 234
+1683895672.577715;m3-2;[INFO: App       ] Received response 'hello 13' from fd00::a484
+1683895672.577823;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003c9e link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  47, seq 234, edr   0, dr   0
+1683895673.535552;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 209, status 0, tx 1
+1683895673.535808;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003cff link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 209, st 0  1
+1683895673.537553;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895673.537765;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895673.537887;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895673.537994;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895673.538090;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895673.538184;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895673.538327;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895673.551035;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895673.551250;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895673.551372;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895673.551477;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895673.551576;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895673.551669;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895673.551762;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895673.551855;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895673.551947;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 152, status 0, tx 1
+1683895673.566366;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003cff link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 234, edr   1, dr  -1
+1683895673.566591;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003d00 link  0 397   0 133  0 ch 15} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 152, st 0  1
+1683895678.206360;m3-2;[INFO: App       ] Sending request 14 to [INFO: App       ] 
+1683895678.206615;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895678.222101;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895678.222354;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 151, queue 1 1, len 21 47
+1683895678.347847;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895678.348063;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 151
+1683895678.348190;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895678.348309;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895678.348419;m3-1;[INFO: App       ] Received request 'hello 14' from fd00::a685
+1683895678.348516;m3-1;[INFO: App       ] sending response
+1683895678.350354;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895678.350569;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895678.350693;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 151, status 0, tx 1
+1683895678.350804;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895678.351014;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003edf link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895678.351133;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003edf link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  47, seq 151, st 0  1, dr   1
+1683895678.363137;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895678.363353;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895678.363481;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895678.363589;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 235, queue 1 1, len 21 47
+1683895678.363716;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003edf link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  47, seq 151, edr   1
+1683895678.523113;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895678.523326;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895678.523452;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 235, status 0, tx 1
+1683895678.523566;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 153
+1683895678.526140;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895678.526397;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 235
+1683895678.526526;m3-2;[INFO: App       ] Received response 'hello 14' from fd00::a484
+1683895678.526635;m3-2;[INFO: TSCH-LOG  ] {asn 00.00003ef1 link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  47, seq 235, edr   0, dr   0
+1683895678.539021;m3-1;[INFO: TSCH-LOG  ] {asn 00.00003ef1 link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  47, seq 235, st 0  1
+1683895684.205910;m3-2;[INFO: App       ] Sending request 15 to [INFO: App       ] 
+1683895684.206168;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895684.221684;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895684.221901;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 152, queue 1 1, len 21 47
+1683895684.250725;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895684.251053;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895684.298673;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895684.298891;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 152
+1683895684.299055;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895684.301698;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895684.301912;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895684.302037;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 152, status 0, tx 1
+1683895684.302149;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895684.302293;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004132 link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895684.311676;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895684.311901;m3-1;[INFO: App       ] Received request 'hello 15' from fd00::a685
+1683895684.312027;m3-1;[INFO: App       ] sending response
+1683895684.312135;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895684.312241;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895684.312344;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895684.312441;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 236, queue 1 2, len 21 47
+1683895684.317622;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004132 link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 152, st 0  1, dr   0
+1683895684.327623;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004132 link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 152, edr   0
+1683895684.471686;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895684.477824;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895684.478043;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 236
+1683895684.487628;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895684.487839;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 236, status 0, tx 1
+1683895684.487967;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 150
+1683895684.488080;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004144 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq 236, st 0  1
+1683895684.493670;m3-2;[INFO: App       ] Received response 'hello 15' from fd00::a484
+1683895684.493889;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004144 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq 236, edr   0, dr   0
+1683895684.765666;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895684.765883;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895685.453717;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895685.453950;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895685.454072;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895685.454180;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895685.463664;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 210, status 0, tx 1
+1683895685.463882;m3-1;[INFO: TSCH-LOG  ] {asn 00.000041a6 link  0 397   0 132  0 ch 26} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 210, st 0  1
+1683895685.467891;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895685.468106;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895685.468230;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895685.468335;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895685.468433;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895685.468526;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895685.468618;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895685.468709;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895685.468800;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895685.468891;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895685.468982;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895685.483554;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 153, status 0, tx 1
+1683895685.483773;m3-2;[INFO: TSCH-LOG  ] {asn 00.000041a6 link  0 397   0 132  0 ch 26} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 236, edr   1, dr  -1
+1683895685.483908;m3-2;[INFO: TSCH-LOG  ] {asn 00.000041a7 link  0 397   0 133  0 ch 20} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 153, st 0  1
+1683895690.219303;m3-2;[INFO: App       ] Sending request 16 to [INFO: App       ] 
+1683895690.219556;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895690.219681;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895690.219788;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 153, queue 1 1, len 21 47
+1683895690.247345;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895690.251250;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895690.251466;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895690.251589;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 153, status 0, tx 1
+1683895690.259683;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 153
+1683895690.259900;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895690.260035;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895690.260152;m3-1;[INFO: App       ] Received request 'hello 16' from fd00::a685
+1683895690.260253;m3-1;[INFO: App       ] sending response
+1683895690.267264;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895690.267485;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004385 link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895690.267616;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004385 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  47, seq 153, st 0  1, dr   1
+1683895690.275188;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895690.275407;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895690.275536;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895690.275642;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 237, queue 1 1, len 21 47
+1683895690.275765;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004385 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  47, seq 153, edr   1
+1683895690.427352;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895690.435359;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895690.435572;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895690.435696;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 237, status 0, tx 1
+1683895690.435811;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 147
+1683895690.435918;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004397 link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  47, seq 237, st 0  1
+1683895690.443386;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 237
+1683895690.443604;m3-2;[INFO: App       ] Received response 'hello 16' from fd00::a484
+1683895690.443730;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004397 link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  47, seq 237, edr   0, dr   0
+1683895696.218893;m3-2;[INFO: App       ] Sending request 17 to [INFO: App       ] 
+1683895696.219201;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895696.219327;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895696.219434;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 154, queue 1 1, len 21 47
+1683895696.379017;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895696.379231;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895696.379356;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 154, status 0, tx 1
+1683895696.383433;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895696.383650;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 154
+1683895696.383777;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895696.383897;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895696.384007;m3-1;[INFO: App       ] Received request 'hello 17' from fd00::a685
+1683895696.384105;m3-1;[INFO: App       ] sending response
+1683895696.394830;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895696.395088;m3-2;[INFO: TSCH-LOG  ] {asn 00.000045e9 link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895696.395225;m3-2;[INFO: TSCH-LOG  ] {asn 00.000045e9 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  47, seq 154, st 0  1, dr   0
+1683895696.398730;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895696.398984;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895696.399117;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895696.399226;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 238, queue 1 1, len 21 47
+1683895696.399333;m3-1;[INFO: TSCH-LOG  ] {asn 00.000045e9 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  47, seq 154, edr   0
+1683895696.554794;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895696.555053;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 238
+1683895696.558718;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895696.558969;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895696.559094;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 238, status 0, tx 1
+1683895696.559205;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 145
+1683895696.570762;m3-2;[INFO: App       ] Received response 'hello 17' from fd00::a484
+1683895696.571014;m3-2;[INFO: TSCH-LOG  ] {asn 00.000045fb link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  47, seq 238, edr   1, dr  -1
+1683895696.574623;m3-1;[INFO: TSCH-LOG  ] {asn 00.000045fb link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  47, seq 238, st 0  1
+1683895697.114784;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895697.130737;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895697.162825;m3-2;[INFO: RPL       ] nbr: own state, addr fd00::a685, DAG state: reachable, MOP 1 OCP 1 rank 256 max-rank 1280, dioint 16, nbr count 1 (Periodic)
+1683895697.163089;m3-2;[INFO: RPL       ] nbr: fe80::a484  128,   128 =>   256 -- 16 rbafp (last tx 0 min ago)
+1683895697.163222;m3-2;[INFO: RPL       ] nbr: end of list
+1683895697.182704;m3-1;[INFO: RPL       ] nbr: own state, addr fd00::a484, DAG state: reachable, MOP 1 OCP 1 rank 128 max-rank 65535, dioint 16, nbr count 1 (Periodic)
+1683895697.198691;m3-1;[INFO: RPL       ] nbr: fe80::a685  256,   145 =>   401 -- 16  baf  (last tx 0 min ago)
+1683895697.198946;m3-1;[INFO: RPL       ] nbr: end of list
+1683895697.199077;m3-1;[INFO: RPL       ] links: 2 routing links in total (Periodic)
+1683895697.199186;m3-1;[INFO: RPL       ] links: fd00::a484  (DODAG root) (lifetime: infinite)
+1683895697.199288;m3-1;[INFO: RPL       ] links: fd00::a685  to fd00::a484 (lifetime: 1680 seconds)
+1683895697.199387;m3-1;[INFO: RPL       ] links: end of list
+1683895697.387068;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 154, status 0, tx 1
+1683895697.387290;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000464e link  0 397   0 133  0 ch 26} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 154, st 0  1
+1683895698.638739;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895698.654597;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895701.354830;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895701.355174;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895701.355303;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895701.355410;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895701.355510;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895701.355607;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895701.355701;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895701.355793;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895701.355886;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895701.355977;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895701.358568;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 211, status 0, tx 1
+1683895701.358787;m3-1;[INFO: TSCH-LOG  ] {asn 00.000047da link  0 397   0 132  0 ch 26} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 211, st 0  1
+1683895701.370622;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895701.370836;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895701.370996;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895701.371102;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895701.371202;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895701.371296;m3-2;[INFO: TSCH-LOG  ] {asn 00.000047da link  0 397   0 132  0 ch 26} drift -3 ppm (min/max delta seen: -1/1)
+1683895701.371397;m3-2;[INFO: TSCH-LOG  ] {asn 00.000047da link  0 397   0 132  0 ch 26} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 238, edr  -1, dr   1
+1683895702.218564;m3-2;[INFO: App       ] Sending request 18 to [INFO: App       ] 
+1683895702.218781;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895702.219007;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895702.219144;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 155, queue 1 1, len 21 47
+1683895702.330576;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895702.330791;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895702.330949;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 155, status 0, tx 1
+1683895702.334597;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895702.334816;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 155
+1683895702.334981;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895702.346541;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895702.346764;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000483c link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  47, seq 155, st 0  1, dr   0
+1683895702.347412;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895702.347566;m3-1;[INFO: App       ] Received request 'hello 18' from fd00::a685
+1683895702.347674;m3-1;[INFO: App       ] sending response
+1683895702.347771;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895702.347871;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895702.347969;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895702.348063;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 239, queue 1 1, len 21 47
+1683895702.363338;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000483c link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  47, seq 155, edr   0
+1683895702.507366;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895702.522430;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895702.522650;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 239
+1683895702.522777;m3-2;[INFO: App       ] Received response 'hello 18' from fd00::a484
+1683895702.522888;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000484e link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  47, seq 239, edr   0, dr   0
+1683895702.523196;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895702.523305;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 239, status 0, tx 1
+1683895702.523406;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 143
+1683895702.523506;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000484e link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  47, seq 239, st 0  1
+1683895704.251345;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895704.251572;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895704.251699;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 239, queue 1 1, len 14 94
+1683895704.346476;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0000.0000.0000.0000 14 80 (94)
+1683895704.346694;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 65535
+1683895704.346821;m3-2;[INFO: RPL       ] received a multicast-DIO from fe80::a484, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 128
+1683895704.347075;m3-2;[INFO: RPL       ] refreshing lifetime
+1683895704.347250;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 212, status 0, tx 1
+1683895704.347363;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004905 link  2  31   0  0  1 ch 26} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 212, st 0  1
+1683895704.362352;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004905 link  2  31   0  0  1 ch 26} bc-1-0 rx LL-a484->LL-NULL, len  94, seq 239, edr   0, dr   0
+1683895705.802408;m3-2;[INFO: RPL       ] sending a multicast-DIO with rank 256 to ff02::1a
+1683895705.802637;m3-2;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895705.802763;m3-2;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 155, queue 1 1, len 14 94
+1683895705.898290;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 155, status 0, tx 1
+1683895705.898512;m3-2;[INFO: TSCH-LOG  ] {asn 00.000049a0 link  2  31   0  0  1 ch 25} bc-1-0 tx LL-a685->LL-NULL, len  94, seq 155, st 0  1
+1683895705.899106;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0000.0000.0000.0000 14 80 (94)
+1683895705.899247;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 65535
+1683895705.899355;m3-1;[INFO: RPL       ] received a multicast-DIO from fe80::a685, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 256
+1683895705.915097;m3-1;[INFO: TSCH-LOG  ] {asn 00.000049a0 link  2  31   0  0  1 ch 25} bc-1-0 rx LL-a685->LL-NULL, len  94, seq 155, edr   0
+1683895708.218386;m3-2;[INFO: App       ] Sending request 19 to [INFO: App       ] 
+1683895708.218629;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895708.218756;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895708.218864;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 156, queue 1 1, len 21 47
+1683895708.282119;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895708.282963;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895708.295584;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 156
+1683895708.295800;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895708.295935;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895708.296052;m3-1;[INFO: App       ] Received request 'hello 19' from fd00::a685
+1683895708.296153;m3-1;[INFO: App       ] sending response
+1683895708.296246;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895708.298161;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895708.298419;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 156, status 0, tx 1
+1683895708.298552;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895708.298664;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004a8f link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895708.298770;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004a8f link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  47, seq 156, st 0  1, dr   0
+1683895708.311102;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895708.311321;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895708.311449;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 240, queue 1 1, len 21 47
+1683895708.311563;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004a8f link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  47, seq 156, edr   0
+1683895708.471172;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895708.471387;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895708.471512;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 240, status 0, tx 1
+1683895708.471623;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 141
+1683895708.471730;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004aa1 link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  47, seq 240, st 0  1
+1683895708.474350;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895708.474570;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 240
+1683895708.474699;m3-2;[INFO: App       ] Received response 'hello 19' from fd00::a484
+1683895708.474807;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004aa1 link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  47, seq 240, edr   1, dr  -1
+1683895711.466100;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895711.466398;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895712.854822;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895712.855152;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895713.270664;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 213, status 0, tx 1
+1683895713.270895;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004c81 link  0 397   0 132  0 ch 25} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 213, st 0  1
+1683895713.274004;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895713.274258;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895713.274388;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895713.274496;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895713.274594;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895713.274714;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895713.274810;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895713.274937;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895713.286522;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895713.286735;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895713.286862;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895713.287005;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895713.287107;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895713.287203;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895713.287296;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895713.287389;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 156, status 0, tx 1
+1683895713.287486;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004c81 link  0 397   0 132  0 ch 25} drift -3 ppm (min/max delta seen: -1/1)
+1683895713.301781;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004c81 link  0 397   0 132  0 ch 25} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 240, edr  -1, dr   1
+1683895713.302008;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004c82 link  0 397   0 133  0 ch 26} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 156, st 0  1
+1683895713.333776;m3-2;[INFO: RPL       ] no neighbor needs probing
+1683895714.213871;m3-2;[INFO: App       ] Sending request 20 to [INFO: App       ] 
+1683895714.214090;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895714.214267;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895714.214396;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 157, queue 1 1, len 21 47
+1683895714.245639;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895714.245854;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895714.245980;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 157, status 0, tx 1
+1683895714.246092;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895714.246585;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895714.246719;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 157
+1683895714.246821;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895714.246966;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895714.261658;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004ce2 link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 157, st 0  1, dr   0
+1683895714.262467;m3-1;[INFO: App       ] Received request 'hello 20' from fd00::a685
+1683895714.262624;m3-1;[INFO: App       ] sending response
+1683895714.262737;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895714.262847;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895714.262983;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895714.263080;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 241, queue 1 1, len 21 47
+1683895714.263180;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004ce2 link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 157, edr   0
+1683895714.421854;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895714.422071;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 241
+1683895714.422198;m3-2;[INFO: App       ] Received response 'hello 20' from fd00::a484
+1683895714.422518;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895714.422629;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895714.422726;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 241, status 0, tx 1
+1683895714.422827;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 139
+1683895714.437692;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004cf4 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq 241, edr   0, dr   0
+1683895714.438338;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004cf4 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq 241, st 0  1
+1683895720.213518;m3-2;[INFO: App       ] Sending request 21 to [INFO: App       ] 
+1683895720.213766;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895720.213890;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895720.214000;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 158, queue 1 1, len 21 47
+1683895720.373461;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895720.373680;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 158
+1683895720.373808;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895720.373927;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895720.374038;m3-1;[INFO: App       ] Received request 'hello 21' from fd00::a685
+1683895720.374170;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895720.374334;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895720.374429;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 158, status 0, tx 1
+1683895720.374527;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895720.374625;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004f46 link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895720.389110;m3-1;[INFO: App       ] sending response
+1683895720.389323;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895720.389453;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895720.389566;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895720.389668;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 242, queue 1 1, len 21 47
+1683895720.389769;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004f46 link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 158, edr   1
+1683895720.389904;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004f46 link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 158, st 0  1, dr   1
+1683895720.549252;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895720.549466;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895720.549588;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 242, status 0, tx 1
+1683895720.549700;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 137
+1683895720.549839;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895720.549942;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 242
+1683895720.550039;m3-2;[INFO: App       ] Received response 'hello 21' from fd00::a484
+1683895720.565080;m3-1;[INFO: TSCH-LOG  ] {asn 00.00004f58 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq 242, st 0  1
+1683895720.565333;m3-2;[INFO: TSCH-LOG  ] {asn 00.00004f58 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq 242, edr   1, dr  -1
+1683895725.588980;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895725.589247;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895726.148985;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895726.149200;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895726.212986;m3-2;[INFO: App       ] Sending request 22 to [INFO: App       ] 
+1683895726.213201;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895726.213324;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895726.213429;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 159, queue 1 2, len 21 47
+1683895726.324874;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895726.325098;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 159
+1683895726.325244;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895726.325399;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895726.325505;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895726.325602;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 159, status 0, tx 1
+1683895726.325702;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895726.337709;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895726.337936;m3-1;[INFO: App       ] Received request 'hello 22' from fd00::a685
+1683895726.338062;m3-1;[INFO: App       ] sending response
+1683895726.338167;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895726.338318;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895726.338420;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895726.338517;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 243, queue 1 2, len 21 47
+1683895726.340956;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005199 link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895726.341179;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005199 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  47, seq 159, st 0  1, dr   0
+1683895726.353621;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005199 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  47, seq 159, edr   0
+1683895726.497719;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895726.500983;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895726.501203;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 243
+1683895726.513722;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895726.513936;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 243, status 0, tx 1
+1683895726.514067;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 136
+1683895726.514180;m3-1;[INFO: TSCH-LOG  ] {asn 00.000051ab link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  47, seq 243, st 0  1
+1683895726.516850;m3-2;[INFO: App       ] Received response 'hello 22' from fd00::a484
+1683895726.517069;m3-2;[INFO: TSCH-LOG  ] {asn 00.000051ab link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  47, seq 243, edr   0, dr   0
+1683895729.169624;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 214, status 0, tx 1
+1683895729.169856;m3-1;[INFO: TSCH-LOG  ] {asn 00.000052b5 link  0 397   0 132  0 ch 25} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 214, st 0  1
+1683895729.170614;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895729.170754;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895729.170858;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895729.171060;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895729.171161;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895729.171254;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895729.171349;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895729.171442;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895729.171535;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895729.171627;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895729.171719;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895729.185841;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895729.186057;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895729.186180;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895729.186358;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895729.186460;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 157, status 0, tx 1
+1683895729.186562;m3-2;[INFO: TSCH-LOG  ] {asn 00.000052b5 link  0 397   0 132  0 ch 25} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 243, edr   0, dr   0
+1683895729.186684;m3-2;[INFO: TSCH-LOG  ] {asn 00.000052b6 link  0 397   0 133  0 ch 26} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 157, st 0  1
+1683895732.209805;m3-2;[INFO: App       ] Sending request 23 to [INFO: App       ] 
+1683895732.210039;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895732.210164;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895732.210330;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 160, queue 1 1, len 21 47
+1683895732.273411;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895732.273696;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895732.273830;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895732.285729;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 160
+1683895732.285947;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895732.286084;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895732.286203;m3-1;[INFO: App       ] Received request 'hello 23' from fd00::a685
+1683895732.286348;m3-1;[INFO: App       ] sending response
+1683895732.286443;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895732.289626;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 160, status 0, tx 1
+1683895732.289846;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895732.289977;m3-2;[INFO: TSCH-LOG  ] {asn 00.000053ec link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895732.290092;m3-2;[INFO: TSCH-LOG  ] {asn 00.000053ec link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  47, seq 160, st 0  1, dr   1
+1683895732.301214;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895732.301433;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895732.301557;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 244, queue 1 1, len 21 47
+1683895732.301669;m3-1;[INFO: TSCH-LOG  ] {asn 00.000053ec link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  47, seq 160, edr   1
+1683895732.461390;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895732.461601;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895732.461725;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 244, status 0, tx 1
+1683895732.461835;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 135
+1683895732.461940;m3-1;[INFO: TSCH-LOG  ] {asn 00.000053fe link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  47, seq 244, st 0  1
+1683895732.465689;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895732.465908;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 244
+1683895732.466034;m3-2;[INFO: App       ] Received response 'hello 23' from fd00::a484
+1683895732.466145;m3-2;[INFO: TSCH-LOG  ] {asn 00.000053fe link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  47, seq 244, edr   1, dr  -1
+1683895738.209416;m3-2;[INFO: App       ] Sending request 24 to [INFO: App       ] 
+1683895738.209686;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895738.209814;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895738.209922;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 161, queue 1 1, len 21 47
+1683895738.237170;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895738.237386;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 161
+1683895738.237512;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895738.237631;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895738.241243;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895738.241459;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895738.241582;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 161, status 0, tx 1
+1683895738.241695;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895738.241800;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000563f link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895738.241905;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000563f link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  47, seq 161, st 0  1, dr   0
+1683895738.249604;m3-1;[INFO: App       ] Received request 'hello 24' from fd00::a685
+1683895738.249819;m3-1;[INFO: App       ] sending response
+1683895738.249943;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895738.250055;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895738.250160;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895738.250315;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 245, queue 1 1, len 21 47
+1683895738.264799;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000563f link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  47, seq 161, edr   0
+1683895738.408931;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895738.409145;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895738.417222;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895738.417442;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 245
+1683895738.417565;m3-2;[INFO: App       ] Received response 'hello 24' from fd00::a484
+1683895738.417674;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005651 link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  47, seq 245, edr   0, dr   0
+1683895738.424879;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 245, status 0, tx 1
+1683895738.425098;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 134
+1683895738.425228;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005651 link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  47, seq 245, st 0  1
+1683895739.297162;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895739.297384;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895739.480911;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895739.481127;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895741.080713;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 215, status 0, tx 1
+1683895741.089084;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895741.089299;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895741.089422;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895741.089530;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895741.089628;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895741.089722;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895741.089817;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895741.089909;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895741.090000;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895741.096597;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000575c link  0 397   0 132  0 ch 15} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 215, st 0  1
+1683895741.101735;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895741.101949;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895741.102071;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895741.102175;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895741.102350;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895741.102447;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895741.102540;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 158, status 0, tx 1
+1683895741.102636;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000575c link  0 397   0 132  0 ch 15} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 245, edr   0, dr   0
+1683895741.116850;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000575d link  0 397   0 133  0 ch 25} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 158, st 0  1
+1683895744.204971;m3-2;[INFO: App       ] Sending request 25 to [INFO: App       ] 
+1683895744.220760;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895744.220976;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895744.221102;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 162, queue 1 1, len 21 47
+1683895744.360689;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895744.360907;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 162
+1683895744.364844;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895744.365060;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895744.365183;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 162, status 0, tx 1
+1683895744.365294;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895744.365400;m3-2;[INFO: TSCH-LOG  ] {asn 00.000058a3 link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895744.373471;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895744.373695;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895744.373828;m3-1;[INFO: App       ] Received request 'hello 25' from fd00::a685
+1683895744.373934;m3-1;[INFO: App       ] sending response
+1683895744.374030;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895744.374130;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895744.374300;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895744.380684;m3-2;[INFO: TSCH-LOG  ] {asn 00.000058a3 link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  47, seq 162, st 0  1, dr   1
+1683895744.388425;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 246, queue 1 1, len 21 47
+1683895744.388645;m3-1;[INFO: TSCH-LOG  ] {asn 00.000058a3 link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  47, seq 162, edr   1
+1683895744.532531;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895744.540897;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895744.541116;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 246
+1683895744.541242;m3-2;[INFO: App       ] Received response 'hello 25' from fd00::a484
+1683895744.541349;m3-2;[INFO: TSCH-LOG  ] {asn 00.000058b5 link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  47, seq 246, edr   1, dr  -1
+1683895744.548505;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895744.548720;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 246, status 0, tx 1
+1683895744.548849;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 133
+1683895744.548961;m3-1;[INFO: TSCH-LOG  ] {asn 00.000058b5 link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  47, seq 246, st 0  1
+1683895750.204674;m3-2;[INFO: App       ] Sending request 26 to [INFO: App       ] 
+1683895750.220445;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895750.220664;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895750.220791;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 163, queue 1 1, len 21 47
+1683895750.316331;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895750.316545;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895750.316669;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 163, status 0, tx 1
+1683895750.316780;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895750.320716;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895750.320933;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 163
+1683895750.321076;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895750.321197;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895750.321308;m3-1;[INFO: App       ] Received request 'hello 26' from fd00::a685
+1683895750.321408;m3-1;[INFO: App       ] sending response
+1683895750.332352;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005af6 link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895750.332575;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005af6 link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 163, st 0  1, dr   0
+1683895750.336094;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895750.336312;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895750.336438;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895750.336545;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 247, queue 1 1, len 21 47
+1683895750.336648;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005af6 link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 163, edr   0
+1683895750.492460;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895750.492689;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 247
+1683895750.492816;m3-2;[INFO: App       ] Received response 'hello 26' from fd00::a484
+1683895750.496159;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895750.496373;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895750.496495;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 247, status 0, tx 1
+1683895750.496606;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 132
+1683895750.508314;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005b08 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq 247, edr   0, dr   0
+1683895750.511956;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005b08 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq 247, st 0  1
+1683895752.671951;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895752.672234;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895753.004469;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895753.004685;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895753.004808;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895753.004916;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895753.005014;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895753.005108;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895753.007810;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 216, status 0, tx 1
+1683895753.008029;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005c03 link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 216, st 0  1
+1683895753.020375;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895753.020590;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895753.020715;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895753.020821;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895753.020921;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895753.021016;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895753.021109;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895753.021201;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895753.021294;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895753.021385;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005c03 link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 247, edr  -1, dr   1
+1683895753.276221;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895753.276437;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895756.204209;m3-2;[INFO: App       ] Sending request 27 to [INFO: App       ] 
+1683895756.220068;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895756.220282;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895756.220408;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 164, queue 1 2, len 21 47
+1683895756.268018;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895756.268232;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895756.268355;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 164, status 0, tx 1
+1683895756.271815;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895756.272034;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 164
+1683895756.272162;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895756.284030;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895756.284321;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005d49 link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895756.284479;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005d49 link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  47, seq 164, st 0  1, dr   0
+1683895756.284676;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895756.284798;m3-1;[INFO: App       ] Received request 'hello 27' from fd00::a685
+1683895756.284899;m3-1;[INFO: App       ] sending response
+1683895756.284993;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895756.285091;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895756.285190;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895756.285285;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 248, queue 1 1, len 21 47
+1683895756.300504;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005d49 link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  47, seq 164, edr   0
+1683895756.444033;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895756.444393;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895756.444530;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895756.460030;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 248
+1683895756.460247;m3-2;[INFO: App       ] Received response 'hello 27' from fd00::a484
+1683895756.460447;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005d5b link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  47, seq 248, edr   1, dr  -1
+1683895756.460642;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 248, status 0, tx 1
+1683895756.460756;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 131
+1683895756.460861;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005d5b link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  47, seq 248, st 0  1
+1683895756.988038;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 159, status 0, tx 1
+1683895756.988257;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005d91 link  0 397   0 133  0 ch 25} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 159, st 0  1
+1683895757.163945;m3-2;[INFO: RPL       ] nbr: own state, addr fd00::a685, DAG state: reachable, MOP 1 OCP 1 rank 256 max-rank 1280, dioint 17, nbr count 1 (Periodic)
+1683895757.164173;m3-2;[INFO: RPL       ] nbr: fe80::a484  128,   128 =>   256 -- 16 rbafp (last tx 0 min ago)
+1683895757.164304;m3-2;[INFO: RPL       ] nbr: end of list
+1683895757.180581;m3-1;[INFO: RPL       ] nbr: own state, addr fd00::a484, DAG state: reachable, MOP 1 OCP 1 rank 128 max-rank 65535, dioint 17, nbr count 1 (Periodic)
+1683895757.196469;m3-1;[INFO: RPL       ] nbr: fe80::a685  256,   131 =>   387 -- 16  baf  (last tx 0 min ago)
+1683895757.196688;m3-1;[INFO: RPL       ] nbr: end of list
+1683895757.196811;m3-1;[INFO: RPL       ] links: 2 routing links in total (Periodic)
+1683895757.196918;m3-1;[INFO: RPL       ] links: fd00::a484  (DODAG root) (lifetime: infinite)
+1683895757.197036;m3-1;[INFO: RPL       ] links: fd00::a685  to fd00::a484 (lifetime: 1620 seconds)
+1683895757.197138;m3-1;[INFO: RPL       ] links: end of list
+1683895762.219691;m3-2;[INFO: App       ] Sending request 28 to [INFO: App       ] 
+1683895762.220052;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895762.220193;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895762.220305;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 165, queue 1 1, len 21 47
+1683895762.220413;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895762.220510;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895762.220678;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895762.232861;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 165
+1683895762.233077;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895762.233214;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895762.233331;m3-1;[INFO: App       ] Received request 'hello 28' from fd00::a685
+1683895762.233433;m3-1;[INFO: App       ] sending response
+1683895762.233526;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895762.235654;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 165, status 0, tx 1
+1683895762.235873;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895762.236003;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005f9c link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895762.236119;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005f9c link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  47, seq 165, st 0  1, dr   0
+1683895762.248144;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895762.248363;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895762.248488;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 249, queue 1 1, len 21 47
+1683895762.248600;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005f9c link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  47, seq 165, edr   0
+1683895762.408231;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895762.408445;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895762.408568;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 249, status 0, tx 1
+1683895762.408680;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 130
+1683895762.408788;m3-1;[INFO: TSCH-LOG  ] {asn 00.00005fae link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  47, seq 249, st 0  1
+1683895762.411691;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895762.411911;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 249
+1683895762.412036;m3-2;[INFO: App       ] Received response 'hello 28' from fd00::a484
+1683895762.412145;m3-2;[INFO: TSCH-LOG  ] {asn 00.00005fae link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  47, seq 249, edr   0, dr   0
+1683895765.307579;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895765.307839;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895768.072036;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895768.072310;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895768.219264;m3-2;[INFO: App       ] Sending request 29 to [INFO: App       ] 
+1683895768.219506;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895768.219630;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895768.219736;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 166, queue 1 2, len 21 47
+1683895768.343774;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895768.347238;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895768.347496;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895768.347626;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 166, status 0, tx 1
+1683895768.356315;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 166
+1683895768.356532;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895768.356667;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895768.356783;m3-1;[INFO: App       ] Received request 'hello 29' from fd00::a685
+1683895768.356885;m3-1;[INFO: App       ] sending response
+1683895768.363210;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895768.363430;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006200 link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895768.363561;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006200 link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  47, seq 166, st 0  1, dr   1
+1683895768.371763;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895768.371980;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895768.372108;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895768.372216;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 250, queue 1 2, len 21 47
+1683895768.372320;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006200 link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  47, seq 166, edr   1
+1683895768.531842;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895768.532056;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895768.532179;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 250, status 0, tx 1
+1683895768.532289;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 129
+1683895768.532396;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006212 link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  47, seq 250, st 0  1
+1683895768.539229;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895768.539446;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 250
+1683895768.539572;m3-2;[INFO: App       ] Received response 'hello 29' from fd00::a484
+1683895768.539680;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006212 link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  47, seq 250, edr   1, dr  -1
+1683895768.899707;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 217, status 0, tx 1
+1683895768.899927;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006237 link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 217, st 0  1
+1683895768.905267;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895768.905482;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895768.905603;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895768.905711;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895768.905809;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895768.905902;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895768.905994;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895768.906084;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895768.906175;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895768.906364;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895768.906462;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895768.920232;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895768.920446;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895768.920568;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895768.920674;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895768.920772;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 160, status 0, tx 1
+1683895768.920872;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006237 link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 250, edr  -1, dr   1
+1683895768.921015;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006238 link  0 397   0 133  0 ch 15} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 160, st 0  1
+1683895774.216044;m3-2;[INFO: App       ] Sending request 30 to [INFO: App       ] 
+1683895774.216312;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895774.216443;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895774.216552;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 167, queue 1 1, len 21 47
+1683895774.307616;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895774.307835;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 167
+1683895774.307959;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895774.308078;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895774.311964;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895774.312177;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895774.312302;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 167, status 0, tx 1
+1683895774.312414;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895774.312519;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006453 link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895774.312622;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006453 link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  47, seq 167, st 0  1, dr  -1
+1683895774.320339;m3-1;[INFO: App       ] Received request 'hello 30' from fd00::a685
+1683895774.320555;m3-1;[INFO: App       ] sending response
+1683895774.320676;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895774.320786;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895774.320887;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895774.320983;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 251, queue 1 1, len 21 47
+1683895774.335336;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006453 link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  47, seq 167, edr  -1
+1683895774.479247;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895774.479461;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895774.487865;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895774.488084;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 251
+1683895774.488213;m3-2;[INFO: App       ] Received response 'hello 30' from fd00::a484
+1683895774.488321;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006465 link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  47, seq 251, edr   0, dr   0
+1683895774.495429;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 251, status 0, tx 1
+1683895774.495647;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895774.495776;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006465 link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  47, seq 251, st 0  1
+1683895777.399763;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895777.400011;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895780.215740;m3-2;[INFO: App       ] Sending request 31 to [INFO: App       ] 
+1683895780.215998;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895780.216127;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895780.216235;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 168, queue 1 2, len 21 47
+1683895780.255211;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895780.263559;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895780.263772;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895780.263894;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 168, status 0, tx 1
+1683895780.264045;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895780.267542;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 168
+1683895780.267757;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895780.267894;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895780.268011;m3-1;[INFO: App       ] Received request 'hello 31' from fd00::a685
+1683895780.268114;m3-1;[INFO: App       ] sending response
+1683895780.268209;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895780.279452;m3-2;[INFO: TSCH-LOG  ] {asn 00.000066a6 link  1  17   0 13 135 ch 15} drift -2 ppm (min/max delta seen: -1/1)
+1683895780.279674;m3-2;[INFO: TSCH-LOG  ] {asn 00.000066a6 link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 168, st 0  1, dr   1
+1683895780.282962;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895780.283179;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895780.283306;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 252, queue 1 1, len 21 47
+1683895780.283422;m3-1;[INFO: TSCH-LOG  ] {asn 00.000066a6 link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 168, edr   1
+1683895780.439490;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895780.439709;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 252
+1683895780.439834;m3-2;[INFO: App       ] Received response 'hello 31' from fd00::a484
+1683895780.443040;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895780.443254;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895780.443379;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 252, status 0, tx 1
+1683895780.443489;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895780.443595;m3-1;[INFO: TSCH-LOG  ] {asn 00.000066b8 link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq 252, st 0  1
+1683895780.455596;m3-2;[INFO: TSCH-LOG  ] {asn 00.000066b8 link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq 252, edr   1, dr  -1
+1683895780.823555;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 161, status 0, tx 1
+1683895780.839450;m3-2;[INFO: TSCH-LOG  ] {asn 00.000066df link  0 397   0 133  0 ch 20} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 161, st 0  1
+1683895783.547156;m3-1;[INFO: RPL       ] sending a multicast-DIO with rank 128 to ff02::1a
+1683895783.547408;m3-1;[INFO: Frame 15.4] Out:  1 ffff.0000.0000.0000 14 80 (94)
+1683895783.547536;m3-1;[INFO: TSCH      ] send packet to ffff.ffff.ffff.ffff with seqno 252, queue 1 1, len 14 94
+1683895783.770702;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 218, status 0, tx 1
+1683895783.770967;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006805 link  2  31   0  0  1 ch 26} bc-1-0 tx LL-a484->LL-NULL, len  94, seq 218, st 0  1
+1683895783.783352;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0000.0000.0000.0000 14 80 (94)
+1683895783.783573;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 65535
+1683895783.783706;m3-2;[INFO: RPL       ] received a multicast-DIO from fe80::a484, instance_id 0, DAG ID fd00::a484, version 240, dtsn 240, rank 128
+1683895783.783824;m3-2;[INFO: RPL       ] refreshing lifetime
+1683895783.783922;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006805 link  2  31   0  0  1 ch 26} bc-1-0 rx LL-a484->LL-NULL, len  94, seq 252, edr   0, dr   0
+1683895783.834599;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895783.834819;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895784.791460;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895784.791677;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895784.791806;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895784.791939;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895784.792039;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895784.792133;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895784.794834;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 219, status 0, tx 1
+1683895784.795097;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000686b link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 219, st 0  1
+1683895784.803885;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895784.804103;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895784.804234;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895784.804340;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895784.804440;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895784.804534;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895784.804627;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895784.804718;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895784.804811;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895784.804903;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000686b link  0 397   0 132  0 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895784.819324;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000686b link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq 252, edr   0, dr   0
+1683895786.211301;m3-2;[INFO: App       ] Sending request 32 to [INFO: App       ] 
+1683895786.211524;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895786.211648;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895786.211754;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 169, queue 1 1, len 21 47
+1683895786.387177;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895786.387393;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895786.387516;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 169, status 0, tx 1
+1683895786.387627;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895786.391247;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895786.391464;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 169
+1683895786.391589;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895786.391709;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895786.391818;m3-1;[INFO: App       ] Received request 'hello 32' from fd00::a685
+1683895786.391915;m3-1;[INFO: App       ] sending response
+1683895786.403059;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000690a link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 169, st 0  1, dr   0
+1683895786.406511;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895786.406728;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895786.406855;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895786.407001;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 253, queue 1 1, len 21 47
+1683895786.407107;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000690a link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 169, edr   0
+1683895786.563199;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895786.563416;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 253
+1683895786.563544;m3-2;[INFO: App       ] Received response 'hello 32' from fd00::a484
+1683895786.566614;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895786.566829;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895786.566996;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 253, status 0, tx 1
+1683895786.567109;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895786.579093;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000691c link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq 253, edr   0, dr   0
+1683895786.582452;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000691c link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq 253, st 0  1
+1683895789.427108;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895789.427343;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895792.210865;m3-2;[INFO: App       ] Sending request 33 to [INFO: App       ] 
+1683895792.211190;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895792.211317;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895792.211426;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 170, queue 1 2, len 21 47
+1683895792.338795;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895792.339049;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895792.339173;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 170, status 0, tx 1
+1683895792.342346;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895792.342564;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 170
+1683895792.342688;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895792.354692;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895792.355015;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006b5d link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895792.355156;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006b5d link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  47, seq 170, st 0  1, dr   1
+1683895792.355348;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895792.355468;m3-1;[INFO: App       ] Received request 'hello 33' from fd00::a685
+1683895792.355569;m3-1;[INFO: App       ] sending response
+1683895792.355663;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895792.355761;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895792.355856;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895792.355949;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 254, queue 1 1, len 21 47
+1683895792.371030;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006b5d link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  47, seq 170, edr   1
+1683895792.514658;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895792.514992;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895792.515141;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895792.530607;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 254
+1683895792.530826;m3-2;[INFO: App       ] Received response 'hello 33' from fd00::a484
+1683895792.531067;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006b6f link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  47, seq 254, edr   1, dr  -1
+1683895792.531263;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 254, status 0, tx 1
+1683895792.531378;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895792.531482;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006b6f link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  47, seq 254, st 0  1
+1683895792.754768;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 162, status 0, tx 1
+1683895792.755027;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006b86 link  0 397   0 133  0 ch 26} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 162, st 0  1
+1683895798.210498;m3-2;[INFO: App       ] Sending request 34 to [INFO: App       ] 
+1683895798.210764;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895798.210890;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895798.211110;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 171, queue 1 1, len 21 47
+1683895798.290292;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895798.290510;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895798.290791;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895798.303391;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 171
+1683895798.303607;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895798.303744;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895798.303860;m3-1;[INFO: App       ] Received request 'hello 34' from fd00::a685
+1683895798.303962;m3-1;[INFO: App       ] sending response
+1683895798.304056;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895798.306296;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 171, status 0, tx 1
+1683895798.306516;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895798.306646;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006db0 link  1  17   0 13 135 ch 26} drift -2 ppm (min/max delta seen: -1/1)
+1683895798.306759;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006db0 link  1  17   0 13 135 ch 26} uc-1-0 tx LL-a685->LL-a484, len  47, seq 171, st 0  1, dr   0
+1683895798.318612;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895798.318831;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895798.318995;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 255, queue 1 1, len 21 47
+1683895798.319110;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006db0 link  1  17   0 13 134 ch 26} uc-1-0 rx LL-a685->LL-a484, len  47, seq 171, edr   0
+1683895798.418254;m3-2;[INFO: RPL       ] no neighbor needs probing
+1683895798.478709;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895798.478962;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895798.479089;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 255, status 0, tx 1
+1683895798.479201;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895798.479306;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006dc2 link  1  17   0 14 134 ch 25} uc-1-0 tx LL-a484->LL-a685, len  47, seq 255, st 0  1
+1683895798.482267;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895798.482488;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 255
+1683895798.482616;m3-2;[INFO: App       ] Received response 'hello 34' from fd00::a484
+1683895798.482723;m3-2;[INFO: TSCH-LOG  ] {asn 00.00006dc2 link  1  17   0 14 135 ch 25} uc-1-0 rx LL-a484->LL-a685, len  47, seq 255, edr   0, dr   0
+1683895799.278701;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895799.278969;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895800.686466;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 220, status 0, tx 1
+1683895800.686575;m3-1;[INFO: TSCH-LOG  ] {asn 00.00006e9f link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 220, st 0  1
+1683895802.050011;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895802.050338;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895804.210105;m3-2;[INFO: App       ] Sending request 35 to [INFO: App       ] 
+1683895804.210418;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895804.210549;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895804.210658;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 172, queue 1 2, len 21 47
+1683895804.254402;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895804.254625;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 172
+1683895804.254752;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895804.254934;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895804.258031;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895804.258285;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895804.258413;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 172, status 0, tx 1
+1683895804.258523;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895804.258628;m3-2;[INFO: TSCH-LOG  ] {asn 00.00007003 link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895804.258732;m3-2;[INFO: TSCH-LOG  ] {asn 00.00007003 link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  47, seq 172, st 0  1, dr   1
+1683895804.270196;m3-1;[INFO: App       ] Received request 'hello 35' from fd00::a685
+1683895804.270448;m3-1;[INFO: App       ] sending response
+1683895804.270573;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895804.270683;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895804.270786;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895804.270881;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 1, queue 1 1, len 21 47
+1683895804.271016;m3-1;[INFO: TSCH-LOG  ] {asn 00.00007003 link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  47, seq 172, edr   1
+1683895804.430182;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895804.430448;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895804.430574;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 1, status 0, tx 1
+1683895804.430687;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895804.433820;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895804.434041;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 1
+1683895804.434168;m3-2;[INFO: App       ] Received response 'hello 35' from fd00::a484
+1683895804.434315;m3-2;[INFO: TSCH-LOG  ] {asn 00.00007015 link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  47, seq   1, edr   1, dr  -1
+1683895804.446044;m3-1;[INFO: TSCH-LOG  ] {asn 00.00007015 link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  47, seq   1, st 0  1
+1683895804.673938;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 163, status 0, tx 1
+1683895804.674166;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000702d link  0 397   0 133  0 ch 25} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 163, st 0  1
+1683895810.209852;m3-2;[INFO: App       ] Sending request 36 to [INFO: App       ] 
+1683895810.210297;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895810.210438;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895810.225451;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 173, queue 1 1, len 21 47
+1683895810.369470;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895810.380685;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895810.380905;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 173
+1683895810.381032;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895810.381154;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895810.381264;m3-1;[INFO: App       ] Received request 'hello 36' from fd00::a685
+1683895810.385559;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895810.385772;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 173, status 0, tx 1
+1683895810.385899;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895810.386011;m3-2;[INFO: TSCH-LOG  ] {asn 00.00007267 link  1  17   0 13 135 ch 25} drift -2 ppm (min/max delta seen: -1/1)
+1683895810.386118;m3-2;[INFO: TSCH-LOG  ] {asn 00.00007267 link  1  17   0 13 135 ch 25} uc-1-0 tx LL-a685->LL-a484, len  47, seq 173, st 0  1, dr   0
+1683895810.395787;m3-1;[INFO: App       ] sending response
+1683895810.396001;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895810.396130;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895810.396241;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895810.396343;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 2, queue 1 1, len 21 47
+1683895810.396444;m3-1;[INFO: TSCH-LOG  ] {asn 00.00007267 link  1  17   0 13 134 ch 25} uc-1-0 rx LL-a685->LL-a484, len  47, seq 173, edr   0
+1683895810.555937;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895810.556220;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895810.556355;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 2, status 0, tx 1
+1683895810.556469;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895810.561564;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895810.561782;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 2
+1683895810.561908;m3-2;[INFO: App       ] Received response 'hello 36' from fd00::a484
+1683895810.562014;m3-2;[INFO: TSCH-LOG  ] {asn 00.00007279 link  1  17   0 14 135 ch 15} uc-1-0 rx LL-a484->LL-a685, len  47, seq   2, edr  -1, dr   1
+1683895810.571693;m3-1;[INFO: TSCH-LOG  ] {asn 00.00007279 link  1  17   0 14 134 ch 15} uc-1-0 tx LL-a484->LL-a685, len  47, seq   2, st 0  1
+1683895812.843652;m3-1;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895812.843924;m3-1;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895815.217431;m3-2;[INFO: Frame 15.4] Out:  0 ffff.0000.0000.0000 14 19 (35)
+1683895815.217699;m3-2;[INFO: TSCH      ] TSCH: enqueue EB packet 35 16
+1683895816.209327;m3-2;[INFO: App       ] Sending request 37 to [INFO: App       ] 
+1683895816.209614;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895816.209747;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895816.225019;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 174, queue 1 2, len 21 47
+1683895816.331610;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895816.331833;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 174
+1683895816.331958;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895816.337128;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895816.337344;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895816.337466;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 174, status 0, tx 1
+1683895816.337577;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895816.337682;m3-2;[INFO: TSCH-LOG  ] {asn 00.000074ba link  1  17   0 13 135 ch 15} drift -3 ppm (min/max delta seen: -1/1)
+1683895816.346877;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895816.347141;m3-1;[INFO: App       ] Received request 'hello 37' from fd00::a685
+1683895816.347268;m3-1;[INFO: App       ] sending response
+1683895816.347373;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895816.347476;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895816.347576;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895816.347671;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 3, queue 1 2, len 21 47
+1683895816.353022;m3-2;[INFO: TSCH-LOG  ] {asn 00.000074ba link  1  17   0 13 135 ch 15} uc-1-0 tx LL-a685->LL-a484, len  47, seq 174, st 0  1, dr  -1
+1683895816.362346;m3-1;[INFO: TSCH-LOG  ] {asn 00.000074ba link  1  17   0 13 134 ch 15} uc-1-0 rx LL-a685->LL-a484, len  47, seq 174, edr  -1
+1683895816.506388;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895816.506607;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895816.513034;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895816.513250;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 3
+1683895816.513378;m3-2;[INFO: App       ] Received response 'hello 37' from fd00::a484
+1683895816.513486;m3-2;[INFO: TSCH-LOG  ] {asn 00.000074cc link  1  17   0 14 135 ch 20} uc-1-0 rx LL-a484->LL-a685, len  47, seq   3, edr   0, dr   0
+1683895816.522359;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 3, status 0, tx 1
+1683895816.522576;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895816.522704;m3-1;[INFO: TSCH-LOG  ] {asn 00.000074cc link  1  17   0 14 134 ch 20} uc-1-0 tx LL-a484->LL-a685, len  47, seq   3, st 0  1
+1683895816.577269;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895816.577485;m3-2;[DBG : Frame 15.4] header ie: len 0 id 7e
+1683895816.577608;m3-2;[DBG : Frame 15.4] list termination 1, look for payload IEs
+1683895816.577717;m3-2;[DBG : Frame 15.4] ie type 1, current state 1
+1683895816.577816;m3-2;[DBG : Frame 15.4] payload ie: len 17 id 1
+1683895816.586375;m3-1;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 221, status 0, tx 1
+1683895816.586596;m3-1;[INFO: TSCH-LOG  ] {asn 00.000074d3 link  0 397   0 132  0 ch 20} bc-0-0 tx LL-a484->LL-NULL, len  35, seq 221, st 0  1
+1683895816.591307;m3-2;[DBG : Frame 15.4] entering MLME ie with len 17
+1683895816.591521;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895816.591645;m3-2;[DBG : Frame 15.4] short mlme ie len 6 id 1a
+1683895816.591748;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895816.591847;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1c
+1683895816.591942;m3-2;[DBG : Frame 15.4] ie type 1, current state 2
+1683895816.592037;m3-2;[DBG : Frame 15.4] long mlme ie len 1 id 9
+1683895816.592129;m3-2;[DBG : Frame 15.4] ie type 0, current state 2
+1683895816.592221;m3-2;[DBG : Frame 15.4] short mlme ie len 1 id 1b
+1683895816.592314;m3-2;[DBG : Frame 15.4] end of MLME IE parsing
+1683895816.607102;m3-2;[INFO: TSCH      ] packet sent to 0000.0000.0000.0000, seqno 164, status 0, tx 1
+1683895816.607319;m3-2;[INFO: TSCH-LOG  ] {asn 00.000074d3 link  0 397   0 132  0 ch 20} bc-0-0 rx LL-a484->LL-NULL, len  35, seq   3, edr   0, dr   0
+1683895816.607456;m3-2;[INFO: TSCH-LOG  ] {asn 00.000074d4 link  0 397   0 133  0 ch 15} bc-0-0 tx LL-a685->LL-NULL, len  35, seq 164, st 0  1
+1683895817.167081;m3-2;[INFO: RPL       ] nbr: own state, addr fd00::a685, DAG state: reachable, MOP 1 OCP 1 rank 256 max-rank 1280, dioint 17, nbr count 1 (Periodic)
+1683895817.167334;m3-2;[INFO: RPL       ] nbr: fe80::a484  128,   128 =>   256 -- 16 rbafp (last tx 0 min ago)
+1683895817.167463;m3-2;[INFO: RPL       ] nbr: end of list
+1683895817.194359;m3-1;[INFO: RPL       ] nbr: own state, addr fd00::a484, DAG state: reachable, MOP 1 OCP 1 rank 128 max-rank 65535, dioint 17, nbr count 1 (Periodic)
+1683895817.194588;m3-1;[INFO: RPL       ] nbr: fe80::a685  256,   128 =>   384 -- 16  baf  (last tx 0 min ago)
+1683895817.194716;m3-1;[INFO: RPL       ] nbr: end of list
+1683895817.194819;m3-1;[INFO: RPL       ] links: 2 routing links in total (Periodic)
+1683895817.194954;m3-1;[INFO: RPL       ] links: fd00::a484  (DODAG root) (lifetime: infinite)
+1683895817.195052;m3-1;[INFO: RPL       ] links: fd00::a685  to fd00::a484 (lifetime: 1560 seconds)
+1683895817.195149;m3-1;[INFO: RPL       ] links: end of list
+1683895822.207077;m3-2;[INFO: App       ] Sending request 38 to [INFO: App       ] 
+1683895822.207364;m3-2;[INFO: RPL       ] creating hop-by-hop option
+1683895822.222732;m3-2;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a484 21 26 (47)
+1683895822.222988;m3-2;[INFO: TSCH      ] send packet to 0200.0000.0000.a484 with seqno 175, queue 1 1, len 21 47
+1683895822.282129;m3-1;[INFO: Frame 15.4] In:  1 0200.0000.0000.a685 0200.0000.0000.a484 21 26 (47)
+1683895822.282404;m3-1;[INFO: TSCH      ] received from 0200.0000.0000.a685 with seqno 175
+1683895822.286720;m3-2;[DBG : Frame 15.4] ie type 0, current state 0
+1683895822.287036;m3-2;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895822.287225;m3-2;[INFO: TSCH      ] packet sent to 0200.0000.0000.a484, seqno 175, status 0, tx 1
+1683895822.294303;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895822.294529;m3-1;[INFO: RPL       ] ext hdr: packet from fd00::a685 to fd00::a484 going up, sender closer 0 (256 < 128), rank error 0, loop detected 0
+1683895822.294664;m3-1;[INFO: App       ] Received request 'hello 38' from fd00::a685
+1683895822.294777;m3-1;[INFO: App       ] sending response
+1683895822.294877;m3-1;[INFO: RPL       ] SRH creating source routing header with destination fd00::a685 
+1683895822.302658;m3-2;[INFO: RPL       ] packet sent to 0200.0000.0000.a484, status 0, tx 1, new link metric 128
+1683895822.302879;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000770d link  1  17   0 13 135 ch 20} drift -2 ppm (min/max delta seen: -1/1)
+1683895822.303049;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000770d link  1  17   0 13 135 ch 20} uc-1-0 tx LL-a685->LL-a484, len  47, seq 175, st 0  1, dr   1
+1683895822.309962;m3-1;[INFO: RPL       ] SRH path len: 0, ComprI 15, ComprE 15, ext len 8 (padding 0)
+1683895822.310183;m3-1;[INFO: Frame 15.4] Out:  1 0200.0000.0000.a685 21 26 (47)
+1683895822.310369;m3-1;[INFO: TSCH      ] send packet to 0200.0000.0000.a685 with seqno 4, queue 1 1, len 21 47
+1683895822.310482;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000770d link  1  17   0 13 134 ch 20} uc-1-0 rx LL-a685->LL-a484, len  47, seq 175, edr   1
+1683895822.462781;m3-2;[INFO: Frame 15.4] In:  1 0200.0000.0000.a484 0200.0000.0000.a685 21 26 (47)
+1683895822.463039;m3-2;[INFO: TSCH      ] received from 0200.0000.0000.a484 with seqno 4
+1683895822.470107;m3-1;[DBG : Frame 15.4] ie type 0, current state 0
+1683895822.470364;m3-1;[DBG : Frame 15.4] header ie: len 2 id 1e
+1683895822.470495;m3-1;[INFO: TSCH      ] packet sent to 0200.0000.0000.a685, seqno 4, status 0, tx 1
+1683895822.470607;m3-1;[INFO: RPL       ] packet sent to 0200.0000.0000.a685, status 0, tx 1, new link metric 128
+1683895822.470715;m3-1;[INFO: TSCH-LOG  ] {asn 00.0000771f link  1  17   0 14 134 ch 26} uc-1-0 tx LL-a484->LL-a685, len  47, seq   4, st 0  1
+1683895822.478628;m3-2;[INFO: App       ] Received response 'hello 38' from fd00::a484
+1683895822.478842;m3-2;[INFO: TSCH-LOG  ] {asn 00.0000771f link  1  17   0 14 135 ch 26} uc-1-0 rx LL-a484->LL-a685, len  47, seq   4, edr   0, dr   0
