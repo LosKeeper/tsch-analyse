@@ -1,0 +1,398 @@
+1683822549.967474;m3-1;[WARN: CSMA      ] not for us
+1683822549.967766;m3-1;[WARN: CSMA      ] not for us
+1683822549.967895;m3-1;[WARN: CSMA      ] not for us
+1683822549.968000;m3-1;[WARN: CSMA      ] not for us
+1683822549.969913;m3-2;[WARN: CSMA      ] not for us
+1683822549.970125;m3-2;[WARN: CSMA      ] not for us
+1683822549.970303;m3-2;[WARN: CSMA      ] not for us
+1683822549.970454;m3-2;[WARN: CSMA      ] not for us
+1683822550.129692;m3-2;[INFO: App       ] Not reachable yet
+1683822550.335341;m3-1;[WARN: CSMA      ] not for us
+1683822550.335503;m3-1;[WARN: CSMA      ] not for us
+1683822550.337821;m3-2;[WARN: CSMA      ] not for us
+1683822550.338034;m3-2;[WARN: CSMA      ] not for us
+1683822550.687391;m3-1;[WARN: CSMA      ] not for us
+1683822550.687672;m3-1;[WARN: CSMA      ] not for us
+1683822550.689739;m3-2;[WARN: CSMA      ] not for us
+1683822550.689951;m3-2;[WARN: CSMA      ] not for us
+1683822554.129721;m3-2;[WARN: RPL       ] found parent: fe80::a484, staying in DAG
+1683822555.407229;m3-1;[WARN: CSMA      ] not for us
+1683822555.407471;m3-1;[WARN: CSMA      ] not for us
+1683822555.409592;m3-2;[WARN: CSMA      ] not for us
+1683822555.409809;m3-2;[WARN: CSMA      ] not for us
+1683822555.441516;m3-2;[WARN: CSMA      ] not for us
+1683822555.455022;m3-1;[WARN: CSMA      ] not for us
+1683822555.455242;m3-1;[WARN: CSMA      ] not for us
+1683822555.457474;m3-2;[WARN: CSMA      ] not for us
+1683822555.775059;m3-1;[WARN: CSMA      ] not for us
+1683822555.775280;m3-1;[WARN: CSMA      ] not for us
+1683822555.777353;m3-2;[WARN: CSMA      ] not for us
+1683822555.777573;m3-2;[WARN: CSMA      ] not for us
+1683822555.790969;m3-1;[WARN: CSMA      ] not for us
+1683822555.791188;m3-1;[WARN: CSMA      ] not for us
+1683822555.793280;m3-2;[WARN: CSMA      ] not for us
+1683822555.793501;m3-2;[WARN: CSMA      ] not for us
+1683822556.127009;m3-1;[WARN: CSMA      ] not for us
+1683822556.127230;m3-1;[WARN: CSMA      ] not for us
+1683822556.129518;m3-2;[WARN: CSMA      ] not for us
+1683822556.129739;m3-2;[WARN: CSMA      ] not for us
+1683822556.129866;m3-2;[INFO: App       ] Not reachable yet
+1683822556.494928;m3-1;[WARN: CSMA      ] not for us
+1683822556.495146;m3-1;[WARN: CSMA      ] not for us
+1683822556.497378;m3-2;[WARN: CSMA      ] not for us
+1683822556.497595;m3-2;[WARN: CSMA      ] not for us
+1683822561.534796;m3-1;[WARN: CSMA      ] not for us
+1683822561.535084;m3-1;[WARN: CSMA      ] not for us
+1683822561.537226;m3-2;[WARN: CSMA      ] not for us
+1683822561.537447;m3-2;[WARN: CSMA      ] not for us
+1683822561.566636;m3-1;[WARN: CSMA      ] not for us
+1683822561.569043;m3-2;[WARN: CSMA      ] not for us
+1683822561.569262;m3-2;[WARN: CSMA      ] not for us
+1683822561.582560;m3-1;[WARN: CSMA      ] not for us
+1683822561.902699;m3-1;[WARN: CSMA      ] not for us
+1683822561.902919;m3-1;[WARN: CSMA      ] not for us
+1683822561.905086;m3-2;[WARN: CSMA      ] not for us
+1683822561.905305;m3-2;[WARN: CSMA      ] not for us
+1683822561.918643;m3-1;[WARN: CSMA      ] not for us
+1683822561.918861;m3-1;[WARN: CSMA      ] not for us
+1683822561.920997;m3-2;[WARN: CSMA      ] not for us
+1683822561.921212;m3-2;[WARN: CSMA      ] not for us
+1683822562.128923;m3-2;[INFO: App       ] Sending request 0 to [INFO: App       ] 
+1683822562.190561;m3-1;[INFO: App       ] Received request 'hello 0' from fd00::a685
+1683822562.190784;m3-1;[INFO: App       ] sending response
+1683822562.208885;m3-2;[INFO: App       ] Received response 'hello 0' from fd00::a484
+1683822562.254391;m3-1;[WARN: CSMA      ] not for us
+1683822562.254656;m3-1;[WARN: CSMA      ] not for us
+1683822562.256869;m3-2;[WARN: CSMA      ] not for us
+1683822562.257086;m3-2;[WARN: CSMA      ] not for us
+1683822562.622478;m3-1;[WARN: CSMA      ] not for us
+1683822562.622698;m3-1;[WARN: CSMA      ] not for us
+1683822562.624941;m3-2;[WARN: CSMA      ] not for us
+1683822562.625157;m3-2;[WARN: CSMA      ] not for us
+1683822567.662431;m3-1;[WARN: CSMA      ] not for us
+1683822567.664848;m3-2;[WARN: CSMA      ] not for us
+1683822567.665071;m3-2;[WARN: CSMA      ] not for us
+1683822568.030145;m3-1;[WARN: CSMA      ] not for us
+1683822568.030487;m3-1;[WARN: CSMA      ] not for us
+1683822568.032651;m3-2;[WARN: CSMA      ] not for us
+1683822568.032868;m3-2;[WARN: CSMA      ] not for us
+1683822568.128627;m3-2;[INFO: App       ] Sending request 1 to [INFO: App       ] 
+1683822568.190092;m3-1;[INFO: App       ] Received request 'hello 1' from fd00::a685
+1683822568.190372;m3-1;[INFO: App       ] sending response
+1683822568.240577;m3-2;[INFO: App       ] Received response 'hello 1' from fd00::a484
+1683822573.469890;m3-1;[WARN: CSMA      ] not for us
+1683822573.470158;m3-1;[WARN: CSMA      ] not for us
+1683822573.472395;m3-2;[WARN: CSMA      ] not for us
+1683822573.472615;m3-2;[WARN: CSMA      ] not for us
+1683822573.776232;m3-2;[WARN: CSMA      ] not for us
+1683822573.789708;m3-1;[WARN: CSMA      ] not for us
+1683822573.789926;m3-1;[WARN: CSMA      ] not for us
+1683822573.790050;m3-1;[WARN: CSMA      ] not for us
+1683822573.790155;m3-1;[WARN: CSMA      ] not for us
+1683822573.792187;m3-2;[WARN: CSMA      ] not for us
+1683822573.792404;m3-2;[WARN: CSMA      ] not for us
+1683822573.792526;m3-2;[WARN: CSMA      ] not for us
+1683822574.128325;m3-2;[INFO: App       ] Sending request 2 to [INFO: App       ] 
+1683822574.189802;m3-1;[INFO: App       ] Received request 'hello 2' from fd00::a685
+1683822574.190025;m3-1;[INFO: App       ] sending response
+1683822574.192211;m3-2;[INFO: App       ] Received response 'hello 2' from fd00::a484
+1683822579.597440;m3-1;[WARN: CSMA      ] not for us
+1683822579.597721;m3-1;[WARN: CSMA      ] not for us
+1683822579.599962;m3-2;[WARN: CSMA      ] not for us
+1683822579.600181;m3-2;[WARN: CSMA      ] not for us
+1683822579.613221;m3-1;[WARN: CSMA      ] not for us
+1683822579.613439;m3-1;[WARN: CSMA      ] not for us
+1683822579.615780;m3-2;[WARN: CSMA      ] not for us
+1683822579.615996;m3-2;[WARN: CSMA      ] not for us
+1683822579.949351;m3-1;[WARN: CSMA      ] not for us
+1683822579.949569;m3-1;[WARN: CSMA      ] not for us
+1683822579.951917;m3-2;[WARN: CSMA      ] not for us
+1683822579.952137;m3-2;[WARN: CSMA      ] not for us
+1683822580.127921;m3-2;[INFO: App       ] Sending request 3 to [INFO: App       ] 
+1683822580.173247;m3-1;[INFO: App       ] Received request 'hello 3' from fd00::a685
+1683822580.173468;m3-1;[INFO: App       ] sending response
+1683822580.191836;m3-2;[INFO: App       ] Received response 'hello 3' from fd00::a484
+1683822580.271778;m3-2;[WARN: CSMA      ] not for us
+1683822580.285125;m3-1;[WARN: CSMA      ] not for us
+1683822580.285340;m3-1;[WARN: CSMA      ] not for us
+1683822580.285462;m3-1;[WARN: CSMA      ] not for us
+1683822580.285566;m3-1;[WARN: CSMA      ] not for us
+1683822580.287752;m3-2;[WARN: CSMA      ] not for us
+1683822580.287971;m3-2;[WARN: CSMA      ] not for us
+1683822580.288096;m3-2;[WARN: CSMA      ] not for us
+1683822585.724986;m3-1;[WARN: CSMA      ] not for us
+1683822585.725250;m3-1;[WARN: CSMA      ] not for us
+1683822585.727526;m3-2;[WARN: CSMA      ] not for us
+1683822585.727673;m3-2;[WARN: CSMA      ] not for us
+1683822585.727777;m3-2;[WARN: CSMA      ] not for us
+1683822585.727871;m3-2;[WARN: CSMA      ] not for us
+1683822585.740747;m3-1;[WARN: CSMA      ] not for us
+1683822585.740959;m3-1;[WARN: CSMA      ] not for us
+1683822586.028915;m3-1;[WARN: CSMA      ] not for us
+1683822586.029171;m3-1;[WARN: CSMA      ] not for us
+1683822586.031460;m3-2;[WARN: CSMA      ] not for us
+1683822586.031669;m3-2;[WARN: CSMA      ] not for us
+1683822586.076757;m3-1;[WARN: CSMA      ] not for us
+1683822586.076968;m3-1;[WARN: CSMA      ] not for us
+1683822586.077089;m3-1;[WARN: CSMA      ] not for us
+1683822586.079341;m3-2;[WARN: CSMA      ] not for us
+1683822586.079550;m3-2;[WARN: CSMA      ] not for us
+1683822586.079674;m3-2;[WARN: CSMA      ] not for us
+1683822586.079777;m3-2;[WARN: CSMA      ] not for us
+1683822586.092621;m3-1;[WARN: CSMA      ] not for us
+1683822586.127084;m3-2;[INFO: App       ] Sending request 4 to [INFO: App       ] 
+1683822586.156675;m3-1;[INFO: App       ] Received request 'hello 4' from fd00::a685
+1683822586.156856;m3-1;[INFO: App       ] sending response
+1683822586.175206;m3-2;[INFO: App       ] Received response 'hello 4' from fd00::a484
+1683822586.444744;m3-1;[WARN: CSMA      ] not for us
+1683822586.444999;m3-1;[WARN: CSMA      ] not for us
+1683822586.447202;m3-2;[WARN: CSMA      ] not for us
+1683822586.447418;m3-2;[WARN: CSMA      ] not for us
+1683822592.127312;m3-2;[INFO: App       ] Sending request 5 to [INFO: App       ] 
+1683822592.188446;m3-1;[INFO: App       ] Received request 'hello 5' from fd00::a685
+1683822592.188705;m3-1;[INFO: App       ] sending response
+1683822592.238770;m3-2;[INFO: App       ] Received response 'hello 5' from fd00::a484
+1683822592.558897;m3-2;[WARN: CSMA      ] not for us
+1683822592.572292;m3-1;[WARN: CSMA      ] not for us
+1683822592.572511;m3-1;[WARN: CSMA      ] not for us
+1683822592.574793;m3-2;[WARN: CSMA      ] not for us
+1683822598.126775;m3-2;[INFO: App       ] Sending request 6 to [INFO: App       ] 
+1683822598.172257;m3-1;[INFO: App       ] Received request 'hello 6' from fd00::a685
+1683822598.172507;m3-1;[INFO: App       ] sending response
+1683822598.190654;m3-2;[INFO: App       ] Received response 'hello 6' from fd00::a484
+1683822598.686558;m3-2;[WARN: CSMA      ] not for us
+1683822598.686809;m3-2;[WARN: CSMA      ] not for us
+1683822598.699840;m3-1;[WARN: CSMA      ] not for us
+1683822598.700048;m3-1;[WARN: CSMA      ] not for us
+1683822604.126443;m3-2;[INFO: App       ] Sending request 7 to [INFO: App       ] 
+1683822604.187772;m3-1;[INFO: App       ] Received request 'hello 7' from fd00::a685
+1683822604.188032;m3-1;[INFO: App       ] sending response
+1683822604.238314;m3-2;[INFO: App       ] Received response 'hello 7' from fd00::a484
+1683822610.126096;m3-2;[INFO: App       ] Sending request 8 to [INFO: App       ] 
+1683822610.155325;m3-1;[INFO: App       ] Received request 'hello 8' from fd00::a685
+1683822610.155553;m3-1;[INFO: App       ] sending response
+1683822610.189821;m3-2;[INFO: App       ] Received response 'hello 8' from fd00::a484
+1683822616.125799;m3-2;[INFO: App       ] Sending request 9 to [INFO: App       ] 
+1683822616.186934;m3-1;[INFO: App       ] Received request 'hello 9' from fd00::a685
+1683822616.202691;m3-1;[INFO: App       ] sending response
+1683822616.253411;m3-2;[INFO: App       ] Received response 'hello 9' from fd00::a484
+1683822616.381404;m3-2;[WARN: CSMA      ] not for us
+1683822616.381624;m3-2;[WARN: CSMA      ] not for us
+1683822616.394741;m3-1;[WARN: CSMA      ] not for us
+1683822616.394955;m3-1;[WARN: CSMA      ] not for us
+1683822622.125406;m3-2;[INFO: App       ] Sending request 10 to [INFO: App       ] 
+1683822622.154568;m3-1;[INFO: App       ] Received request 'hello 10' from fd00::a685
+1683822622.154794;m3-1;[INFO: App       ] sending response
+1683822622.157131;m3-2;[INFO: App       ] Received response 'hello 10' from fd00::a484
+1683822622.506432;m3-1;[WARN: CSMA      ] not for us
+1683822622.506696;m3-1;[WARN: CSMA      ] not for us
+1683822622.509112;m3-2;[WARN: CSMA      ] not for us
+1683822622.509391;m3-2;[WARN: CSMA      ] not for us
+1683822628.124938;m3-2;[INFO: App       ] Sending request 11 to [INFO: App       ] 
+1683822628.137979;m3-1;[INFO: App       ] Received request 'hello 11' from fd00::a685
+1683822628.138249;m3-1;[INFO: App       ] sending response
+1683822628.188715;m3-2;[INFO: App       ] Received response 'hello 11' from fd00::a484
+1683822628.633887;m3-1;[WARN: CSMA      ] not for us
+1683822628.634116;m3-1;[WARN: CSMA      ] not for us
+1683822628.636732;m3-2;[WARN: CSMA      ] not for us
+1683822628.636951;m3-2;[WARN: CSMA      ] not for us
+1683822634.124517;m3-2;[INFO: App       ] Sending request 12 to [INFO: App       ] 
+1683822634.137753;m3-1;[INFO: App       ] Received request 'hello 12' from fd00::a685
+1683822634.137978;m3-1;[INFO: App       ] sending response
+1683822634.188297;m3-2;[INFO: App       ] Received response 'hello 12' from fd00::a484
+1683822640.124076;m3-2;[INFO: App       ] Sending request 13 to [INFO: App       ] 
+1683822640.169315;m3-1;[INFO: App       ] Received request 'hello 13' from fd00::a685
+1683822640.169543;m3-1;[INFO: App       ] sending response
+1683822640.187822;m3-2;[INFO: App       ] Received response 'hello 13' from fd00::a484
+1683822646.139653;m3-2;[INFO: App       ] Sending request 14 to [INFO: App       ] 
+1683822646.168864;m3-1;[INFO: App       ] Received request 'hello 14' from fd00::a685
+1683822646.169085;m3-1;[INFO: App       ] sending response
+1683822646.203548;m3-2;[INFO: App       ] Received response 'hello 14' from fd00::a484
+1683822652.136445;m3-1;[INFO: App       ] Received request 'hello 15' from fd00::a685
+1683822652.136717;m3-1;[INFO: App       ] sending response
+1683822652.139178;m3-2;[INFO: App       ] Sending request 15 to [INFO: App       ] 
+1683822652.171132;m3-2;[INFO: App       ] Received response 'hello 15' from fd00::a484
+1683822652.456253;m3-1;[WARN: CSMA      ] not for us
+1683822652.456471;m3-1;[WARN: CSMA      ] not for us
+1683822652.459172;m3-2;[WARN: CSMA      ] not for us
+1683822652.459390;m3-2;[WARN: CSMA      ] not for us
+1683822658.138784;m3-2;[INFO: App       ] Sending request 16 to [INFO: App       ] 
+1683822658.199986;m3-1;[INFO: App       ] Received request 'hello 16' from fd00::a685
+1683822658.200211;m3-1;[INFO: App       ] sending response
+1683822658.234752;m3-2;[INFO: App       ] Received response 'hello 16' from fd00::a484
+1683822658.583825;m3-1;[WARN: CSMA      ] not for us
+1683822658.584044;m3-1;[WARN: CSMA      ] not for us
+1683822658.586762;m3-2;[WARN: CSMA      ] not for us
+1683822658.586979;m3-2;[WARN: CSMA      ] not for us
+1683822664.138604;m3-2;[INFO: App       ] Sending request 17 to [INFO: App       ] 
+1683822664.183594;m3-1;[INFO: App       ] Received request 'hello 17' from fd00::a685
+1683822664.183819;m3-1;[INFO: App       ] sending response
+1683822664.186350;m3-2;[INFO: App       ] Received response 'hello 17' from fd00::a484
+1683822664.711355;m3-1;[WARN: CSMA      ] not for us
+1683822664.711573;m3-1;[WARN: CSMA      ] not for us
+1683822664.714356;m3-2;[WARN: CSMA      ] not for us
+1683822664.714617;m3-2;[WARN: CSMA      ] not for us
+1683822670.138303;m3-2;[INFO: App       ] Sending request 18 to [INFO: App       ] 
+1683822670.167116;m3-1;[INFO: App       ] Received request 'hello 18' from fd00::a685
+1683822670.167341;m3-1;[INFO: App       ] sending response
+1683822670.202059;m3-2;[INFO: App       ] Received response 'hello 18' from fd00::a484
+1683822676.137878;m3-2;[INFO: App       ] Sending request 19 to [INFO: App       ] 
+1683822676.182798;m3-1;[INFO: App       ] Received request 'hello 19' from fd00::a685
+1683822676.183024;m3-1;[INFO: App       ] sending response
+1683822676.185634;m3-2;[INFO: App       ] Received response 'hello 19' from fd00::a484
+1683822682.137445;m3-2;[INFO: App       ] Sending request 20 to [INFO: App       ] 
+1683822682.182165;m3-1;[INFO: App       ] Received request 'hello 20' from fd00::a685
+1683822682.182466;m3-1;[INFO: App       ] sending response
+1683822682.217215;m3-2;[INFO: App       ] Received response 'hello 20' from fd00::a484
+1683822682.406159;m3-1;[WARN: CSMA      ] not for us
+1683822682.406467;m3-1;[WARN: CSMA      ] not for us
+1683822682.409222;m3-2;[WARN: CSMA      ] not for us
+1683822682.409440;m3-2;[WARN: CSMA      ] not for us
+1683822688.137020;m3-2;[INFO: App       ] Sending request 21 to [INFO: App       ] 
+1683822688.149886;m3-1;[INFO: App       ] Received request 'hello 21' from fd00::a685
+1683822688.150110;m3-1;[INFO: App       ] sending response
+1683822688.200814;m3-2;[INFO: App       ] Received response 'hello 21' from fd00::a484
+1683822688.533734;m3-1;[WARN: CSMA      ] not for us
+1683822688.533953;m3-1;[WARN: CSMA      ] not for us
+1683822688.536753;m3-2;[WARN: CSMA      ] not for us
+1683822688.536969;m3-2;[WARN: CSMA      ] not for us
+1683822694.136597;m3-2;[INFO: App       ] Sending request 22 to [INFO: App       ] 
+1683822694.149486;m3-1;[INFO: App       ] Received request 'hello 22' from fd00::a685
+1683822694.149710;m3-1;[INFO: App       ] sending response
+1683822694.168389;m3-2;[INFO: App       ] Received response 'hello 22' from fd00::a484
+1683822694.648420;m3-2;[WARN: CSMA      ] not for us
+1683822694.648640;m3-2;[WARN: CSMA      ] not for us
+1683822694.661310;m3-1;[WARN: CSMA      ] not for us
+1683822694.661529;m3-1;[WARN: CSMA      ] not for us
+1683822700.136258;m3-2;[INFO: App       ] Sending request 23 to [INFO: App       ] 
+1683822700.149031;m3-1;[INFO: App       ] Received request 'hello 23' from fd00::a685
+1683822700.149254;m3-1;[INFO: App       ] sending response
+1683822700.200033;m3-2;[INFO: App       ] Received response 'hello 23' from fd00::a484
+1683822706.135926;m3-2;[INFO: App       ] Sending request 24 to [INFO: App       ] 
+1683822706.148605;m3-1;[INFO: App       ] Received request 'hello 24' from fd00::a685
+1683822706.148832;m3-1;[INFO: App       ] sending response
+1683822706.151721;m3-2;[INFO: App       ] Received response 'hello 24' from fd00::a484
+1683822712.135493;m3-2;[INFO: App       ] Sending request 25 to [INFO: App       ] 
+1683822712.148278;m3-1;[INFO: App       ] Received request 'hello 25' from fd00::a685
+1683822712.148502;m3-1;[INFO: App       ] sending response
+1683822712.167273;m3-2;[INFO: App       ] Received response 'hello 25' from fd00::a484
+1683822718.135059;m3-2;[INFO: App       ] Sending request 26 to [INFO: App       ] 
+1683822718.195847;m3-1;[INFO: App       ] Received request 'hello 26' from fd00::a685
+1683822718.196072;m3-1;[INFO: App       ] sending response
+1683822718.214844;m3-2;[INFO: App       ] Received response 'hello 26' from fd00::a484
+1683822718.467701;m3-1;[WARN: CSMA      ] not for us
+1683822718.470847;m3-2;[WARN: CSMA      ] not for us
+1683822718.471064;m3-2;[WARN: CSMA      ] not for us
+1683822718.483629;m3-1;[WARN: CSMA      ] not for us
+1683822724.134805;m3-2;[INFO: App       ] Sending request 27 to [INFO: App       ] 
+1683822724.147408;m3-1;[INFO: App       ] Received request 'hello 27' from fd00::a685
+1683822724.147631;m3-1;[INFO: App       ] sending response
+1683822724.150632;m3-2;[INFO: App       ] Received response 'hello 27' from fd00::a484
+1683822724.595211;m3-1;[WARN: CSMA      ] not for us
+1683822724.595430;m3-1;[WARN: CSMA      ] not for us
+1683822724.598486;m3-2;[WARN: CSMA      ] not for us
+1683822724.598703;m3-2;[WARN: CSMA      ] not for us
+1683822730.134427;m3-2;[INFO: App       ] Sending request 28 to [INFO: App       ] 
+1683822730.178894;m3-1;[INFO: App       ] Received request 'hello 28' from fd00::a685
+1683822730.179119;m3-1;[INFO: App       ] sending response
+1683822730.214130;m3-2;[INFO: App       ] Received response 'hello 28' from fd00::a484
+1683822736.133942;m3-2;[INFO: App       ] Sending request 29 to [INFO: App       ] 
+1683822736.146566;m3-1;[INFO: App       ] Received request 'hello 29' from fd00::a685
+1683822736.146793;m3-1;[INFO: App       ] sending response
+1683822736.149730;m3-2;[INFO: App       ] Received response 'hello 29' from fd00::a484
+1683822742.130133;m3-1;[INFO: App       ] Received request 'hello 30' from fd00::a685
+1683822742.130517;m3-1;[INFO: App       ] sending response
+1683822742.133507;m3-2;[INFO: App       ] Sending request 30 to [INFO: App       ] 
+1683822742.149296;m3-2;[INFO: App       ] Received response 'hello 30' from fd00::a484
+1683822748.129794;m3-1;[INFO: App       ] Received request 'hello 31' from fd00::a685
+1683822748.133215;m3-2;[INFO: App       ] Sending request 31 to [INFO: App       ] 
+1683822748.145448;m3-1;[INFO: App       ] sending response
+1683822748.164889;m3-2;[INFO: App       ] Received response 'hello 31' from fd00::a484
+1683822748.417423;m3-1;[WARN: CSMA      ] not for us
+1683822748.417642;m3-1;[WARN: CSMA      ] not for us
+1683822748.420875;m3-2;[WARN: CSMA      ] not for us
+1683822748.421093;m3-2;[WARN: CSMA      ] not for us
+1683822754.132839;m3-2;[INFO: App       ] Sending request 32 to [INFO: App       ] 
+1683822754.161346;m3-1;[INFO: App       ] Received request 'hello 32' from fd00::a685
+1683822754.161570;m3-1;[INFO: App       ] sending response
+1683822754.164606;m3-2;[INFO: App       ] Received response 'hello 32' from fd00::a484
+1683822754.545047;m3-1;[WARN: CSMA      ] not for us
+1683822754.545264;m3-1;[WARN: CSMA      ] not for us
+1683822754.548490;m3-2;[WARN: CSMA      ] not for us
+1683822754.548710;m3-2;[WARN: CSMA      ] not for us
+1683822760.132381;m3-2;[INFO: App       ] Sending request 33 to [INFO: App       ] 
+1683822760.160885;m3-1;[INFO: App       ] Received request 'hello 33' from fd00::a685
+1683822760.161108;m3-1;[INFO: App       ] sending response
+1683822760.212317;m3-2;[INFO: App       ] Received response 'hello 33' from fd00::a484
+1683822760.672711;m3-1;[WARN: CSMA      ] not for us
+1683822760.672930;m3-1;[WARN: CSMA      ] not for us
+1683822760.676231;m3-2;[WARN: CSMA      ] not for us
+1683822760.676449;m3-2;[WARN: CSMA      ] not for us
+1683822766.131999;m3-2;[INFO: App       ] Sending request 34 to [INFO: App       ] 
+1683822766.144233;m3-1;[INFO: App       ] Received request 'hello 34' from fd00::a685
+1683822766.144458;m3-1;[INFO: App       ] sending response
+1683822766.147765;m3-2;[INFO: App       ] Received response 'hello 34' from fd00::a484
+1683822772.131598;m3-2;[INFO: App       ] Sending request 35 to [INFO: App       ] 
+1683822772.159997;m3-1;[INFO: App       ] Received request 'hello 35' from fd00::a685
+1683822772.160223;m3-1;[INFO: App       ] sending response
+1683822772.179384;m3-2;[INFO: App       ] Received response 'hello 35' from fd00::a484
+1683822778.131216;m3-2;[INFO: App       ] Sending request 36 to [INFO: App       ] 
+1683822778.143601;m3-1;[INFO: App       ] Received request 'hello 36' from fd00::a685
+1683822778.143825;m3-1;[INFO: App       ] sending response
+1683822778.195079;m3-2;[INFO: App       ] Received response 'hello 36' from fd00::a484
+1683822784.130846;m3-2;[INFO: App       ] Sending request 37 to [INFO: App       ] 
+1683822784.143242;m3-1;[INFO: App       ] Received request 'hello 37' from fd00::a685
+1683822784.143464;m3-1;[INFO: App       ] sending response
+1683822784.146703;m3-2;[INFO: App       ] Received response 'hello 37' from fd00::a484
+1683822784.495032;m3-1;[WARN: CSMA      ] not for us
+1683822784.495248;m3-1;[WARN: CSMA      ] not for us
+1683822784.498736;m3-2;[WARN: CSMA      ] not for us
+1683822784.498952;m3-2;[WARN: CSMA      ] not for us
+1683822790.130461;m3-2;[INFO: App       ] Sending request 38 to [INFO: App       ] 
+1683822790.158817;m3-1;[INFO: App       ] Received request 'hello 38' from fd00::a685
+1683822790.159037;m3-1;[INFO: App       ] sending response
+1683822790.178250;m3-2;[INFO: App       ] Received response 'hello 38' from fd00::a484
+1683822790.610371;m3-2;[WARN: CSMA      ] not for us
+1683822790.610625;m3-2;[WARN: CSMA      ] not for us
+1683822790.622597;m3-1;[WARN: CSMA      ] not for us
+1683822790.622811;m3-1;[WARN: CSMA      ] not for us
+1683822796.129998;m3-2;[INFO: App       ] Sending request 39 to [INFO: App       ] 
+1683822796.158417;m3-1;[INFO: App       ] Received request 'hello 39' from fd00::a685
+1683822796.158648;m3-1;[INFO: App       ] sending response
+1683822796.161836;m3-2;[INFO: App       ] Received response 'hello 39' from fd00::a484
+1683822802.129721;m3-2;[INFO: App       ] Sending request 40 to [INFO: App       ] 
+1683822802.141841;m3-1;[INFO: App       ] Received request 'hello 40' from fd00::a685
+1683822802.142071;m3-1;[INFO: App       ] sending response
+1683822802.177476;m3-2;[INFO: App       ] Received response 'hello 40' from fd00::a484
+1683822808.129295;m3-2;[INFO: App       ] Sending request 41 to [INFO: App       ] 
+1683822808.173274;m3-1;[INFO: App       ] Received request 'hello 41' from fd00::a685
+1683822808.173500;m3-1;[INFO: App       ] sending response
+1683822808.209081;m3-2;[INFO: App       ] Received response 'hello 41' from fd00::a484
+1683822814.128883;m3-2;[INFO: App       ] Sending request 42 to [INFO: App       ] 
+1683822814.141050;m3-1;[INFO: App       ] Received request 'hello 42' from fd00::a685
+1683822814.141276;m3-1;[INFO: App       ] sending response
+1683822814.144666;m3-2;[INFO: App       ] Received response 'hello 42' from fd00::a484
+1683822820.128479;m3-2;[INFO: App       ] Sending request 43 to [INFO: App       ] 
+1683822820.140589;m3-1;[INFO: App       ] Received request 'hello 43' from fd00::a685
+1683822820.140810;m3-1;[INFO: App       ] sending response
+1683822820.176241;m3-2;[INFO: App       ] Received response 'hello 43' from fd00::a484
+1683822826.128061;m3-2;[INFO: App       ] Sending request 44 to [INFO: App       ] 
+1683822826.188268;m3-1;[INFO: App       ] Received request 'hello 44' from fd00::a685
+1683822826.204029;m3-1;[INFO: App       ] sending response
+1683822826.223814;m3-2;[INFO: App       ] Received response 'hello 44' from fd00::a484
+1683822832.127737;m3-2;[INFO: App       ] Sending request 45 to [INFO: App       ] 
+1683822832.139811;m3-1;[INFO: App       ] Received request 'hello 45' from fd00::a685
+1683822832.140030;m3-1;[INFO: App       ] sending response
+1683822832.191525;m3-2;[INFO: App       ] Received response 'hello 45' from fd00::a484
+1683822838.127331;m3-2;[INFO: App       ] Sending request 46 to [INFO: App       ] 
+1683822838.171396;m3-1;[INFO: App       ] Received request 'hello 46' from fd00::a685
+1683822838.171615;m3-1;[INFO: App       ] sending response
+1683822838.207124;m3-2;[INFO: App       ] Received response 'hello 46' from fd00::a484
+1683822844.126935;m3-2;[INFO: App       ] Sending request 47 to [INFO: App       ] 
+1683822844.138964;m3-1;[INFO: App       ] Received request 'hello 47' from fd00::a685
+1683822844.139184;m3-1;[INFO: App       ] sending response
+1683822844.158694;m3-2;[INFO: App       ] Received response 'hello 47' from fd00::a484
+1683822850.126601;m3-2;[INFO: App       ] Sending request 48 to [INFO: App       ] 
+1683822850.170587;m3-1;[INFO: App       ] Received request 'hello 48' from fd00::a685
+1683822850.170813;m3-1;[INFO: App       ] sending response
+1683822850.206354;m3-2;[INFO: App       ] Received response 'hello 48' from fd00::a484
